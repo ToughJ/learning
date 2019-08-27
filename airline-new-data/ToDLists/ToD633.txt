@@ -1,0 +1,13 @@
+ToD 0 : 
+Sec: 0 Plane index : 1SZX --> XUZ  weekday : 1 time : 12:10 -- 14:25
+Sec: 1 Plane index : 1XUZ --> SZX  weekday : 1 time : 18:50 -- 21:35
+Sec: 2 Plane index : 1SZX --> HGH  weekday : 1 time : 22:35 -- 00:35
+ToD 1 : 
+Sec: 4 Plane index : 1HGH --> AVA  weekday : 3 time : 07:15 -- 10:00
+Sec: 5 Plane index : 1AVA --> LJG  weekday : 3 time : 10:45 -- 12:15
+Sec: 6 Plane index : 1LJG --> HAN  weekday : 3 time : 13:00 -- 15:05
+Sec: 7 Plane index : 1HAN --> LJG  weekday : 3 time : 16:05 -- 18:00
+ToD 2 : 
+Sec: 9 Plane index : 1LJG --> ZYI  weekday : 4 time : 17:35 -- 19:10
+Sec: 10 Plane index : 1ZYI --> HGH  weekday : 4 time : 19:55 -- 22:15
+Sec: 11 Plane index : 1HGH --> SZX  weekday : 5 time : 02:00 -- 04:15

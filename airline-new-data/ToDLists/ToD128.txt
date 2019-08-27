@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1KMG --> INC  weekday : 3 time : 07:35 -- 10:20
+Sec: 1 Plane index : 1INC --> CGQ  weekday : 3 time : 11:35 -- 14:20
+ToD 1 : 
+Sec: 3 Plane index : 1CGQ --> RIZ  weekday : 4 time : 07:05 -- 09:20
+Sec: 4 Plane index : 1RIZ --> HGH  weekday : 4 time : 10:05 -- 11:30
+Sec: 5 Plane index : 1HGH --> BPE  weekday : 4 time : 13:00 -- 15:20
+Sec: 6 Plane index : 1BPE --> YNJ  weekday : 4 time : 16:05 -- 17:55
+ToD 2 : 
+Sec: 8 Plane index : 1YNJ --> BPE  weekday : 6 time : 19:45 -- 21:40
+Sec: 9 Plane index : 1BPE --> HGH  weekday : 6 time : 22:25 -- 00:40
+Sec: 10 Plane index : 1HGH --> KMG  weekday : 7 time : 03:15 -- 06:20

@@ -1,0 +1,12 @@
+ToD 0 : 
+JHG --> AVA  weekday : 2 time : 18:40 -- 20:10
+AVA --> HGH  weekday : 2 time : 21:05 -- 23:20
+ToD 1 : 
+LYA --> HGH  weekday : 3 time : 23:15 -- 01:05
+HGH --> LYA  weekday : 3 time : 13:00 -- 14:50
+ToD 2 : 
+HGH --> BPE  weekday : 4 time : 13:00 -- 15:20
+BPE --> HGH  weekday : 4 time : 22:25 -- 00:40
+ToD 3 : 
+HGH --> BFJ  weekday : 5 time : 12:35 -- 15:10
+BFJ --> JHG  weekday : 5 time : 16:20 -- 17:50

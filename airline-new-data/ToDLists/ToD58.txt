@@ -1,0 +1,7 @@
+ToD 0 : 
+Sec: 0 Plane index : 1INC --> URC  weekday : 3 time : 22:30 -- 01:45
+ToD 1 : 
+Sec: 2 Plane index : 1URC --> XIY  weekday : 5 time : 02:45 -- 05:55
+ToD 2 : 
+Sec: 4 Plane index : 1XIY --> URC  weekday : 6 time : 02:00 -- 05:25
+Sec: 5 Plane index : 1URC --> INC  weekday : 6 time : 09:55 -- 12:50

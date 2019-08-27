@@ -1,0 +1,3 @@
+CGO-->WNZ
+week2    11:35 -- 13:40
+AirLine Index:8018   Plane Index:33

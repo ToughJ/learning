@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ENY --> NKG  weekday : 6 time : 06:35 -- 08:55
+Sec: 1 Plane index : 1NKG --> ENY  weekday : 6 time : 09:55 -- 12:10
+Sec: 2 Plane index : 1ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
+ToD 1 : 
+Sec: 4 Plane index : 1WNZ --> KOS  weekday : 1 time : 10:45 -- 15:00
+Sec: 5 Plane index : 1KOS --> WNZ  weekday : 1 time : 16:00 -- 19:40
+ToD 2 : 
+Sec: 7 Plane index : 1WNZ --> ENY  weekday : 2 time : 17:00 -- 19:55

@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1WEH --> CGQ  weekday : 1 time : 22:45 -- 00:25
+Sec: 1 Plane index : 1CGQ --> RIZ  weekday : 2 time : 07:05 -- 09:20
+ToD 1 : 
+Sec: 3 Plane index : 1RIZ --> CGQ  weekday : 2 time : 22:10 -- 00:10
+Sec: 4 Plane index : 1CGQ --> WEH  weekday : 3 time : 07:05 -- 08:45

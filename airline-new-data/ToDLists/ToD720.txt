@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XNN --> HDG  weekday : 1 time : 11:10 -- 13:15
+Sec: 1 Plane index : 1HDG --> XNN  weekday : 1 time : 18:25 -- 20:40

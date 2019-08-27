@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HUZ --> WNZ  weekday : 5 time : 23:00 -- 00:40
+Sec: 1 Plane index : 1WNZ --> HUZ  weekday : 6 time : 08:45 -- 10:30

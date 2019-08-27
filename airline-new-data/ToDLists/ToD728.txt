@@ -1,0 +1,11 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
+Sec: 1 Plane index : 1XNN --> SZX  weekday : 1 time : 12:00 -- 15:20
+ToD 1 : 
+Sec: 3 Plane index : 1SZX --> HLH  weekday : 2 time : 12:10 -- 16:15
+Sec: 4 Plane index : 1HLH --> HRB  weekday : 2 time : 17:00 -- 18:05
+Sec: 5 Plane index : 1HRB --> YNT  weekday : 2 time : 18:55 -- 21:00
+ToD 2 : 
+Sec: 7 Plane index : 1YNT --> HGH  weekday : 4 time : 21:45 -- 23:45
+Sec: 8 Plane index : 1HGH --> SZX  weekday : 5 time : 02:00 -- 04:15
+Sec: 9 Plane index : 1SZX --> ZYI  weekday : 5 time : 06:20 -- 08:20

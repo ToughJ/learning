@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1BFJ --> ZUH  weekday : 6 time : 10:40 -- 12:40
+Sec: 1 Plane index : 1ZUH --> BFJ  weekday : 6 time : 13:35 -- 15:40

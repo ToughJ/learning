@@ -1,0 +1,8 @@
+ToD 0 : 
+Sec: 0 Plane index : 1MDL --> HGH  weekday : 2 time : 09:10 -- 13:05
+ToD 1 : 
+Sec: 2 Plane index : 1HGH --> CGO  weekday : 3 time : 06:40 -- 08:35
+ToD 2 : 
+Sec: 4 Plane index : 1CGO --> HGH  weekday : 5 time : 20:45 -- 22:25
+Sec: 5 Plane index : 1HGH --> CTU  weekday : 5 time : 23:55 -- 03:00
+Sec: 6 Plane index : 1CTU --> MDL  weekday : 6 time : 05:55 -- 08:25

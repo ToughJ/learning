@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HLH --> HGH  weekday : 5 time : 21:40 -- 00:45
+ToD 1 : 
+Sec: 2 Plane index : 1HGH --> YNT  weekday : 2 time : 09:25 -- 11:15
+Sec: 3 Plane index : 1YNT --> HRB  weekday : 2 time : 12:25 -- 14:20
+Sec: 4 Plane index : 1HRB --> HLH  weekday : 2 time : 15:15 -- 16:35

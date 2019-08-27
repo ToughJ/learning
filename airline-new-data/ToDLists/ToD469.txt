@@ -1,0 +1,15 @@
+ToD 0 : 
+Sec: 0 Plane index : 1WEH --> SHE  weekday : 3 time : 18:45 -- 19:55
+Sec: 1 Plane index : 1SHE --> YNT  weekday : 3 time : 20:45 -- 22:20
+ToD 1 : 
+Sec: 3 Plane index : 1YNT --> HRB  weekday : 4 time : 12:25 -- 14:20
+Sec: 4 Plane index : 1HRB --> HLH  weekday : 4 time : 15:15 -- 16:35
+ToD 2 : 
+Sec: 6 Plane index : 1HLH --> HRB  weekday : 5 time : 13:10 -- 14:20
+Sec: 7 Plane index : 1HRB --> HLH  weekday : 5 time : 18:55 -- 20:15
+Sec: 8 Plane index : 1HLH --> HGH  weekday : 5 time : 21:40 -- 00:45
+ToD 3 : 
+Sec: 10 Plane index : 1HGH --> CAN  weekday : 7 time : 02:00 -- 04:10
+Sec: 11 Plane index : 1CAN --> YNT  weekday : 7 time : 05:40 -- 08:40
+Sec: 12 Plane index : 1YNT --> SHE  weekday : 7 time : 09:25 -- 10:45
+Sec: 13 Plane index : 1SHE --> WEH  weekday : 7 time : 11:35 -- 12:55

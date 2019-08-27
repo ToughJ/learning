@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HGH --> HJJ  weekday : 5 time : 09:40 -- 11:45
+ToD 1 : 
+Sec: 2 Plane index : 1HJJ --> LJG  weekday : 1 time : 12:35 -- 14:35
+Sec: 3 Plane index : 1LJG --> HJJ  weekday : 1 time : 20:10 -- 22:10
+Sec: 4 Plane index : 1HJJ --> HGH  weekday : 1 time : 22:55 -- 00:50

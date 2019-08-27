@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1LYG --> NGB  weekday : 7 time : 13:25 -- 14:45
+Sec: 1 Plane index : 1NGB --> KOW  weekday : 7 time : 17:45 -- 19:20
+Sec: 2 Plane index : 1KOW --> KWE  weekday : 7 time : 20:05 -- 22:05
+Sec: 3 Plane index : 1KWE --> HGH  weekday : 7 time : 22:55 -- 01:10
+ToD 1 : 
+Sec: 5 Plane index : 1HGH --> JIQ  weekday : 1 time : 13:50 -- 16:10
+Sec: 6 Plane index : 1JIQ --> HGH  weekday : 1 time : 21:20 -- 23:20
+ToD 2 : 
+Sec: 8 Plane index : 1HGH --> CAN  weekday : 3 time : 02:00 -- 04:10
+Sec: 9 Plane index : 1CAN --> XNN  weekday : 3 time : 05:45 -- 09:15
+Sec: 10 Plane index : 1XNN --> LYG  weekday : 3 time : 10:00 -- 12:40

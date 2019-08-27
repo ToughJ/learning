@@ -1,0 +1,8 @@
+ToD 0 : 
+Sec: 0 Plane index : 1CIF --> HGH  weekday : 7 time : 21:25 -- 23:55
+ToD 1 : 
+Sec: 2 Plane index : 1HGH --> SZX  weekday : 2 time : 08:45 -- 11:05
+Sec: 3 Plane index : 1SZX --> HLH  weekday : 2 time : 12:10 -- 16:15
+ToD 2 : 
+Sec: 5 Plane index : 1HLH --> HGH  weekday : 3 time : 21:40 -- 00:45
+Sec: 6 Plane index : 1HGH --> CIF  weekday : 4 time : 06:20 -- 09:10

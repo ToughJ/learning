@@ -1,0 +1,14 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ACX --> CSX  weekday : 7 time : 12:25 -- 14:25
+Sec: 1 Plane index : 1CSX --> HGH  weekday : 7 time : 15:25 -- 17:00
+Sec: 2 Plane index : 1HGH --> WEH  weekday : 7 time : 20:05 -- 22:00
+ToD 1 : 
+Sec: 4 Plane index : 1WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 5 Plane index : 1HGH --> ENY  weekday : 1 time : 17:15 -- 19:55
+ToD 2 : 
+Sec: 7 Plane index : 1ENY --> WNZ  weekday : 2 time : 12:55 -- 15:40
+Sec: 8 Plane index : 1WNZ --> KMG  weekday : 2 time : 17:15 -- 20:20
+ToD 3 : 
+Sec: 10 Plane index : 1KMG --> HGH  weekday : 3 time : 23:20 -- 02:15
+Sec: 11 Plane index : 1HGH --> WUH  weekday : 4 time : 06:45 -- 08:30
+Sec: 12 Plane index : 1WUH --> ACX  weekday : 4 time : 09:30 -- 11:40

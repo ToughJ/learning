@@ -1,0 +1,10 @@
+ToD 0 : 
+JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
+CKG --> JIQ  weekday : 7 time : 13:20 -- 14:15
+ToD 1 : 
+JIQ --> CKG  weekday : 3 time : 17:20 -- 18:15
+CKG --> JIQ  weekday : 3 time : 19:20 -- 20:15
+JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
+CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+ToD 2 : 
+ToD 3 : 

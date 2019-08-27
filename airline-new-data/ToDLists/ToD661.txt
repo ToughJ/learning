@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1WNZ --> CSX  weekday : 1 time : 20:30 -- 22:10
+Sec: 1 Plane index : 1CSX --> WNZ  weekday : 1 time : 23:15 -- 00:50

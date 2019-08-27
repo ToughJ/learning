@@ -1,0 +1,7 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ENH --> HGH  weekday : 7 time : 21:15 -- 23:05
+Sec: 1 Plane index : 1HGH --> CGO  weekday : 1 time : 06:40 -- 08:35
+ToD 1 : 
+Sec: 3 Plane index : 1CGO --> HGH  weekday : 3 time : 20:45 -- 22:25
+Sec: 4 Plane index : 1HGH --> CTU  weekday : 3 time : 23:55 -- 03:00
+Sec: 5 Plane index : 1CTU --> ENH  weekday : 4 time : 05:55 -- 07:15

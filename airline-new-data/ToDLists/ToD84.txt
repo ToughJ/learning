@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1INC --> HGH  weekday : 4 time : 14:10 -- 16:50
+Sec: 1 Plane index : 1HGH --> INC  weekday : 4 time : 18:55 -- 21:55

@@ -1,0 +1,8 @@
+ToD 0 : 
+Sec: 0 Plane index : 1CSX --> HGH  weekday : 7 time : 15:25 -- 17:00
+ToD 1 : 
+Sec: 2 Plane index : 1HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
+ToD 2 : 
+Sec: 4 Plane index : 1CAN --> HGH  weekday : 4 time : 02:25 -- 04:35
+Sec: 5 Plane index : 1HGH --> XNN  weekday : 4 time : 06:25 -- 09:35
+Sec: 6 Plane index : 1XNN --> CSX  weekday : 4 time : 12:25 -- 14:50

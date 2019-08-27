@@ -1,0 +1,39 @@
+logging:
+Cal Parameter: OK
+initial master model!!
+initial sub model!
+the ToD used now : 383.0
+big Pi is 387.0
+CPXPARAM_TimeLimit                               300
+Tried aggregator 2 times.
+MIP Presolve eliminated 134102 rows and 130071 columns.
+MIP Presolve modified 123804 coefficients.
+Aggregator did 4 substitutions.
+Reduced MIP has 9916 rows, 120688 columns, and 1217142 nonzeros.
+Reduced MIP has 120688 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 3.66 sec. (2989.60 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 9916 rows, 120688 columns, and 1217142 nonzeros.
+Reduced MIP has 120688 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 1.41 sec. (725.32 ticks)
+Probing fixed 14 vars, tightened 0 bounds.
+Probing time = 1.48 sec. (657.87 ticks)
+Clique table members: 604663.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 4 threads.
+Root relaxation solution time = 53.16 sec. (39588.44 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0    infeasible                                      26146         
+
+Root node processing (before b&c):
+  Real time             =  110.86 sec. (46465.82 ticks)
+Parallel b&c, 4 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =  110.86 sec. (46465.82 ticks)

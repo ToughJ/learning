@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XFN --> CTU  weekday : 7 time : 17:20 -- 19:25
+Sec: 1 Plane index : 1CTU --> XFN  weekday : 7 time : 20:25 -- 22:15

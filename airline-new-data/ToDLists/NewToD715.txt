@@ -1,0 +1,10 @@
+ToD 0 : 
+XNN --> ZYI  weekday : 3 time : 20:15 -- 22:40
+ToD 1 : 
+ZYI --> HGH  weekday : 4 time : 19:55 -- 22:15
+ToD 2 : 
+LYA --> HGH  weekday : 5 time : 23:15 -- 01:05
+HGH --> LYA  weekday : 5 time : 13:00 -- 14:50
+ToD 3 : 
+HGH --> LYA  weekday : 7 time : 13:00 -- 14:50
+LYA --> XNN  weekday : 7 time : 15:35 -- 17:35

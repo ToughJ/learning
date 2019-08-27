@@ -1,0 +1,10 @@
+ToD 0 : 
+HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
+JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
+CKG --> JIQ  weekday : 7 time : 13:20 -- 14:15
+ToD 1 : 
+JIQ --> HGH  weekday : 3 time : 21:20 -- 23:20
+JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
+CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+ToD 2 : 
+ToD 3 : 

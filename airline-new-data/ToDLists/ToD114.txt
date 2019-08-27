@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1RIZ --> HGH  weekday : 2 time : 10:05 -- 11:30
+Sec: 1 Plane index : 1HGH --> INC  weekday : 2 time : 19:05 -- 21:55
+ToD 1 : 
+Sec: 3 Plane index : 1INC --> HGH  weekday : 3 time : 14:10 -- 16:50
+Sec: 4 Plane index : 1HGH --> WEH  weekday : 3 time : 20:05 -- 22:00
+ToD 2 : 
+Sec: 6 Plane index : 1WEH --> CGQ  weekday : 5 time : 22:45 -- 00:25
+Sec: 7 Plane index : 1CGQ --> RIZ  weekday : 6 time : 07:05 -- 09:20

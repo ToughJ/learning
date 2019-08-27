@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1MIG --> LHW  weekday : 7 time : 12:05 -- 13:25
+Sec: 1 Plane index : 1LHW --> MIG  weekday : 7 time : 16:20 -- 17:40

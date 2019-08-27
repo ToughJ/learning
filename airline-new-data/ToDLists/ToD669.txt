@@ -1,0 +1,14 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ZUH --> BFJ  weekday : 5 time : 13:35 -- 15:40
+Sec: 1 Plane index : 1BFJ --> XIY  weekday : 5 time : 16:40 -- 18:25
+Sec: 2 Plane index : 1XIY --> ENH  weekday : 5 time : 19:25 -- 20:30
+Sec: 3 Plane index : 1ENH --> HGH  weekday : 5 time : 21:15 -- 23:05
+ToD 1 : 
+Sec: 5 Plane index : 1HGH --> WEH  weekday : 6 time : 12:15 -- 14:05
+Sec: 6 Plane index : 1WEH --> CGQ  weekday : 6 time : 14:50 -- 16:30
+ToD 2 : 
+Sec: 8 Plane index : 1CGQ --> WEH  weekday : 7 time : 07:05 -- 08:45
+Sec: 9 Plane index : 1WEH --> NGB  weekday : 7 time : 13:40 -- 15:25
+ToD 3 : 
+Sec: 11 Plane index : 1NGB --> CSX  weekday : 1 time : 22:35 -- 00:15
+Sec: 12 Plane index : 1CSX --> ZUH  weekday : 2 time : 07:45 -- 09:20

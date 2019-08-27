@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1DLC --> ENH  weekday : 4 time : 20:50 -- 23:30
+ToD 1 : 
+Sec: 2 Plane index : 1ENH --> HGH  weekday : 5 time : 21:15 -- 23:05
+ToD 2 : 
+Sec: 4 Plane index : 1HGH --> MDL  weekday : 6 time : 15:05 -- 19:25
+Sec: 5 Plane index : 1MDL --> CTU  weekday : 6 time : 23:50 -- 02:15
+ToD 3 : 
+Sec: 7 Plane index : 1CTU --> HDG  weekday : 1 time : 06:25 -- 08:30
+Sec: 8 Plane index : 1HDG --> DLC  weekday : 1 time : 09:15 -- 11:00
+Sec: 9 Plane index : 1DLC --> DTU  weekday : 1 time : 12:00 -- 14:05
+Sec: 10 Plane index : 1DTU --> DLC  weekday : 1 time : 14:50 -- 16:55

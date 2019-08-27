@@ -1,0 +1,6 @@
+ToD 0 : 
+HGH --> WUH  weekday : 4 time : 06:45 -- 08:30
+WUH --> HGH  weekday : 4 time : 15:30 -- 17:00
+ToD 1 : 
+ToD 2 : 
+ToD 3 : 

@@ -1,0 +1,8 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HDG --> CTU  weekday : 7 time : 22:35 -- 01:05
+Sec: 1 Plane index : 1CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+Sec: 2 Plane index : 1ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
+ToD 1 : 
+Sec: 4 Plane index : 1DLC --> XNN  weekday : 3 time : 12:00 -- 14:40
+Sec: 5 Plane index : 1XNN --> DLC  weekday : 3 time : 15:25 -- 18:10
+Sec: 6 Plane index : 1DLC --> HDG  weekday : 3 time : 20:10 -- 21:45

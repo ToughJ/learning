@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1TEN --> NGB  weekday : 5 time : 17:10 -- 19:20
+ToD 1 : 
+Sec: 2 Plane index : 1NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
+Sec: 3 Plane index : 1CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
+Sec: 4 Plane index : 1HGH --> SZX  weekday : 7 time : 08:45 -- 11:05
+ToD 2 : 
+Sec: 6 Plane index : 1SZX --> HGH  weekday : 7 time : 22:35 -- 00:35
+ToD 3 : 
+Sec: 8 Plane index : 1HGH --> CGO  weekday : 2 time : 06:40 -- 08:35
+Sec: 9 Plane index : 1CGO --> WNZ  weekday : 2 time : 11:35 -- 13:40
+Sec: 10 Plane index : 1WNZ --> TEN  weekday : 2 time : 14:25 -- 16:35

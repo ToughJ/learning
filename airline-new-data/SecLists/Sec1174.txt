@@ -1,0 +1,3 @@
+WNZ-->CSX
+week7    09:00 -- 10:35
+AirLine Index:8011   Plane Index:33

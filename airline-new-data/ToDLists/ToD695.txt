@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1NGB --> KLO  weekday : 4 time : 09:55 -- 13:35
+Sec: 1 Plane index : 1KLO --> NGB  weekday : 4 time : 14:35 -- 18:05

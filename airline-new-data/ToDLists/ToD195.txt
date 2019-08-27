@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HGH --> AVA  weekday : 6 time : 13:00 -- 15:45
+Sec: 1 Plane index : 1AVA --> HGH  weekday : 6 time : 21:05 -- 23:20

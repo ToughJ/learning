@@ -1,0 +1,4 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XIY --> UTP  weekday : 6 time : 09:10 -- 13:30
+ToD 1 : 
+Sec: 2 Plane index : 1UTP --> XIY  weekday : 1 time : 18:15 -- 22:05

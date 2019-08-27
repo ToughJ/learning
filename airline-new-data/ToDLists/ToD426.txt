@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1CTU --> ENH  weekday : 4 time : 05:55 -- 07:15
+ToD 1 : 
+Sec: 2 Plane index : 1ENH --> HGH  weekday : 4 time : 21:15 -- 23:05
+Sec: 3 Plane index : 1HGH --> LYI  weekday : 5 time : 06:25 -- 07:55
+ToD 2 : 
+Sec: 5 Plane index : 1LYI --> HGH  weekday : 7 time : 13:35 -- 14:50
+Sec: 6 Plane index : 1HGH --> ENY  weekday : 7 time : 17:15 -- 19:55
+Sec: 7 Plane index : 1ENY --> CTU  weekday : 1 time : 00:25 -- 02:05

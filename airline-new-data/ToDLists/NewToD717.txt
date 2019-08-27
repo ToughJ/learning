@@ -1,0 +1,8 @@
+ToD 0 : 
+XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
+ToD 1 : 
+WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+ToD 2 : 
+XFN --> CTU  weekday : 3 time : 17:20 -- 19:25
+ToD 3 : 
+CTU --> XFN  weekday : 4 time : 20:10 -- 21:55

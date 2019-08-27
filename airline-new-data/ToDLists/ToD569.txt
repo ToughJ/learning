@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1WUT --> HRB  weekday : 2 time : 21:50 -- 00:15
+ToD 1 : 
+Sec: 2 Plane index : 1HRB --> HGH  weekday : 4 time : 06:40 -- 10:00
+Sec: 3 Plane index : 1HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
+ToD 2 : 
+Sec: 5 Plane index : 1CAN --> HGH  weekday : 6 time : 02:25 -- 04:35
+Sec: 6 Plane index : 1HGH --> HRB  weekday : 6 time : 06:35 -- 10:00
+Sec: 7 Plane index : 1HRB --> WUT  weekday : 6 time : 10:50 -- 13:45

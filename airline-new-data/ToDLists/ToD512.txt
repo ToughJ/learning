@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1BPE --> HGH  weekday : 4 time : 22:25 -- 00:40
+ToD 1 : 
+Sec: 2 Plane index : 1HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
+Sec: 3 Plane index : 1WEH --> CGQ  weekday : 5 time : 22:45 -- 00:25
+ToD 2 : 
+Sec: 5 Plane index : 1CGQ --> WEH  weekday : 1 time : 07:05 -- 08:45
+Sec: 6 Plane index : 1WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 7 Plane index : 1HGH --> BPE  weekday : 1 time : 13:45 -- 16:05

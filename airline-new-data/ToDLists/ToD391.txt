@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HGH --> SZX  weekday : 6 time : 08:45 -- 11:05
+ToD 1 : 
+Sec: 2 Plane index : 1SZX --> HGH  weekday : 6 time : 22:35 -- 00:35
+Sec: 3 Plane index : 1HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
+ToD 2 : 
+Sec: 5 Plane index : 1JIQ --> HGH  weekday : 1 time : 21:20 -- 23:20
+Sec: 6 Plane index : 1HGH --> CTU  weekday : 2 time : 00:50 -- 04:00
+Sec: 7 Plane index : 1CTU --> MDL  weekday : 2 time : 05:50 -- 08:25
+ToD 3 : 
+Sec: 9 Plane index : 1MDL --> CTU  weekday : 2 time : 23:50 -- 02:15
+Sec: 10 Plane index : 1CTU --> HGH  weekday : 3 time : 05:40 -- 08:25

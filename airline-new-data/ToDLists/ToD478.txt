@@ -1,0 +1,13 @@
+ToD 0 : 
+Sec: 0 Plane index : 1KOW --> KWE  weekday : 1 time : 20:05 -- 22:05
+Sec: 1 Plane index : 1KWE --> HGH  weekday : 1 time : 22:55 -- 01:10
+ToD 1 : 
+Sec: 3 Plane index : 1HGH --> INC  weekday : 2 time : 19:05 -- 21:55
+ToD 2 : 
+Sec: 5 Plane index : 1INC --> HGH  weekday : 3 time : 14:10 -- 16:50
+Sec: 6 Plane index : 1HGH --> WEH  weekday : 3 time : 20:05 -- 22:00
+Sec: 7 Plane index : 1WEH --> CGQ  weekday : 3 time : 22:45 -- 00:25
+ToD 3 : 
+Sec: 9 Plane index : 1CGQ --> WEH  weekday : 5 time : 07:05 -- 08:45
+Sec: 10 Plane index : 1WEH --> NGB  weekday : 5 time : 13:40 -- 15:25
+Sec: 11 Plane index : 1NGB --> KOW  weekday : 5 time : 17:45 -- 19:20

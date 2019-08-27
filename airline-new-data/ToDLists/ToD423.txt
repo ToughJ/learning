@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ENY --> DLC  weekday : 3 time : 09:10 -- 11:00
+ToD 1 : 
+Sec: 2 Plane index : 1DLC --> XNN  weekday : 5 time : 12:00 -- 14:40
+Sec: 3 Plane index : 1XNN --> DLC  weekday : 5 time : 15:25 -- 18:10
+Sec: 4 Plane index : 1DLC --> ENY  weekday : 5 time : 20:50 -- 23:00

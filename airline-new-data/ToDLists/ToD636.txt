@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1SGN --> LJG  weekday : 6 time : 17:15 -- 20:25
+Sec: 1 Plane index : 1LJG --> DYG  weekday : 6 time : 21:10 -- 23:05
+Sec: 2 Plane index : 1DYG --> HGH  weekday : 6 time : 23:50 -- 01:40
+ToD 1 : 
+Sec: 4 Plane index : 1HGH --> INC  weekday : 7 time : 18:55 -- 21:55
+ToD 2 : 
+Sec: 6 Plane index : 1INC --> HGH  weekday : 1 time : 14:10 -- 16:50
+ToD 3 : 
+Sec: 8 Plane index : 1HGH --> DYG  weekday : 2 time : 07:15 -- 09:25
+Sec: 9 Plane index : 1DYG --> LJG  weekday : 2 time : 10:10 -- 12:00
+Sec: 10 Plane index : 1LJG --> SGN  weekday : 2 time : 12:45 -- 16:15

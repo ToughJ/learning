@@ -1,0 +1,6 @@
+ToD 0 : 
+ENY --> NKG  weekday : 1 time : 06:35 -- 08:55
+NKG --> ENY  weekday : 1 time : 09:55 -- 12:15
+ToD 1 : 
+ToD 2 : 
+ToD 3 : 

@@ -1,0 +1,11 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ENH --> CTU  weekday : 3 time : 00:30 -- 02:00
+Sec: 1 Plane index : 1CTU --> ENY  weekday : 3 time : 05:55 -- 07:20
+ToD 1 : 
+Sec: 3 Plane index : 1ENY --> XIY  weekday : 3 time : 21:15 -- 22:10
+Sec: 4 Plane index : 1XIY --> BFJ  weekday : 4 time : 06:55 -- 08:50
+ToD 2 : 
+Sec: 6 Plane index : 1BFJ --> ZUH  weekday : 6 time : 10:40 -- 12:40
+Sec: 7 Plane index : 1ZUH --> BFJ  weekday : 6 time : 13:35 -- 15:40
+Sec: 8 Plane index : 1BFJ --> XIY  weekday : 6 time : 16:40 -- 18:25
+Sec: 9 Plane index : 1XIY --> ENH  weekday : 6 time : 19:25 -- 20:30

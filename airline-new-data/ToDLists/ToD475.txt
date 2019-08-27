@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1NGB --> WEH  weekday : 3 time : 16:10 -- 18:00
+Sec: 1 Plane index : 1WEH --> CGQ  weekday : 3 time : 22:45 -- 00:25
+ToD 1 : 
+Sec: 3 Plane index : 1CGQ --> WEH  weekday : 7 time : 07:05 -- 08:45
+Sec: 4 Plane index : 1WEH --> NGB  weekday : 7 time : 13:40 -- 15:25

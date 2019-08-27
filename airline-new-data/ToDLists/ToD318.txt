@@ -1,0 +1,8 @@
+ToD 0 : 
+Sec: 0 Plane index : 1HGH --> ENY  weekday : 5 time : 17:15 -- 19:55
+ToD 1 : 
+Sec: 2 Plane index : 1ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
+Sec: 3 Plane index : 1WNZ --> KMG  weekday : 6 time : 17:15 -- 20:20
+ToD 2 : 
+Sec: 5 Plane index : 1KMG --> INC  weekday : 2 time : 07:35 -- 10:20
+Sec: 6 Plane index : 1INC --> HGH  weekday : 2 time : 14:10 -- 16:50

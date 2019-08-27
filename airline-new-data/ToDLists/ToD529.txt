@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1KMG --> INC  weekday : 3 time : 07:35 -- 10:20
+Sec: 1 Plane index : 1INC --> HGH  weekday : 3 time : 14:10 -- 16:50
+ToD 1 : 
+Sec: 3 Plane index : 1HGH --> SZX  weekday : 4 time : 08:45 -- 11:05
+Sec: 4 Plane index : 1SZX --> HLH  weekday : 4 time : 12:10 -- 16:15
+ToD 2 : 
+Sec: 6 Plane index : 1HLH --> HGH  weekday : 5 time : 21:40 -- 00:45
+Sec: 7 Plane index : 1HGH --> CGO  weekday : 6 time : 06:40 -- 08:35
+ToD 3 : 
+Sec: 9 Plane index : 1CGO --> HGH  weekday : 6 time : 20:45 -- 22:25
+Sec: 10 Plane index : 1HGH --> KMG  weekday : 7 time : 03:15 -- 06:20

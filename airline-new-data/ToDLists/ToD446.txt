@@ -1,0 +1,12 @@
+ToD 0 : 
+Sec: 0 Plane index : 1NZL --> DLC  weekday : 2 time : 14:50 -- 16:50
+Sec: 1 Plane index : 1DLC --> ENH  weekday : 2 time : 20:50 -- 23:30
+ToD 1 : 
+Sec: 3 Plane index : 1ENH --> HGH  weekday : 3 time : 21:15 -- 23:05
+ToD 2 : 
+Sec: 5 Plane index : 1HGH --> MDL  weekday : 4 time : 15:05 -- 19:25
+Sec: 6 Plane index : 1MDL --> CTU  weekday : 4 time : 23:50 -- 02:15
+ToD 3 : 
+Sec: 8 Plane index : 1CTU --> TNA  weekday : 6 time : 06:25 -- 09:00
+Sec: 9 Plane index : 1TNA --> DLC  weekday : 6 time : 09:50 -- 11:00
+Sec: 10 Plane index : 1DLC --> NZL  weekday : 6 time : 12:00 -- 14:05

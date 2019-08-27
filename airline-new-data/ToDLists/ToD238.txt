@@ -1,0 +1,6 @@
+ToD 0 : 
+Sec: 0 Plane index : 1NKG --> ENY  weekday : 1 time : 09:55 -- 12:15
+Sec: 1 Plane index : 1ENY --> XIY  weekday : 1 time : 21:15 -- 22:10
+ToD 1 : 
+Sec: 3 Plane index : 1XIY --> ENY  weekday : 2 time : 23:05 -- 00:10
+Sec: 4 Plane index : 1ENY --> NKG  weekday : 3 time : 06:35 -- 08:55

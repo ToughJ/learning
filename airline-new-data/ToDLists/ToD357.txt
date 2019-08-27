@@ -1,0 +1,11 @@
+ToD 0 : 
+Sec: 0 Plane index : 1CSX --> HGH  weekday : 5 time : 15:25 -- 17:05
+Sec: 1 Plane index : 1HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
+Sec: 2 Plane index : 1WEH --> CGQ  weekday : 5 time : 22:45 -- 00:25
+ToD 1 : 
+Sec: 4 Plane index : 1CGQ --> WEH  weekday : 1 time : 07:05 -- 08:45
+Sec: 5 Plane index : 1WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 6 Plane index : 1HGH --> ENH  weekday : 1 time : 14:50 -- 17:00
+ToD 2 : 
+Sec: 8 Plane index : 1ENH --> XNN  weekday : 2 time : 09:20 -- 11:40
+Sec: 9 Plane index : 1XNN --> CSX  weekday : 2 time : 12:25 -- 14:50

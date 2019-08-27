@@ -1,0 +1,4 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XIY --> MFM  weekday : 4 time : 09:10 -- 12:35
+Sec: 1 Plane index : 1MFM --> ENH  weekday : 4 time : 13:55 -- 15:40
+Sec: 2 Plane index : 1ENH --> XIY  weekday : 4 time : 18:50 -- 20:20

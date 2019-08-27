@@ -1,0 +1,3 @@
+CIF-->HET
+week4    20:20 -- 21:40
+AirLine Index:8092   Plane Index:19

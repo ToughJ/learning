@@ -1,0 +1,150 @@
+====Generation -0====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -1====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -2====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -3====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -4====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -5====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -6====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -7====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -8====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -9====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -10====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -11====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -12====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -13====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -14====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -15====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -16====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -17====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -18====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -19====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -20====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -21====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -22====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -23====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -24====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -25====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -26====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -27====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -28====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -29====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -30====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -31====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -32====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -33====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -34====
+0-1-2-3-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -35====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -36====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -37====
+0-3-2-1-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -38====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -39====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -40====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -41====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -42====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -43====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -44====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -45====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -46====
+0-3-1-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -47====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -48====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+
+====Generation -49====
+0-1-3-2-	TotalDistance : 376.78199641136746	Fitness : 376.78199641136746
+

@@ -1,0 +1,11 @@
+ToD 0 : 
+Sec: 0 Plane index : 1KMG --> HGH  weekday : 5 time : 23:20 -- 02:15
+Sec: 1 Plane index : 1HGH --> WDS  weekday : 6 time : 06:45 -- 09:10
+Sec: 2 Plane index : 1WDS --> XIY  weekday : 6 time : 09:55 -- 10:55
+ToD 1 : 
+Sec: 4 Plane index : 1XIY --> URC  weekday : 1 time : 02:00 -- 05:25
+Sec: 5 Plane index : 1URC --> INC  weekday : 1 time : 10:15 -- 13:10
+ToD 2 : 
+Sec: 7 Plane index : 1INC --> CGQ  weekday : 2 time : 11:35 -- 14:20
+Sec: 8 Plane index : 1CGQ --> LYI  weekday : 2 time : 16:00 -- 18:15
+Sec: 9 Plane index : 1LYI --> KMG  weekday : 2 time : 19:00 -- 22:20

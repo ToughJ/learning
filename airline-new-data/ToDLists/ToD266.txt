@@ -1,0 +1,10 @@
+ToD 0 : 
+Sec: 0 Plane index : 1ENY --> CTU  weekday : 6 time : 00:25 -- 02:05
+ToD 1 : 
+Sec: 2 Plane index : 1CTU --> XFN  weekday : 6 time : 20:10 -- 21:55
+ToD 2 : 
+Sec: 4 Plane index : 1XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
+Sec: 5 Plane index : 1WNZ --> KWE  weekday : 1 time : 07:15 -- 09:50
+ToD 3 : 
+Sec: 7 Plane index : 1KWE --> WNZ  weekday : 2 time : 10:50 -- 13:15
+Sec: 8 Plane index : 1WNZ --> ENY  weekday : 2 time : 17:00 -- 19:55

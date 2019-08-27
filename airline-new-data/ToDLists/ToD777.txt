@@ -1,0 +1,14 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XNN --> CAN  weekday : 6 time : 23:10 -- 02:30
+ToD 1 : 
+Sec: 2 Plane index : 1CAN --> HGH  weekday : 7 time : 14:45 -- 17:05
+Sec: 3 Plane index : 1HGH --> INC  weekday : 7 time : 18:55 -- 21:55
+ToD 2 : 
+Sec: 5 Plane index : 1INC --> HGH  weekday : 1 time : 14:10 -- 16:50
+Sec: 6 Plane index : 1HGH --> WEH  weekday : 1 time : 20:05 -- 22:00
+Sec: 7 Plane index : 1WEH --> CGQ  weekday : 1 time : 22:45 -- 00:25
+ToD 3 : 
+Sec: 9 Plane index : 1CGQ --> WEH  weekday : 3 time : 07:05 -- 08:45
+Sec: 10 Plane index : 1WEH --> HGH  weekday : 3 time : 09:30 -- 11:30
+Sec: 11 Plane index : 1HGH --> LYA  weekday : 3 time : 13:00 -- 14:50
+Sec: 12 Plane index : 1LYA --> XNN  weekday : 3 time : 15:35 -- 17:35

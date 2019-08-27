@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1CTU --> HGH  weekday : 1 time : 05:40 -- 08:25
+Sec: 1 Plane index : 1HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
+ToD 1 : 
+Sec: 3 Plane index : 1CAN --> HGH  weekday : 2 time : 02:25 -- 04:35
+Sec: 4 Plane index : 1HGH --> CIF  weekday : 2 time : 06:20 -- 09:10
+ToD 2 : 
+Sec: 6 Plane index : 1CIF --> HGH  weekday : 4 time : 14:55 -- 17:30
+Sec: 7 Plane index : 1HGH --> CTU  weekday : 4 time : 23:55 -- 03:00

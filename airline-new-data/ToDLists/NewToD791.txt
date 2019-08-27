@@ -1,0 +1,8 @@
+ToD 0 : 
+CIF --> HET  weekday : 6 time : 20:20 -- 21:40
+HET --> XIY  weekday : 6 time : 22:25 -- 00:15
+ToD 1 : 
+XIY --> HET  weekday : 7 time : 11:55 -- 13:45
+ToD 2 : 
+HET --> CIF  weekday : 3 time : 14:30 -- 15:55
+ToD 3 : 

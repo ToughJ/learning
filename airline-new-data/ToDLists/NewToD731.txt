@@ -1,0 +1,6 @@
+ToD 0 : 
+HGH --> RIZ  weekday : 6 time : 20:00 -- 21:25
+ToD 1 : 
+RIZ --> HGH  weekday : 2 time : 10:05 -- 11:30
+ToD 2 : 
+ToD 3 : 

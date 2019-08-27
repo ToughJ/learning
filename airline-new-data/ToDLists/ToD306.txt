@@ -1,0 +1,9 @@
+ToD 0 : 
+Sec: 0 Plane index : 1XIY --> URC  weekday : 4 time : 02:00 -- 05:25
+ToD 1 : 
+Sec: 2 Plane index : 1URC --> XIY  weekday : 5 time : 02:45 -- 05:55
+ToD 2 : 
+Sec: 4 Plane index : 1XIY --> BFJ  weekday : 7 time : 06:55 -- 08:50
+Sec: 5 Plane index : 1BFJ --> ZUH  weekday : 7 time : 10:40 -- 12:40
+Sec: 6 Plane index : 1ZUH --> BFJ  weekday : 7 time : 13:35 -- 15:40
+Sec: 7 Plane index : 1BFJ --> XIY  weekday : 7 time : 16:40 -- 18:25

@@ -1,0 +1,3 @@
+ToD 0 : 
+Sec: 0 Plane index : 1SZX --> XUZ  weekday : 5 time : 12:10 -- 14:25
+Sec: 1 Plane index : 1XUZ --> SZX  weekday : 5 time : 18:50 -- 21:35

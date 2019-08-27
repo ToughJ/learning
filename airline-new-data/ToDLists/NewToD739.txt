@@ -1,0 +1,8 @@
+ToD 0 : 
+XIY --> ENH  weekday : 7 time : 19:25 -- 20:30
+WDS --> XIY  weekday : 7 time : 09:55 -- 10:55
+ToD 1 : 
+ENH --> XIY  weekday : 3 time : 18:50 -- 20:20
+XIY --> WDS  weekday : 3 time : 21:20 -- 22:25
+ToD 2 : 
+ToD 3 : 
