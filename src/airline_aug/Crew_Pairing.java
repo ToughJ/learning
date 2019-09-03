@@ -786,8 +786,8 @@ public class Crew_Pairing {
 			a.add(tmp);
 			c.add(1);
 			Crew_Pairing.this.masterproblem.addNewColumn();
-			Crew_Pairing.this.masterproblem.cplex
-					.exportModel("./airline-new-data/masterproblemModel/mp_" + toDNum + ".lp");
+//			Crew_Pairing.this.masterproblem.cplex
+//					.exportModel("./airline-new-data/masterproblemModel/mp_" + toDNum + ".lp");
 		}
 
 	}
