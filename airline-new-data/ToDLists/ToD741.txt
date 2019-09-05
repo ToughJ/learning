@@ -1,10 +1,10 @@
 ToD 0 : 
-Sec: 0 Plane index : 1XNN --> HDG  weekday : 7 time : 11:10 -- 13:15
-Sec: 1 Plane index : 1HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
+Sec: 0  Plane index : 1  XNN --> HDG  weekday : 7 time : 11:10 -- 13:15
+Sec: 1  Plane index : 1  HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
 ToD 1 : 
-Sec: 3 Plane index : 1XUZ --> HRB  weekday : 1 time : 15:10 -- 17:40
-Sec: 4 Plane index : 1HRB --> HLH  weekday : 1 time : 18:55 -- 20:15
-Sec: 5 Plane index : 1HLH --> HGH  weekday : 1 time : 21:40 -- 00:45
+Sec: 3  Plane index : 1  XUZ --> HRB  weekday : 1 time : 15:10 -- 17:40
+Sec: 4  Plane index : 1  HRB --> HLH  weekday : 1 time : 18:55 -- 20:15
+Sec: 5  Plane index : 1  HLH --> HGH  weekday : 1 time : 21:40 -- 00:45
 ToD 2 : 
-Sec: 7 Plane index : 1HGH --> SZX  weekday : 3 time : 08:45 -- 11:05
-Sec: 8 Plane index : 1SZX --> XNN  weekday : 3 time : 16:20 -- 19:45
+Sec: 7  Plane index : 1  HGH --> SZX  weekday : 3 time : 08:45 -- 11:05
+Sec: 8  Plane index : 1  SZX --> XNN  weekday : 3 time : 16:20 -- 19:45

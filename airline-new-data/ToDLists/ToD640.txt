@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1LJG --> SGN  weekday : 4 time : 12:45 -- 16:15
-Sec: 1 Plane index : 1SGN --> LJG  weekday : 4 time : 17:15 -- 20:25
+Sec: 0  Plane index : 1  LJG --> SGN  weekday : 4 time : 12:45 -- 16:15
+Sec: 1  Plane index : 1  SGN --> LJG  weekday : 4 time : 17:15 -- 20:25

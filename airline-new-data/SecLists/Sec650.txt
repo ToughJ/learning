@@ -1,3 +1,3 @@
-WDS-->HGH
-week5    23:10 -- 01:05
-AirLine Index:8860   Plane Index:18
+WDS --> HGH
+weekday 5    23:10 -- 01:05
+AirLine Index: 8860   Plane Index: 18

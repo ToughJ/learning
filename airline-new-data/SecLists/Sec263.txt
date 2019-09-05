@@ -1,3 +1,3 @@
-HGH-->CAN
-week7    11:35 -- 13:45
-AirLine Index:8699   Plane Index:8
+HGH --> CAN
+weekday 7    11:35 -- 13:45
+AirLine Index: 8699   Plane Index: 8

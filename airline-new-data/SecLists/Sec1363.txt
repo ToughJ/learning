@@ -1,3 +1,3 @@
-LYG-->NGB
-week1    13:25 -- 14:45
-AirLine Index:8832   Plane Index:38
+LYG --> NGB
+weekday 1    13:25 -- 14:45
+AirLine Index: 8832   Plane Index: 38

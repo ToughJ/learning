@@ -1,3 +1,3 @@
-WUH-->LJG
-week7    11:50 -- 14:20
-AirLine Index:8867   Plane Index:31
+WUH --> LJG
+weekday 7    11:50 -- 14:20
+AirLine Index: 8867   Plane Index: 31

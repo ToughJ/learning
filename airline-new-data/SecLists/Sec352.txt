@@ -1,3 +1,3 @@
-HGH-->WUH
-week6    06:45 -- 08:30
-AirLine Index:8817   Plane Index:11
+HGH --> WUH
+weekday 6    06:45 -- 08:30
+AirLine Index: 8817   Plane Index: 11

@@ -1,3 +1,3 @@
-HGH-->HLH
-week7    09:10 -- 12:25
-AirLine Index:8019   Plane Index:2
+HGH --> HLH
+weekday 7    09:10 -- 12:25
+AirLine Index: 8019   Plane Index: 2

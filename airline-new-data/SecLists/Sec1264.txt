@@ -1,3 +1,3 @@
-ACX-->KMG
-week7    12:45 -- 13:45
-AirLine Index:8981   Plane Index:35
+ACX --> KMG
+weekday 7    12:45 -- 13:45
+AirLine Index: 8981   Plane Index: 35

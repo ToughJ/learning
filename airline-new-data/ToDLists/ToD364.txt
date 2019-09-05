@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1XIY --> ENY  weekday : 4 time : 23:05 -- 00:10
+Sec: 0  Plane index : 1  XIY --> ENY  weekday : 4 time : 23:05 -- 00:10
 ToD 1 : 
-Sec: 2 Plane index : 1ENY --> HGH  weekday : 5 time : 13:10 -- 15:40
-Sec: 3 Plane index : 1HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
+Sec: 2  Plane index : 1  ENY --> HGH  weekday : 5 time : 13:10 -- 15:40
+Sec: 3  Plane index : 1  HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
 ToD 2 : 
-Sec: 5 Plane index : 1WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
-Sec: 6 Plane index : 1HGH --> ENH  weekday : 1 time : 14:50 -- 17:00
-Sec: 7 Plane index : 1ENH --> XIY  weekday : 1 time : 18:50 -- 20:20
+Sec: 5  Plane index : 1  WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 6  Plane index : 1  HGH --> ENH  weekday : 1 time : 14:50 -- 17:00
+Sec: 7  Plane index : 1  ENH --> XIY  weekday : 1 time : 18:50 -- 20:20

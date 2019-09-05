@@ -1,14 +1,14 @@
 ToD 0 : 
-Sec: 0 Plane index : 1WNZ --> ENY  weekday : 6 time : 17:00 -- 19:55
+Sec: 0  Plane index : 1  WNZ --> ENY  weekday : 6 time : 17:00 -- 19:55
 ToD 1 : 
-Sec: 2 Plane index : 1ENY --> NKG  weekday : 1 time : 06:35 -- 08:55
-Sec: 3 Plane index : 1NKG --> ENY  weekday : 1 time : 09:55 -- 12:15
+Sec: 2  Plane index : 1  ENY --> NKG  weekday : 1 time : 06:35 -- 08:55
+Sec: 3  Plane index : 1  NKG --> ENY  weekday : 1 time : 09:55 -- 12:15
 ToD 2 : 
-Sec: 5 Plane index : 1ENY --> NKG  weekday : 2 time : 06:35 -- 08:55
-Sec: 6 Plane index : 1NKG --> ENY  weekday : 2 time : 09:55 -- 12:10
-Sec: 7 Plane index : 1ENY --> WNZ  weekday : 2 time : 12:55 -- 15:40
+Sec: 5  Plane index : 1  ENY --> NKG  weekday : 2 time : 06:35 -- 08:55
+Sec: 6  Plane index : 1  NKG --> ENY  weekday : 2 time : 09:55 -- 12:10
+Sec: 7  Plane index : 1  ENY --> WNZ  weekday : 2 time : 12:55 -- 15:40
 ToD 3 : 
-Sec: 9 Plane index : 1WNZ --> JIQ  weekday : 3 time : 08:25 -- 10:40
-Sec: 10 Plane index : 1JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
-Sec: 11 Plane index : 1CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
-Sec: 12 Plane index : 1JIQ --> WNZ  weekday : 3 time : 15:00 -- 17:00
+Sec: 9  Plane index : 1  WNZ --> JIQ  weekday : 3 time : 08:25 -- 10:40
+Sec: 10  Plane index : 1  JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
+Sec: 11  Plane index : 1  CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+Sec: 12  Plane index : 1  JIQ --> WNZ  weekday : 3 time : 15:00 -- 17:00

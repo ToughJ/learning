@@ -1,3 +1,3 @@
-HJJ-->HGH
-week5    19:20 -- 21:15
-AirLine Index:8802   Plane Index:31
+HJJ --> HGH
+weekday 5    19:20 -- 21:15
+AirLine Index: 8802   Plane Index: 31

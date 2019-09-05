@@ -1,3 +1,3 @@
-ENH-->DLC
-week2    08:35 -- 11:00
-AirLine Index:8743   Plane Index:21
+ENH --> DLC
+weekday 2    08:35 -- 11:00
+AirLine Index: 8743   Plane Index: 21

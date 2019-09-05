@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CGQ --> INC  weekday : 4 time : 15:40 -- 18:50
-Sec: 1 Plane index : 1INC --> KMG  weekday : 4 time : 21:45 -- 00:30
+Sec: 0  Plane index : 1  CGQ --> INC  weekday : 4 time : 15:40 -- 18:50
+Sec: 1  Plane index : 1  INC --> KMG  weekday : 4 time : 21:45 -- 00:30
 ToD 1 : 
-Sec: 3 Plane index : 1KMG --> INC  weekday : 7 time : 06:55 -- 09:40
-Sec: 4 Plane index : 1INC --> CGQ  weekday : 7 time : 11:35 -- 14:20
-Sec: 5 Plane index : 1CGQ --> LYI  weekday : 7 time : 16:00 -- 18:15
+Sec: 3  Plane index : 1  KMG --> INC  weekday : 7 time : 06:55 -- 09:40
+Sec: 4  Plane index : 1  INC --> CGQ  weekday : 7 time : 11:35 -- 14:20
+Sec: 5  Plane index : 1  CGQ --> LYI  weekday : 7 time : 16:00 -- 18:15
 ToD 2 : 
-Sec: 7 Plane index : 1LYI --> CGQ  weekday : 1 time : 12:55 -- 15:05
+Sec: 7  Plane index : 1  LYI --> CGQ  weekday : 1 time : 12:55 -- 15:05

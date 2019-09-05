@@ -1,3 +1,3 @@
-RIZ-->CGQ
-week4    22:10 -- 00:10
-AirLine Index:8993   Plane Index:5
+RIZ --> CGQ
+weekday 4    22:10 -- 00:10
+AirLine Index: 8993   Plane Index: 5

@@ -1,3 +1,3 @@
-KMG-->WNZ
-week2    21:25 -- 00:15
-AirLine Index:6006   Plane Index:12
+KMG --> WNZ
+weekday 2    21:25 -- 00:15
+AirLine Index: 6006   Plane Index: 12

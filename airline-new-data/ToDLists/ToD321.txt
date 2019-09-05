@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1INC --> KMG  weekday : 6 time : 21:45 -- 00:30
-Sec: 1 Plane index : 1KMG --> INC  weekday : 7 time : 06:55 -- 09:40
+Sec: 0  Plane index : 1  INC --> KMG  weekday : 6 time : 21:45 -- 00:30
+Sec: 1  Plane index : 1  KMG --> INC  weekday : 7 time : 06:55 -- 09:40

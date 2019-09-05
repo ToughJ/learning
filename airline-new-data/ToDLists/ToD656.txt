@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1KMG --> WNZ  weekday : 2 time : 21:25 -- 00:15
-Sec: 1 Plane index : 1WNZ --> KWE  weekday : 3 time : 07:15 -- 09:50
+Sec: 0  Plane index : 1  KMG --> WNZ  weekday : 2 time : 21:25 -- 00:15
+Sec: 1  Plane index : 1  WNZ --> KWE  weekday : 3 time : 07:15 -- 09:50
 ToD 1 : 
-Sec: 3 Plane index : 1KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
-Sec: 4 Plane index : 1WNZ --> HUZ  weekday : 5 time : 20:30 -- 22:15
+Sec: 3  Plane index : 1  KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
+Sec: 4  Plane index : 1  WNZ --> HUZ  weekday : 5 time : 20:30 -- 22:15
 ToD 2 : 
-Sec: 6 Plane index : 1HUZ --> WNZ  weekday : 6 time : 11:15 -- 13:00
-Sec: 7 Plane index : 1WNZ --> KMG  weekday : 6 time : 17:15 -- 20:20
+Sec: 6  Plane index : 1  HUZ --> WNZ  weekday : 6 time : 11:15 -- 13:00
+Sec: 7  Plane index : 1  WNZ --> KMG  weekday : 6 time : 17:15 -- 20:20

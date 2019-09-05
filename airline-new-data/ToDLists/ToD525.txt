@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1KJH --> CTU  weekday : 2 time : 09:40 -- 11:10
-Sec: 1 Plane index : 1CTU --> KJH  weekday : 2 time : 12:10 -- 13:45
+Sec: 0  Plane index : 1  KJH --> CTU  weekday : 2 time : 09:40 -- 11:10
+Sec: 1  Plane index : 1  CTU --> KJH  weekday : 2 time : 12:10 -- 13:45

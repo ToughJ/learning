@@ -1,14 +1,14 @@
 ToD 0 : 
-Sec: 0 Plane index : 1DLC --> ENH  weekday : 6 time : 20:50 -- 23:30
-Sec: 1 Plane index : 1ENH --> CTU  weekday : 7 time : 00:30 -- 02:00
+Sec: 0  Plane index : 1  DLC --> ENH  weekday : 6 time : 20:50 -- 23:30
+Sec: 1  Plane index : 1  ENH --> CTU  weekday : 7 time : 00:30 -- 02:00
 ToD 1 : 
-Sec: 3 Plane index : 1CTU --> XFN  weekday : 7 time : 20:25 -- 22:15
-Sec: 4 Plane index : 1XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
+Sec: 3  Plane index : 1  CTU --> XFN  weekday : 7 time : 20:25 -- 22:15
+Sec: 4  Plane index : 1  XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
 ToD 2 : 
-Sec: 6 Plane index : 1WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
-Sec: 7 Plane index : 1XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
+Sec: 6  Plane index : 1  WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+Sec: 7  Plane index : 1  XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
 ToD 3 : 
-Sec: 9 Plane index : 1CTU --> HDG  weekday : 3 time : 06:25 -- 08:30
-Sec: 10 Plane index : 1HDG --> DLC  weekday : 3 time : 09:15 -- 11:00
-Sec: 11 Plane index : 1DLC --> NZH  weekday : 3 time : 12:00 -- 14:30
-Sec: 12 Plane index : 1NZH --> DLC  weekday : 3 time : 15:15 -- 17:35
+Sec: 9  Plane index : 1  CTU --> HDG  weekday : 3 time : 06:25 -- 08:30
+Sec: 10  Plane index : 1  HDG --> DLC  weekday : 3 time : 09:15 -- 11:00
+Sec: 11  Plane index : 1  DLC --> NZH  weekday : 3 time : 12:00 -- 14:30
+Sec: 12  Plane index : 1  NZH --> DLC  weekday : 3 time : 15:15 -- 17:35

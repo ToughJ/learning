@@ -1,3 +1,3 @@
-HGH-->BFJ
-week7    12:35 -- 15:10
-AirLine Index:8823   Plane Index:27
+HGH --> BFJ
+weekday 7    12:35 -- 15:10
+AirLine Index: 8823   Plane Index: 27

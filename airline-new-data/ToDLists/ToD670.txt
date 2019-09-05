@@ -1,8 +1,8 @@
 ToD 0 : 
-Sec: 0 Plane index : 1XIY --> WDS  weekday : 2 time : 21:20 -- 22:25
-Sec: 1 Plane index : 1WDS --> HGH  weekday : 2 time : 23:10 -- 01:05
-Sec: 2 Plane index : 1HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
+Sec: 0  Plane index : 1  XIY --> WDS  weekday : 2 time : 21:20 -- 22:25
+Sec: 1  Plane index : 1  WDS --> HGH  weekday : 2 time : 23:10 -- 01:05
+Sec: 2  Plane index : 1  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
 ToD 1 : 
-Sec: 4 Plane index : 1CSX --> ZUH  weekday : 6 time : 07:45 -- 09:20
-Sec: 5 Plane index : 1ZUH --> BFJ  weekday : 6 time : 13:35 -- 15:40
-Sec: 6 Plane index : 1BFJ --> XIY  weekday : 6 time : 16:40 -- 18:25
+Sec: 4  Plane index : 1  CSX --> ZUH  weekday : 6 time : 07:45 -- 09:20
+Sec: 5  Plane index : 1  ZUH --> BFJ  weekday : 6 time : 13:35 -- 15:40
+Sec: 6  Plane index : 1  BFJ --> XIY  weekday : 6 time : 16:40 -- 18:25

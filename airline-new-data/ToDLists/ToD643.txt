@@ -1,6 +1,6 @@
 ToD 0 : 
-Sec: 0 Plane index : 1DYG --> LJG  weekday : 2 time : 10:10 -- 12:00
-Sec: 1 Plane index : 1LJG --> ZYI  weekday : 2 time : 17:35 -- 19:10
+Sec: 0  Plane index : 1  DYG --> LJG  weekday : 2 time : 10:10 -- 12:00
+Sec: 1  Plane index : 1  LJG --> ZYI  weekday : 2 time : 17:35 -- 19:10
 ToD 1 : 
-Sec: 3 Plane index : 1ZYI --> LJG  weekday : 4 time : 13:00 -- 14:25
-Sec: 4 Plane index : 1LJG --> DYG  weekday : 4 time : 21:10 -- 23:05
+Sec: 3  Plane index : 1  ZYI --> LJG  weekday : 4 time : 13:00 -- 14:25
+Sec: 4  Plane index : 1  LJG --> DYG  weekday : 4 time : 21:10 -- 23:05

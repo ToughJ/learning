@@ -1,12 +1,12 @@
 ToD 0 : 
-Sec: 0 Plane index : 1KJH --> CTU  weekday : 2 time : 09:40 -- 11:10
-Sec: 1 Plane index : 1CTU --> XFN  weekday : 2 time : 20:10 -- 21:55
+Sec: 0  Plane index : 1  KJH --> CTU  weekday : 2 time : 09:40 -- 11:10
+Sec: 1  Plane index : 1  CTU --> XFN  weekday : 2 time : 20:10 -- 21:55
 ToD 1 : 
-Sec: 3 Plane index : 1XFN --> CTU  weekday : 3 time : 17:20 -- 19:25
-Sec: 4 Plane index : 1CTU --> XFN  weekday : 3 time : 20:25 -- 22:15
-Sec: 5 Plane index : 1XFN --> WNZ  weekday : 3 time : 23:00 -- 00:45
+Sec: 3  Plane index : 1  XFN --> CTU  weekday : 3 time : 17:20 -- 19:25
+Sec: 4  Plane index : 1  CTU --> XFN  weekday : 3 time : 20:25 -- 22:15
+Sec: 5  Plane index : 1  XFN --> WNZ  weekday : 3 time : 23:00 -- 00:45
 ToD 2 : 
-Sec: 7 Plane index : 1WNZ --> KMG  weekday : 4 time : 17:15 -- 20:20
-Sec: 8 Plane index : 1KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
+Sec: 7  Plane index : 1  WNZ --> KMG  weekday : 4 time : 17:15 -- 20:20
+Sec: 8  Plane index : 1  KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
 ToD 3 : 
-Sec: 10 Plane index : 1HGH --> KJH  weekday : 6 time : 06:30 -- 08:55
+Sec: 10  Plane index : 1  HGH --> KJH  weekday : 6 time : 06:30 -- 08:55

@@ -1,3 +1,3 @@
-HDG-->CTU
-week5    22:35 -- 01:05
-AirLine Index:8908   Plane Index:22
+HDG --> CTU
+weekday 5    22:35 -- 01:05
+AirLine Index: 8908   Plane Index: 22

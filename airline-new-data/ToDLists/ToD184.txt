@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HGH --> LHW  weekday : 5 time : 12:00 -- 15:00
-Sec: 1 Plane index : 1LHW --> HGH  weekday : 5 time : 20:15 -- 23:00
+Sec: 0  Plane index : 1  HGH --> LHW  weekday : 5 time : 12:00 -- 15:00
+Sec: 1  Plane index : 1  LHW --> HGH  weekday : 5 time : 20:15 -- 23:00

@@ -1,3 +1,3 @@
-KWE-->SQD
-week4    09:40 -- 11:55
-AirLine Index:8040   Plane Index:24
+KWE --> SQD
+weekday 4    09:40 -- 11:55
+AirLine Index: 8040   Plane Index: 24

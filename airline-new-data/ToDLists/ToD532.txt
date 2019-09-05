@@ -1,12 +1,12 @@
 ToD 0 : 
-Sec: 0 Plane index : 1AKU --> CGO  weekday : 5 time : 15:30 -- 19:45
-Sec: 1 Plane index : 1CGO --> HGH  weekday : 5 time : 20:45 -- 22:25
+Sec: 0  Plane index : 1  AKU --> CGO  weekday : 5 time : 15:30 -- 19:45
+Sec: 1  Plane index : 1  CGO --> HGH  weekday : 5 time : 20:45 -- 22:25
 ToD 1 : 
-Sec: 3 Plane index : 1HGH --> SZX  weekday : 7 time : 08:45 -- 11:05
+Sec: 3  Plane index : 1  HGH --> SZX  weekday : 7 time : 08:45 -- 11:05
 ToD 2 : 
-Sec: 5 Plane index : 1SZX --> HGH  weekday : 7 time : 22:35 -- 00:35
-Sec: 6 Plane index : 1HGH --> SZX  weekday : 1 time : 08:45 -- 11:05
+Sec: 5  Plane index : 1  SZX --> HGH  weekday : 7 time : 22:35 -- 00:35
+Sec: 6  Plane index : 1  HGH --> SZX  weekday : 1 time : 08:45 -- 11:05
 ToD 3 : 
-Sec: 8 Plane index : 1SZX --> HGH  weekday : 2 time : 02:15 -- 04:20
-Sec: 9 Plane index : 1HGH --> CGO  weekday : 2 time : 06:40 -- 08:35
-Sec: 10 Plane index : 1CGO --> AKU  weekday : 2 time : 09:35 -- 14:35
+Sec: 8  Plane index : 1  SZX --> HGH  weekday : 2 time : 02:15 -- 04:20
+Sec: 9  Plane index : 1  HGH --> CGO  weekday : 2 time : 06:40 -- 08:35
+Sec: 10  Plane index : 1  CGO --> AKU  weekday : 2 time : 09:35 -- 14:35

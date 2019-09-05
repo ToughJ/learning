@@ -1,3 +1,3 @@
-HRB-->HLH
-week4    15:15 -- 16:35
-AirLine Index:8682   Plane Index:2
+HRB --> HLH
+weekday 4    15:15 -- 16:35
+AirLine Index: 8682   Plane Index: 2

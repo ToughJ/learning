@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1UTP --> XIY  weekday : 3 time : 18:15 -- 22:05
-Sec: 1 Plane index : 1XIY --> ENY  weekday : 3 time : 23:05 -- 00:10
+Sec: 0  Plane index : 1  UTP --> XIY  weekday : 3 time : 18:15 -- 22:05
+Sec: 1  Plane index : 1  XIY --> ENY  weekday : 3 time : 23:05 -- 00:10
 ToD 1 : 
-Sec: 3 Plane index : 1ENY --> XIY  weekday : 4 time : 21:15 -- 22:10
-Sec: 4 Plane index : 1XIY --> URC  weekday : 5 time : 02:00 -- 05:25
+Sec: 3  Plane index : 1  ENY --> XIY  weekday : 4 time : 21:15 -- 22:10
+Sec: 4  Plane index : 1  XIY --> URC  weekday : 5 time : 02:00 -- 05:25
 ToD 2 : 
-Sec: 6 Plane index : 1URC --> XIY  weekday : 6 time : 02:45 -- 05:55
-Sec: 7 Plane index : 1XIY --> UTP  weekday : 6 time : 09:10 -- 13:30
+Sec: 6  Plane index : 1  URC --> XIY  weekday : 6 time : 02:45 -- 05:55
+Sec: 7  Plane index : 1  XIY --> UTP  weekday : 6 time : 09:10 -- 13:30

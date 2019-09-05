@@ -1,12 +1,12 @@
 ToD 0 : 
-Sec: 0 Plane index : 1NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
-Sec: 1 Plane index : 1CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
-Sec: 2 Plane index : 1HGH --> CIF  weekday : 7 time : 06:20 -- 09:10
-Sec: 3 Plane index : 1CIF --> HRB  weekday : 7 time : 10:05 -- 11:30
+Sec: 0  Plane index : 1  NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
+Sec: 1  Plane index : 1  CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
+Sec: 2  Plane index : 1  HGH --> CIF  weekday : 7 time : 06:20 -- 09:10
+Sec: 3  Plane index : 1  CIF --> HRB  weekday : 7 time : 10:05 -- 11:30
 ToD 1 : 
-Sec: 5 Plane index : 1HRB --> HGH  weekday : 1 time : 06:40 -- 10:00
-Sec: 6 Plane index : 1HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
+Sec: 5  Plane index : 1  HRB --> HGH  weekday : 1 time : 06:40 -- 10:00
+Sec: 6  Plane index : 1  HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
 ToD 2 : 
-Sec: 8 Plane index : 1CAN --> XNN  weekday : 3 time : 05:45 -- 09:15
-Sec: 9 Plane index : 1XNN --> LYG  weekday : 3 time : 10:00 -- 12:40
-Sec: 10 Plane index : 1LYG --> NGB  weekday : 3 time : 13:25 -- 14:45
+Sec: 8  Plane index : 1  CAN --> XNN  weekday : 3 time : 05:45 -- 09:15
+Sec: 9  Plane index : 1  XNN --> LYG  weekday : 3 time : 10:00 -- 12:40
+Sec: 10  Plane index : 1  LYG --> NGB  weekday : 3 time : 13:25 -- 14:45

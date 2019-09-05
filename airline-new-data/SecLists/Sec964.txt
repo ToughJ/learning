@@ -1,3 +1,3 @@
-HGH-->SZX
-week1    02:00 -- 04:15
-AirLine Index:9737   Plane Index:26
+HGH --> SZX
+weekday 1    02:00 -- 04:15
+AirLine Index: 9737   Plane Index: 26

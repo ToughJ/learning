@@ -1,3 +1,3 @@
-LYA-->HGH
-week7    23:15 -- 01:05
-AirLine Index:8076   Plane Index:37
+LYA --> HGH
+weekday 7    23:15 -- 01:05
+AirLine Index: 8076   Plane Index: 37

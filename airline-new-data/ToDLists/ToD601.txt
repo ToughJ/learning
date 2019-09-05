@@ -1,11 +1,11 @@
 ToD 0 : 
-Sec: 0 Plane index : 1LJG --> HJJ  weekday : 3 time : 16:35 -- 18:35
-Sec: 1 Plane index : 1HJJ --> HGH  weekday : 3 time : 19:20 -- 21:15
+Sec: 0  Plane index : 1  LJG --> HJJ  weekday : 3 time : 16:35 -- 18:35
+Sec: 1  Plane index : 1  HJJ --> HGH  weekday : 3 time : 19:20 -- 21:15
 ToD 1 : 
-Sec: 3 Plane index : 1HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
-Sec: 4 Plane index : 1CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
-Sec: 5 Plane index : 1HGH --> PEK  weekday : 4 time : 19:00 -- 21:20
+Sec: 3  Plane index : 1  HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
+Sec: 4  Plane index : 1  CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
+Sec: 5  Plane index : 1  HGH --> PEK  weekday : 4 time : 19:00 -- 21:20
 ToD 2 : 
-Sec: 7 Plane index : 1PEK --> HGH  weekday : 7 time : 05:50 -- 08:05
-Sec: 8 Plane index : 1HGH --> HJJ  weekday : 7 time : 09:40 -- 11:45
-Sec: 9 Plane index : 1HJJ --> LJG  weekday : 7 time : 12:35 -- 14:35
+Sec: 7  Plane index : 1  PEK --> HGH  weekday : 7 time : 05:50 -- 08:05
+Sec: 8  Plane index : 1  HGH --> HJJ  weekday : 7 time : 09:40 -- 11:45
+Sec: 9  Plane index : 1  HJJ --> LJG  weekday : 7 time : 12:35 -- 14:35

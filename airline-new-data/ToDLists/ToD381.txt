@@ -1,10 +1,10 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HET --> XIY  weekday : 4 time : 22:25 -- 00:15
+Sec: 0  Plane index : 1  HET --> XIY  weekday : 4 time : 22:25 -- 00:15
 ToD 1 : 
-Sec: 2 Plane index : 1XIY --> WDS  weekday : 5 time : 21:20 -- 22:25
-Sec: 3 Plane index : 1WDS --> HGH  weekday : 5 time : 23:10 -- 01:05
-Sec: 4 Plane index : 1HGH --> CIF  weekday : 6 time : 06:20 -- 09:10
+Sec: 2  Plane index : 1  XIY --> WDS  weekday : 5 time : 21:20 -- 22:25
+Sec: 3  Plane index : 1  WDS --> HGH  weekday : 5 time : 23:10 -- 01:05
+Sec: 4  Plane index : 1  HGH --> CIF  weekday : 6 time : 06:20 -- 09:10
 ToD 2 : 
-Sec: 6 Plane index : 1CIF --> HRB  weekday : 1 time : 10:05 -- 11:30
-Sec: 7 Plane index : 1HRB --> CIF  weekday : 1 time : 12:30 -- 14:10
-Sec: 8 Plane index : 1CIF --> HET  weekday : 1 time : 20:20 -- 21:40
+Sec: 6  Plane index : 1  CIF --> HRB  weekday : 1 time : 10:05 -- 11:30
+Sec: 7  Plane index : 1  HRB --> CIF  weekday : 1 time : 12:30 -- 14:10
+Sec: 8  Plane index : 1  CIF --> HET  weekday : 1 time : 20:20 -- 21:40

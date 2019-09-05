@@ -1,13 +1,13 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CIF --> HET  weekday : 1 time : 20:20 -- 21:40
-Sec: 1 Plane index : 1HET --> XIY  weekday : 1 time : 22:25 -- 00:15
-Sec: 2 Plane index : 1XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
+Sec: 0  Plane index : 1  CIF --> HET  weekday : 1 time : 20:20 -- 21:40
+Sec: 1  Plane index : 1  HET --> XIY  weekday : 1 time : 22:25 -- 00:15
+Sec: 2  Plane index : 1  XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
 ToD 1 : 
-Sec: 4 Plane index : 1BFJ --> ZUH  weekday : 4 time : 10:40 -- 12:40
-Sec: 5 Plane index : 1ZUH --> BFJ  weekday : 4 time : 13:35 -- 15:40
-Sec: 6 Plane index : 1BFJ --> XIY  weekday : 4 time : 16:40 -- 18:25
-Sec: 7 Plane index : 1XIY --> WDS  weekday : 4 time : 21:20 -- 22:25
+Sec: 4  Plane index : 1  BFJ --> ZUH  weekday : 4 time : 10:40 -- 12:40
+Sec: 5  Plane index : 1  ZUH --> BFJ  weekday : 4 time : 13:35 -- 15:40
+Sec: 6  Plane index : 1  BFJ --> XIY  weekday : 4 time : 16:40 -- 18:25
+Sec: 7  Plane index : 1  XIY --> WDS  weekday : 4 time : 21:20 -- 22:25
 ToD 2 : 
-Sec: 9 Plane index : 1WDS --> XIY  weekday : 5 time : 09:55 -- 10:55
-Sec: 10 Plane index : 1XIY --> HET  weekday : 5 time : 11:55 -- 13:45
-Sec: 11 Plane index : 1HET --> CIF  weekday : 5 time : 14:30 -- 15:55
+Sec: 9  Plane index : 1  WDS --> XIY  weekday : 5 time : 09:55 -- 10:55
+Sec: 10  Plane index : 1  XIY --> HET  weekday : 5 time : 11:55 -- 13:45
+Sec: 11  Plane index : 1  HET --> CIF  weekday : 5 time : 14:30 -- 15:55

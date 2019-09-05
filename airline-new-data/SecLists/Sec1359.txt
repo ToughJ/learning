@@ -1,3 +1,3 @@
-XNN-->LYG
-week7    10:00 -- 12:40
-AirLine Index:8832   Plane Index:38
+XNN --> LYG
+weekday 7    10:00 -- 12:40
+AirLine Index: 8832   Plane Index: 38

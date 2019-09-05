@@ -1,3 +1,3 @@
-XIY-->ENY
-week5    23:05 -- 00:10
-AirLine Index:8841   Plane Index:14
+XIY --> ENY
+weekday 5    23:05 -- 00:10
+AirLine Index: 8841   Plane Index: 14

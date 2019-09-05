@@ -1,3 +1,3 @@
-HGH-->MIG
-week1    08:25 -- 11:15
-AirLine Index:8773   Plane Index:10
+HGH --> MIG
+weekday 1    08:25 -- 11:15
+AirLine Index: 8773   Plane Index: 10

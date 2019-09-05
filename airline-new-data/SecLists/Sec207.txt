@@ -1,3 +1,3 @@
-YNJ-->BPE
-week4    19:45 -- 21:40
-AirLine Index:8894   Plane Index:6
+YNJ --> BPE
+weekday 4    19:45 -- 21:40
+AirLine Index: 8894   Plane Index: 6

@@ -1,12 +1,12 @@
 ToD 0 : 
-Sec: 0 Plane index : 1XNN --> ENH  weekday : 4 time : 20:15 -- 22:15
-Sec: 1 Plane index : 1ENH --> SZX  weekday : 4 time : 23:10 -- 01:15
+Sec: 0  Plane index : 1  XNN --> ENH  weekday : 4 time : 20:15 -- 22:15
+Sec: 1  Plane index : 1  ENH --> SZX  weekday : 4 time : 23:10 -- 01:15
 ToD 1 : 
-Sec: 3 Plane index : 1SZX --> HGH  weekday : 5 time : 22:35 -- 00:35
+Sec: 3  Plane index : 1  SZX --> HGH  weekday : 5 time : 22:35 -- 00:35
 ToD 2 : 
-Sec: 5 Plane index : 1HGH --> MDL  weekday : 6 time : 15:05 -- 19:25
-Sec: 6 Plane index : 1MDL --> CTU  weekday : 6 time : 23:50 -- 02:15
+Sec: 5  Plane index : 1  HGH --> MDL  weekday : 6 time : 15:05 -- 19:25
+Sec: 6  Plane index : 1  MDL --> CTU  weekday : 6 time : 23:50 -- 02:15
 ToD 3 : 
-Sec: 8 Plane index : 1CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
-Sec: 9 Plane index : 1ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
-Sec: 10 Plane index : 1DLC --> XNN  weekday : 1 time : 12:00 -- 14:40
+Sec: 8  Plane index : 1  CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+Sec: 9  Plane index : 1  ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
+Sec: 10  Plane index : 1  DLC --> XNN  weekday : 1 time : 12:00 -- 14:40

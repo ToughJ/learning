@@ -1,3 +1,3 @@
-INC-->KMG
-week5    21:45 -- 00:30
-AirLine Index:8974   Plane Index:16
+INC --> KMG
+weekday 5    21:45 -- 00:30
+AirLine Index: 8974   Plane Index: 16

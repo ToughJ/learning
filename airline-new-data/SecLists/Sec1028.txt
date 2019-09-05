@@ -1,3 +1,3 @@
-ZUH-->XUZ
-week3    17:40 -- 20:00
-AirLine Index:8088   Plane Index:28
+ZUH --> XUZ
+weekday 3    17:40 -- 20:00
+AirLine Index: 8088   Plane Index: 28

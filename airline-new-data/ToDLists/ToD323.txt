@@ -1,6 +1,6 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CGQ --> INC  weekday : 5 time : 16:30 -- 19:40
-Sec: 1 Plane index : 1INC --> KMG  weekday : 5 time : 21:45 -- 00:30
+Sec: 0  Plane index : 1  CGQ --> INC  weekday : 5 time : 16:30 -- 19:40
+Sec: 1  Plane index : 1  INC --> KMG  weekday : 5 time : 21:45 -- 00:30
 ToD 1 : 
-Sec: 3 Plane index : 1KMG --> INC  weekday : 2 time : 07:35 -- 10:20
-Sec: 4 Plane index : 1INC --> CGQ  weekday : 2 time : 11:35 -- 14:20
+Sec: 3  Plane index : 1  KMG --> INC  weekday : 2 time : 07:35 -- 10:20
+Sec: 4  Plane index : 1  INC --> CGQ  weekday : 2 time : 11:35 -- 14:20

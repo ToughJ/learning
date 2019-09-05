@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1MDL --> HGH  weekday : 2 time : 09:10 -- 13:05
-Sec: 1 Plane index : 1HGH --> MDL  weekday : 2 time : 15:05 -- 19:25
+Sec: 0  Plane index : 1  MDL --> HGH  weekday : 2 time : 09:10 -- 13:05
+Sec: 1  Plane index : 1  HGH --> MDL  weekday : 2 time : 15:05 -- 19:25
 ToD 1 : 
-Sec: 3 Plane index : 1MDL --> CTU  weekday : 4 time : 23:50 -- 02:15
-Sec: 4 Plane index : 1CTU --> HDG  weekday : 5 time : 06:25 -- 08:30
+Sec: 3  Plane index : 1  MDL --> CTU  weekday : 4 time : 23:50 -- 02:15
+Sec: 4  Plane index : 1  CTU --> HDG  weekday : 5 time : 06:25 -- 08:30
 ToD 2 : 
-Sec: 6 Plane index : 1HDG --> CTU  weekday : 5 time : 22:35 -- 01:05
-Sec: 7 Plane index : 1CTU --> MDL  weekday : 6 time : 05:55 -- 08:25
+Sec: 6  Plane index : 1  HDG --> CTU  weekday : 5 time : 22:35 -- 01:05
+Sec: 7  Plane index : 1  CTU --> MDL  weekday : 6 time : 05:55 -- 08:25

@@ -1,7 +1,7 @@
 ToD 0 : 
-Sec: 0 Plane index : 1KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
-Sec: 1 Plane index : 1HGH --> LYI  weekday : 5 time : 06:25 -- 07:55
-Sec: 2 Plane index : 1LYI --> TYN  weekday : 5 time : 08:40 -- 10:20
+Sec: 0  Plane index : 1  KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
+Sec: 1  Plane index : 1  HGH --> LYI  weekday : 5 time : 06:25 -- 07:55
+Sec: 2  Plane index : 1  LYI --> TYN  weekday : 5 time : 08:40 -- 10:20
 ToD 1 : 
-Sec: 4 Plane index : 1TYN --> LYI  weekday : 1 time : 11:15 -- 12:50
-Sec: 5 Plane index : 1LYI --> KMG  weekday : 1 time : 19:00 -- 22:20
+Sec: 4  Plane index : 1  TYN --> LYI  weekday : 1 time : 11:15 -- 12:50
+Sec: 5  Plane index : 1  LYI --> KMG  weekday : 1 time : 19:00 -- 22:20

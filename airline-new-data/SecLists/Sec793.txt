@@ -1,3 +1,3 @@
-NZL-->DLC
-week2    14:50 -- 16:50
-AirLine Index:9016   Plane Index:22
+NZL --> DLC
+weekday 2    14:50 -- 16:50
+AirLine Index: 9016   Plane Index: 22

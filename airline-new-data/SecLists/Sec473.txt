@@ -1,3 +1,3 @@
-CXR-->XIY
-week2    04:20 -- 08:10
-AirLine Index:8800   Plane Index:13
+CXR --> XIY
+weekday 2    04:20 -- 08:10
+AirLine Index: 8800   Plane Index: 13

@@ -1,3 +1,3 @@
-HRB-->CIF
-week1    12:30 -- 14:10
-AirLine Index:8758   Plane Index:5
+HRB --> CIF
+weekday 1    12:30 -- 14:10
+AirLine Index: 8758   Plane Index: 5

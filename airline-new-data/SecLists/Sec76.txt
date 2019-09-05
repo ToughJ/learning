@@ -1,3 +1,3 @@
-URC-->INC
-week6    09:55 -- 12:50
-AirLine Index:8668   Plane Index:3
+URC --> INC
+weekday 6    09:55 -- 12:50
+AirLine Index: 8668   Plane Index: 3

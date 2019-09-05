@@ -1,3 +1,3 @@
-CGO-->AKU
-week4    09:35 -- 14:35
-AirLine Index:8781   Plane Index:26
+CGO --> AKU
+weekday 4    09:35 -- 14:35
+AirLine Index: 8781   Plane Index: 26

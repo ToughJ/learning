@@ -1,3 +1,3 @@
-HAK-->XFN
-week6    15:30 -- 18:00
-AirLine Index:8922   Plane Index:29
+HAK --> XFN
+weekday 6    15:30 -- 18:00
+AirLine Index: 8922   Plane Index: 29

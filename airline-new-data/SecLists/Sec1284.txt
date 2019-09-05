@@ -1,3 +1,3 @@
-XNN-->HDG
-week7    11:10 -- 13:15
-AirLine Index:8835   Plane Index:36
+XNN --> HDG
+weekday 7    11:10 -- 13:15
+AirLine Index: 8835   Plane Index: 36

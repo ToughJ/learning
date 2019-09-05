@@ -1,3 +1,3 @@
-CKG-->JIQ
-week7    13:20 -- 14:15
-AirLine Index:8856   Plane Index:5
+CKG --> JIQ
+weekday 7    13:20 -- 14:15
+AirLine Index: 8856   Plane Index: 5

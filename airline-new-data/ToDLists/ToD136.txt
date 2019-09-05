@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HGH --> BPE  weekday : 4 time : 13:00 -- 15:20
-Sec: 1 Plane index : 1BPE --> HGH  weekday : 4 time : 22:25 -- 00:40
+Sec: 0  Plane index : 1  HGH --> BPE  weekday : 4 time : 13:00 -- 15:20
+Sec: 1  Plane index : 1  BPE --> HGH  weekday : 4 time : 22:25 -- 00:40

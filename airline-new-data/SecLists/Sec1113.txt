@@ -1,3 +1,3 @@
-LJG-->HJJ
-week5    16:35 -- 18:35
-AirLine Index:8802   Plane Index:31
+LJG --> HJJ
+weekday 5    16:35 -- 18:35
+AirLine Index: 8802   Plane Index: 31

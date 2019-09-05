@@ -1,3 +1,3 @@
-HGH-->HZG
-week5    15:55 -- 18:25
-AirLine Index:8779   Plane Index:7
+HGH --> HZG
+weekday 5    15:55 -- 18:25
+AirLine Index: 8779   Plane Index: 7

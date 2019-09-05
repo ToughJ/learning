@@ -1,11 +1,11 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CTU --> ENY  weekday : 5 time : 05:55 -- 07:20
+Sec: 0  Plane index : 1  CTU --> ENY  weekday : 5 time : 05:55 -- 07:20
 ToD 1 : 
-Sec: 2 Plane index : 1ENY --> NKG  weekday : 6 time : 06:35 -- 08:55
-Sec: 3 Plane index : 1NKG --> ENY  weekday : 6 time : 09:55 -- 12:10
-Sec: 4 Plane index : 1ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
+Sec: 2  Plane index : 1  ENY --> NKG  weekday : 6 time : 06:35 -- 08:55
+Sec: 3  Plane index : 1  NKG --> ENY  weekday : 6 time : 09:55 -- 12:10
+Sec: 4  Plane index : 1  ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
 ToD 2 : 
-Sec: 6 Plane index : 1WNZ --> KWE  weekday : 1 time : 07:15 -- 09:50
-Sec: 7 Plane index : 1KWE --> WNZ  weekday : 1 time : 10:50 -- 13:15
-Sec: 8 Plane index : 1WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
-Sec: 9 Plane index : 1XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
+Sec: 6  Plane index : 1  WNZ --> KWE  weekday : 1 time : 07:15 -- 09:50
+Sec: 7  Plane index : 1  KWE --> WNZ  weekday : 1 time : 10:50 -- 13:15
+Sec: 8  Plane index : 1  WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+Sec: 9  Plane index : 1  XFN --> CTU  weekday : 1 time : 17:20 -- 19:25

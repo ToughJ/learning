@@ -1,3 +1,3 @@
-BPE-->YNJ
-week6    16:00 -- 17:50
-AirLine Index:8893   Plane Index:6
+BPE --> YNJ
+weekday 6    16:00 -- 17:50
+AirLine Index: 8893   Plane Index: 6

@@ -1,3 +1,3 @@
-SZX-->ENH
-week4    06:35 -- 08:35
-AirLine Index:8683   Plane Index:37
+SZX --> ENH
+weekday 4    06:35 -- 08:35
+AirLine Index: 8683   Plane Index: 37

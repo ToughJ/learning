@@ -1,6 +1,6 @@
 ToD 0 : 
-Sec: 0 Plane index : 1WUH --> LJG  weekday : 6 time : 11:50 -- 14:20
-Sec: 1 Plane index : 1LJG --> TEN  weekday : 6 time : 20:15 -- 22:20
+Sec: 0  Plane index : 1  WUH --> LJG  weekday : 6 time : 11:50 -- 14:20
+Sec: 1  Plane index : 1  LJG --> TEN  weekday : 6 time : 20:15 -- 22:20
 ToD 1 : 
-Sec: 3 Plane index : 1TEN --> WNZ  weekday : 2 time : 23:05 -- 01:10
-Sec: 4 Plane index : 1WNZ --> WUH  weekday : 3 time : 09:05 -- 10:45
+Sec: 3  Plane index : 1  TEN --> WNZ  weekday : 2 time : 23:05 -- 01:10
+Sec: 4  Plane index : 1  WNZ --> WUH  weekday : 3 time : 09:05 -- 10:45

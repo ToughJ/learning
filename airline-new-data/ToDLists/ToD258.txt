@@ -1,6 +1,6 @@
 ToD 0 : 
-Sec: 0 Plane index : 1KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
-Sec: 1 Plane index : 1WNZ --> XFN  weekday : 5 time : 14:45 -- 16:35
+Sec: 0  Plane index : 1  KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
+Sec: 1  Plane index : 1  WNZ --> XFN  weekday : 5 time : 14:45 -- 16:35
 ToD 1 : 
-Sec: 3 Plane index : 1XFN --> WNZ  weekday : 1 time : 23:00 -- 00:45
-Sec: 4 Plane index : 1WNZ --> KWE  weekday : 2 time : 07:15 -- 09:50
+Sec: 3  Plane index : 1  XFN --> WNZ  weekday : 1 time : 23:00 -- 00:45
+Sec: 4  Plane index : 1  WNZ --> KWE  weekday : 2 time : 07:15 -- 09:50

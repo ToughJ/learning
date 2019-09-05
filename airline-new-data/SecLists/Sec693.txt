@@ -1,3 +1,3 @@
-HET-->XIY
-week7    22:25 -- 00:15
-AirLine Index:8092   Plane Index:19
+HET --> XIY
+weekday 7    22:25 -- 00:15
+AirLine Index: 8092   Plane Index: 19

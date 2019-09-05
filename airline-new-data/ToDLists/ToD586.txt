@@ -1,14 +1,14 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HAK --> XFN  weekday : 4 time : 15:30 -- 18:00
-Sec: 1 Plane index : 1XFN --> HRB  weekday : 4 time : 18:45 -- 21:55
+Sec: 0  Plane index : 1  HAK --> XFN  weekday : 4 time : 15:30 -- 18:00
+Sec: 1  Plane index : 1  XFN --> HRB  weekday : 4 time : 18:45 -- 21:55
 ToD 1 : 
-Sec: 3 Plane index : 1HRB --> CIF  weekday : 5 time : 12:30 -- 14:10
-Sec: 4 Plane index : 1CIF --> HGH  weekday : 5 time : 14:55 -- 17:30
-Sec: 5 Plane index : 1HGH --> PEK  weekday : 5 time : 19:00 -- 21:20
+Sec: 3  Plane index : 1  HRB --> CIF  weekday : 5 time : 12:30 -- 14:10
+Sec: 4  Plane index : 1  CIF --> HGH  weekday : 5 time : 14:55 -- 17:30
+Sec: 5  Plane index : 1  HGH --> PEK  weekday : 5 time : 19:00 -- 21:20
 ToD 2 : 
-Sec: 7 Plane index : 1PEK --> HGH  weekday : 7 time : 08:20 -- 10:35
-Sec: 8 Plane index : 1HGH --> CAN  weekday : 7 time : 11:35 -- 13:45
+Sec: 7  Plane index : 1  PEK --> HGH  weekday : 7 time : 08:20 -- 10:35
+Sec: 8  Plane index : 1  HGH --> CAN  weekday : 7 time : 11:35 -- 13:45
 ToD 3 : 
-Sec: 10 Plane index : 1CAN --> HGH  weekday : 1 time : 02:25 -- 04:35
-Sec: 11 Plane index : 1HGH --> WUT  weekday : 1 time : 06:50 -- 09:10
-Sec: 12 Plane index : 1WUT --> HAK  weekday : 1 time : 11:05 -- 14:10
+Sec: 10  Plane index : 1  CAN --> HGH  weekday : 1 time : 02:25 -- 04:35
+Sec: 11  Plane index : 1  HGH --> WUT  weekday : 1 time : 06:50 -- 09:10
+Sec: 12  Plane index : 1  WUT --> HAK  weekday : 1 time : 11:05 -- 14:10

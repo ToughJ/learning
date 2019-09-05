@@ -1,3 +1,3 @@
-DYG-->LJG
-week6    10:10 -- 12:00
-AirLine Index:8025   Plane Index:32
+DYG --> LJG
+weekday 6    10:10 -- 12:00
+AirLine Index: 8025   Plane Index: 32

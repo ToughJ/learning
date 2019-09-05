@@ -1,3 +1,3 @@
-HGH-->WDS
-week2    06:45 -- 09:10
-AirLine Index:8859   Plane Index:19
+HGH --> WDS
+weekday 2    06:45 -- 09:10
+AirLine Index: 8859   Plane Index: 19

@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1LHW --> MIG  weekday : 2 time : 16:20 -- 17:40
-Sec: 1 Plane index : 1MIG --> HGH  weekday : 2 time : 18:35 -- 21:05
+Sec: 0  Plane index : 1  LHW --> MIG  weekday : 2 time : 16:20 -- 17:40
+Sec: 1  Plane index : 1  MIG --> HGH  weekday : 2 time : 18:35 -- 21:05
 ToD 1 : 
-Sec: 3 Plane index : 1HGH --> CAN  weekday : 3 time : 11:35 -- 13:45
+Sec: 3  Plane index : 1  HGH --> CAN  weekday : 3 time : 11:35 -- 13:45
 ToD 2 : 
-Sec: 5 Plane index : 1CAN --> HGH  weekday : 6 time : 02:25 -- 04:35
-Sec: 6 Plane index : 1HGH --> MIG  weekday : 6 time : 07:15 -- 10:05
-Sec: 7 Plane index : 1MIG --> LHW  weekday : 6 time : 12:05 -- 13:25
+Sec: 5  Plane index : 1  CAN --> HGH  weekday : 6 time : 02:25 -- 04:35
+Sec: 6  Plane index : 1  HGH --> MIG  weekday : 6 time : 07:15 -- 10:05
+Sec: 7  Plane index : 1  MIG --> LHW  weekday : 6 time : 12:05 -- 13:25

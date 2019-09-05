@@ -117,6 +117,7 @@ public class Data_Loader {
 		arrSec.clear();
 		arrSec.addAll(tempArrSec);
 		br.close();
+		printCity();
 	}
 
 	private void printSec(Air_section temp) throws IOException {
@@ -126,16 +127,29 @@ public class Data_Loader {
 		BufferedWriter out = new BufferedWriter(new FileWriter(writename));
 		DateFormat format1 = new SimpleDateFormat("HH:mm");
 		// save
-		out.write(temp.departureName + "-->" + temp.arrivalName + "\r\n");
-		out.write("week" + temp.day + "    " + format1.format(temp.dateDep) + " -- " + format1.format(temp.dateArr)
+		out.write(temp.departureName + " --> " + temp.arrivalName + "\r\n");
+		out.write("weekday " + temp.day + "    " + format1.format(temp.dateDep) + " -- " + format1.format(temp.dateArr)
 				+ "\r\n");
-		out.write("AirLine Index:" + temp.flightName + "   Plane Index:" + temp.planeIndex);
+		out.write("AirLine Index: " + temp.flightName + "   Plane Index: " + temp.planeIndex);
 
 		out.flush();
 		out.close();
 
 	}
+	
+	private void printCity() throws IOException {
+		// print
+		for (int i=0; i<arrCity.size();i++){
+			File writename = new File("./airline-new-data/CityLists/City" + i + ".txt");
+			writename.createNewFile();
+			BufferedWriter out = new BufferedWriter(new FileWriter(writename));
+			out.write("City Index: " + i + "   " + arrCity.get(i));
 
+			out.flush();
+			out.close();
+		}
+	}
+	
 	public void testPrint() {
 		System.out.println("check CitySet");
 		for (String city : arrCity)

@@ -1,3 +1,3 @@
-XIY-->ENH
-week1    19:25 -- 20:30
-AirLine Index:8658   Plane Index:15
+XIY --> ENH
+weekday 1    19:25 -- 20:30
+AirLine Index: 8658   Plane Index: 15

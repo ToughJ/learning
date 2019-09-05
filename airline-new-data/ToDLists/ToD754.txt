@@ -1,6 +1,6 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
+Sec: 0  Plane index : 1  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
 ToD 1 : 
-Sec: 2 Plane index : 1CSX --> XNN  weekday : 4 time : 16:55 -- 19:30
-Sec: 3 Plane index : 1XNN --> HIA  weekday : 4 time : 20:35 -- 23:10
-Sec: 4 Plane index : 1HIA --> HGH  weekday : 4 time : 23:55 -- 01:05
+Sec: 2  Plane index : 1  CSX --> XNN  weekday : 4 time : 16:55 -- 19:30
+Sec: 3  Plane index : 1  XNN --> HIA  weekday : 4 time : 20:35 -- 23:10
+Sec: 4  Plane index : 1  HIA --> HGH  weekday : 4 time : 23:55 -- 01:05

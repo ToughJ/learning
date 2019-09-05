@@ -1,3 +1,3 @@
-KWL-->WNZ
-week5    17:50 -- 20:05
-AirLine Index:8999   Plane Index:30
+KWL --> WNZ
+weekday 5    17:50 -- 20:05
+AirLine Index: 8999   Plane Index: 30

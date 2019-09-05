@@ -1,7 +1,7 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CKG --> HGH  weekday : 3 time : 21:35 -- 00:05
-Sec: 1 Plane index : 1HGH --> DYG  weekday : 4 time : 07:15 -- 09:25
+Sec: 0  Plane index : 1  CKG --> HGH  weekday : 3 time : 21:35 -- 00:05
+Sec: 1  Plane index : 1  HGH --> DYG  weekday : 4 time : 07:15 -- 09:25
 ToD 1 : 
-Sec: 3 Plane index : 1DYG --> HGH  weekday : 6 time : 23:50 -- 01:40
-Sec: 4 Plane index : 1HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
-Sec: 5 Plane index : 1JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
+Sec: 3  Plane index : 1  DYG --> HGH  weekday : 6 time : 23:50 -- 01:40
+Sec: 4  Plane index : 1  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
+Sec: 5  Plane index : 1  JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20

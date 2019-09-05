@@ -1,3 +1,3 @@
-XIY-->MFM
-week5    09:10 -- 12:35
-AirLine Index:8965   Plane Index:14
+XIY --> MFM
+weekday 5    09:10 -- 12:35
+AirLine Index: 8965   Plane Index: 14

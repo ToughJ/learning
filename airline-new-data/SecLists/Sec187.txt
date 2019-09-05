@@ -1,3 +1,3 @@
-RIZ-->HGH
-week6    10:05 -- 11:30
-AirLine Index:8994   Plane Index:6
+RIZ --> HGH
+weekday 6    10:05 -- 11:30
+AirLine Index: 8994   Plane Index: 6

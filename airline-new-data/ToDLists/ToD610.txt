@@ -1,17 +1,17 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HLH --> HRB  weekday : 2 time : 17:00 -- 18:05
-Sec: 1 Plane index : 1HRB --> YNT  weekday : 2 time : 18:55 -- 21:00
-Sec: 2 Plane index : 1YNT --> HGH  weekday : 2 time : 21:45 -- 23:45
+Sec: 0  Plane index : 1  HLH --> HRB  weekday : 2 time : 17:00 -- 18:05
+Sec: 1  Plane index : 1  HRB --> YNT  weekday : 2 time : 18:55 -- 21:00
+Sec: 2  Plane index : 1  YNT --> HGH  weekday : 2 time : 21:45 -- 23:45
 ToD 1 : 
-Sec: 4 Plane index : 1HGH --> ZYI  weekday : 4 time : 09:40 -- 12:15
-Sec: 5 Plane index : 1ZYI --> LJG  weekday : 4 time : 13:00 -- 14:25
-Sec: 6 Plane index : 1LJG --> KWL  weekday : 4 time : 15:20 -- 17:05
-Sec: 7 Plane index : 1KWL --> WNZ  weekday : 4 time : 17:50 -- 20:05
+Sec: 4  Plane index : 1  HGH --> ZYI  weekday : 4 time : 09:40 -- 12:15
+Sec: 5  Plane index : 1  ZYI --> LJG  weekday : 4 time : 13:00 -- 14:25
+Sec: 6  Plane index : 1  LJG --> KWL  weekday : 4 time : 15:20 -- 17:05
+Sec: 7  Plane index : 1  KWL --> WNZ  weekday : 4 time : 17:50 -- 20:05
 ToD 2 : 
-Sec: 9 Plane index : 1WNZ --> WUH  weekday : 5 time : 09:05 -- 10:45
-Sec: 10 Plane index : 1WUH --> LJG  weekday : 5 time : 11:50 -- 14:20
-Sec: 11 Plane index : 1LJG --> HJJ  weekday : 5 time : 16:35 -- 18:35
-Sec: 12 Plane index : 1HJJ --> HGH  weekday : 5 time : 19:20 -- 21:15
+Sec: 9  Plane index : 1  WNZ --> WUH  weekday : 5 time : 09:05 -- 10:45
+Sec: 10  Plane index : 1  WUH --> LJG  weekday : 5 time : 11:50 -- 14:20
+Sec: 11  Plane index : 1  LJG --> HJJ  weekday : 5 time : 16:35 -- 18:35
+Sec: 12  Plane index : 1  HJJ --> HGH  weekday : 5 time : 19:20 -- 21:15
 ToD 3 : 
-Sec: 14 Plane index : 1HGH --> SZX  weekday : 6 time : 08:45 -- 11:05
-Sec: 15 Plane index : 1SZX --> HLH  weekday : 6 time : 12:10 -- 16:15
+Sec: 14  Plane index : 1  HGH --> SZX  weekday : 6 time : 08:45 -- 11:05
+Sec: 15  Plane index : 1  SZX --> HLH  weekday : 6 time : 12:10 -- 16:15

@@ -1,11 +1,11 @@
 ToD 0 : 
-Sec: 0 Plane index : 1DAT --> BPE  weekday : 5 time : 19:45 -- 21:05
-Sec: 1 Plane index : 1BPE --> HGH  weekday : 5 time : 22:00 -- 00:25
+Sec: 0  Plane index : 1  DAT --> BPE  weekday : 5 time : 19:45 -- 21:05
+Sec: 1  Plane index : 1  BPE --> HGH  weekday : 5 time : 22:00 -- 00:25
 ToD 1 : 
-Sec: 3 Plane index : 1HGH --> RIZ  weekday : 6 time : 20:00 -- 21:25
-Sec: 4 Plane index : 1RIZ --> CGQ  weekday : 6 time : 22:10 -- 00:10
+Sec: 3  Plane index : 1  HGH --> RIZ  weekday : 6 time : 20:00 -- 21:25
+Sec: 4  Plane index : 1  RIZ --> CGQ  weekday : 6 time : 22:10 -- 00:10
 ToD 2 : 
-Sec: 6 Plane index : 1CGQ --> WEH  weekday : 1 time : 07:05 -- 08:45
-Sec: 7 Plane index : 1WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
-Sec: 8 Plane index : 1HGH --> BPE  weekday : 1 time : 13:45 -- 16:05
-Sec: 9 Plane index : 1BPE --> DAT  weekday : 1 time : 16:50 -- 18:20
+Sec: 6  Plane index : 1  CGQ --> WEH  weekday : 1 time : 07:05 -- 08:45
+Sec: 7  Plane index : 1  WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 8  Plane index : 1  HGH --> BPE  weekday : 1 time : 13:45 -- 16:05
+Sec: 9  Plane index : 1  BPE --> DAT  weekday : 1 time : 16:50 -- 18:20

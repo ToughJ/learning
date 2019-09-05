@@ -1,12 +1,12 @@
 ToD 0 : 
-Sec: 0 Plane index : 1MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
-Sec: 1 Plane index : 1LHW --> HGH  weekday : 1 time : 20:15 -- 23:00
+Sec: 0  Plane index : 1  MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
+Sec: 1  Plane index : 1  LHW --> HGH  weekday : 1 time : 20:15 -- 23:00
 ToD 1 : 
-Sec: 3 Plane index : 1HGH --> RIZ  weekday : 2 time : 20:00 -- 21:25
-Sec: 4 Plane index : 1RIZ --> CGQ  weekday : 2 time : 22:10 -- 00:10
+Sec: 3  Plane index : 1  HGH --> RIZ  weekday : 2 time : 20:00 -- 21:25
+Sec: 4  Plane index : 1  RIZ --> CGQ  weekday : 2 time : 22:10 -- 00:10
 ToD 2 : 
-Sec: 6 Plane index : 1CGQ --> INC  weekday : 3 time : 16:30 -- 19:40
-Sec: 7 Plane index : 1INC --> KMG  weekday : 3 time : 21:45 -- 00:30
+Sec: 6  Plane index : 1  CGQ --> INC  weekday : 3 time : 16:30 -- 19:40
+Sec: 7  Plane index : 1  INC --> KMG  weekday : 3 time : 21:45 -- 00:30
 ToD 3 : 
-Sec: 9 Plane index : 1KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
-Sec: 10 Plane index : 1HGH --> MIG  weekday : 5 time : 08:25 -- 11:15
+Sec: 9  Plane index : 1  KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
+Sec: 10  Plane index : 1  HGH --> MIG  weekday : 5 time : 08:25 -- 11:15

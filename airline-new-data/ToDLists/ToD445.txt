@@ -1,14 +1,14 @@
 ToD 0 : 
-Sec: 0 Plane index : 1DLC --> ENY  weekday : 5 time : 20:50 -- 23:00
+Sec: 0  Plane index : 1  DLC --> ENY  weekday : 5 time : 20:50 -- 23:00
 ToD 1 : 
-Sec: 2 Plane index : 1ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
+Sec: 2  Plane index : 1  ENY --> WNZ  weekday : 6 time : 12:55 -- 15:40
 ToD 2 : 
-Sec: 4 Plane index : 1WNZ --> KWE  weekday : 7 time : 07:15 -- 09:50
-Sec: 5 Plane index : 1KWE --> WNZ  weekday : 7 time : 10:50 -- 13:15
-Sec: 6 Plane index : 1WNZ --> XFN  weekday : 7 time : 14:45 -- 16:35
-Sec: 7 Plane index : 1XFN --> CTU  weekday : 7 time : 17:20 -- 19:25
+Sec: 4  Plane index : 1  WNZ --> KWE  weekday : 7 time : 07:15 -- 09:50
+Sec: 5  Plane index : 1  KWE --> WNZ  weekday : 7 time : 10:50 -- 13:15
+Sec: 6  Plane index : 1  WNZ --> XFN  weekday : 7 time : 14:45 -- 16:35
+Sec: 7  Plane index : 1  XFN --> CTU  weekday : 7 time : 17:20 -- 19:25
 ToD 3 : 
-Sec: 9 Plane index : 1CTU --> TNA  weekday : 2 time : 06:25 -- 09:00
-Sec: 10 Plane index : 1TNA --> DLC  weekday : 2 time : 09:50 -- 11:00
-Sec: 11 Plane index : 1DLC --> NZL  weekday : 2 time : 12:00 -- 14:05
-Sec: 12 Plane index : 1NZL --> DLC  weekday : 2 time : 14:50 -- 16:50
+Sec: 9  Plane index : 1  CTU --> TNA  weekday : 2 time : 06:25 -- 09:00
+Sec: 10  Plane index : 1  TNA --> DLC  weekday : 2 time : 09:50 -- 11:00
+Sec: 11  Plane index : 1  DLC --> NZL  weekday : 2 time : 12:00 -- 14:05
+Sec: 12  Plane index : 1  NZL --> DLC  weekday : 2 time : 14:50 -- 16:50

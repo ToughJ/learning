@@ -1,9 +1,9 @@
 ToD 0 : 
-Sec: 0 Plane index : 1CSX --> ZUH  weekday : 4 time : 07:45 -- 09:20
-Sec: 1 Plane index : 1ZUH --> CSX  weekday : 4 time : 14:10 -- 15:45
+Sec: 0  Plane index : 1  CSX --> ZUH  weekday : 4 time : 07:45 -- 09:20
+Sec: 1  Plane index : 1  ZUH --> CSX  weekday : 4 time : 14:10 -- 15:45
 ToD 1 : 
-Sec: 3 Plane index : 1CSX --> NGB  weekday : 5 time : 06:45 -- 08:25
-Sec: 4 Plane index : 1NGB --> CSX  weekday : 5 time : 10:00 -- 11:40
-Sec: 5 Plane index : 1CSX --> KOS  weekday : 5 time : 12:45 -- 16:45
+Sec: 3  Plane index : 1  CSX --> NGB  weekday : 5 time : 06:45 -- 08:25
+Sec: 4  Plane index : 1  NGB --> CSX  weekday : 5 time : 10:00 -- 11:40
+Sec: 5  Plane index : 1  CSX --> KOS  weekday : 5 time : 12:45 -- 16:45
 ToD 2 : 
-Sec: 7 Plane index : 1KOS --> CSX  weekday : 7 time : 17:55 -- 20:50
+Sec: 7  Plane index : 1  KOS --> CSX  weekday : 7 time : 17:55 -- 20:50

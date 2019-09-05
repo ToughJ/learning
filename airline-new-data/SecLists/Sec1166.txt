@@ -1,3 +1,3 @@
-AVA-->HGH
-week5    20:55 -- 23:10
-AirLine Index:8734   Plane Index:32
+AVA --> HGH
+weekday 5    20:55 -- 23:10
+AirLine Index: 8734   Plane Index: 32

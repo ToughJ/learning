@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HGH --> PEK  weekday : 1 time : 23:30 -- 01:50
-Sec: 1 Plane index : 1PEK --> HGH  weekday : 2 time : 05:50 -- 08:05
+Sec: 0  Plane index : 1  HGH --> PEK  weekday : 1 time : 23:30 -- 01:50
+Sec: 1  Plane index : 1  PEK --> HGH  weekday : 2 time : 05:50 -- 08:05

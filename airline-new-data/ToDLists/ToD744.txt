@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1XNN --> CSX  weekday : 4 time : 12:25 -- 14:50
-Sec: 1 Plane index : 1CSX --> XNN  weekday : 4 time : 16:55 -- 19:30
+Sec: 0  Plane index : 1  XNN --> CSX  weekday : 4 time : 12:25 -- 14:50
+Sec: 1  Plane index : 1  CSX --> XNN  weekday : 4 time : 16:55 -- 19:30

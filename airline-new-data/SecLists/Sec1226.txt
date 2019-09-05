@@ -1,3 +1,3 @@
-KOS-->CSX
-week5    17:55 -- 20:50
-AirLine Index:9026   Plane Index:34
+KOS --> CSX
+weekday 5    17:55 -- 20:50
+AirLine Index: 9026   Plane Index: 34

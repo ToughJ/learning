@@ -1,3 +1,3 @@
-DLC-->ENY
-week3    20:50 -- 23:00
-AirLine Index:8804   Plane Index:21
+DLC --> ENY
+weekday 3    20:50 -- 23:00
+AirLine Index: 8804   Plane Index: 21

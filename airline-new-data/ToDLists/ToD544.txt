@@ -1,5 +1,5 @@
 ToD 0 : 
-Sec: 0 Plane index : 1HGH --> WUT  weekday : 5 time : 06:50 -- 09:10
+Sec: 0  Plane index : 1  HGH --> WUT  weekday : 5 time : 06:50 -- 09:10
 ToD 1 : 
-Sec: 2 Plane index : 1WUT --> HRB  weekday : 6 time : 21:50 -- 00:15
-Sec: 3 Plane index : 1HRB --> HGH  weekday : 7 time : 06:40 -- 10:00
+Sec: 2  Plane index : 1  WUT --> HRB  weekday : 6 time : 21:50 -- 00:15
+Sec: 3  Plane index : 1  HRB --> HGH  weekday : 7 time : 06:40 -- 10:00

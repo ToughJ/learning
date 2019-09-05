@@ -1,3 +1,3 @@
-SGN-->LJG
-week4    17:15 -- 20:25
-AirLine Index:9022   Plane Index:32
+SGN --> LJG
+weekday 4    17:15 -- 20:25
+AirLine Index: 9022   Plane Index: 32

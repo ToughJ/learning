@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1DLC --> NZL  weekday : 6 time : 12:00 -- 14:05
-Sec: 1 Plane index : 1NZL --> DLC  weekday : 6 time : 14:50 -- 16:50
+Sec: 0  Plane index : 1  DLC --> NZL  weekday : 6 time : 12:00 -- 14:05
+Sec: 1  Plane index : 1  NZL --> DLC  weekday : 6 time : 14:50 -- 16:50

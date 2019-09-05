@@ -1,3 +1,3 @@
-HGH-->KJH
-week6    06:30 -- 08:55
-AirLine Index:8679   Plane Index:25
+HGH --> KJH
+weekday 6    06:30 -- 08:55
+AirLine Index: 8679   Plane Index: 25

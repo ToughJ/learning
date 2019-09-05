@@ -1,7 +1,7 @@
 ToD 0 : 
-Sec: 0 Plane index : 1NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
-Sec: 1 Plane index : 1CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
-Sec: 2 Plane index : 1HGH --> CSX  weekday : 7 time : 06:45 -- 08:35
+Sec: 0  Plane index : 1  NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
+Sec: 1  Plane index : 1  CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
+Sec: 2  Plane index : 1  HGH --> CSX  weekday : 7 time : 06:45 -- 08:35
 ToD 1 : 
-Sec: 4 Plane index : 1CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
-Sec: 5 Plane index : 1ACX --> NGB  weekday : 3 time : 16:55 -- 19:50
+Sec: 4  Plane index : 1  CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
+Sec: 5  Plane index : 1  ACX --> NGB  weekday : 3 time : 16:55 -- 19:50

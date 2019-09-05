@@ -1,3 +1,3 @@
-HGH-->CTU
-week5    23:55 -- 03:00
-AirLine Index:9008   Plane Index:20
+HGH --> CTU
+weekday 5    23:55 -- 03:00
+AirLine Index: 9008   Plane Index: 20

@@ -1,3 +1,3 @@
-CTU-->MDL
-week4    05:55 -- 08:25
-AirLine Index:8807   Plane Index:20
+CTU --> MDL
+weekday 4    05:55 -- 08:25
+AirLine Index: 8807   Plane Index: 20

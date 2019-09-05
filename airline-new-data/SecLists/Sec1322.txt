@@ -1,3 +1,3 @@
-XNN-->SZX
-week3    12:00 -- 15:20
-AirLine Index:8853   Plane Index:37
+XNN --> SZX
+weekday 3    12:00 -- 15:20
+AirLine Index: 8853   Plane Index: 37

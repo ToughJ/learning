@@ -1,3 +1,3 @@
 ToD 0 : 
-Sec: 0 Plane index : 1JIQ --> CKG  weekday : 4 time : 11:25 -- 12:20
-Sec: 1 Plane index : 1CKG --> JIQ  weekday : 4 time : 13:20 -- 14:15
+Sec: 0  Plane index : 1  JIQ --> CKG  weekday : 4 time : 11:25 -- 12:20
+Sec: 1  Plane index : 1  CKG --> JIQ  weekday : 4 time : 13:20 -- 14:15

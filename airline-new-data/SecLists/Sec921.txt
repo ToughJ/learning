@@ -1,3 +1,3 @@
-KJH-->CTU
-week6    09:40 -- 11:10
-AirLine Index:8679   Plane Index:25
+KJH --> CTU
+weekday 6    09:40 -- 11:10
+AirLine Index: 8679   Plane Index: 25
