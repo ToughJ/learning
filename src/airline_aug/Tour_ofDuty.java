@@ -12,6 +12,6 @@ public class Tour_ofDuty {
 	ArrayList<ArrayList<Air_section>> arrDay = new ArrayList<>();
 
 	public Tour_ofDuty() {
-		
+
 	}
 }

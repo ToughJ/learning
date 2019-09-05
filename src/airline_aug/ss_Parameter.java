@@ -14,49 +14,48 @@ public class ss_Parameter {
 	public ArrayList<String> arrCity = new ArrayList<>();
 	public ArrayList<Tour_ofDuty> arrToD = new ArrayList<>();
 
-	public int toDNum = 250;   // the number of ToD we used
-	
+	public int toDNum = 250; // the number of ToD we used
+
 	public ss_Parameter() {
 		Data_Loader dl = new Data_Loader();
-		arrSec= dl.arrSec;
-		arrCity=dl.arrCity;
+		arrSec = dl.arrSec;
+		arrCity = dl.arrCity;
 	}
-	
+
 	public void loadToDs() throws FileNotFoundException, IOException, ParseException {
 		int index = 0;
-		for (;index < toDNum;index++) {
-			String url = "./airline-new-data/usedToD"+index+".txt";
+		for (; index < toDNum; index++) {
+			String url = "./airline-new-data/usedToD" + index + ".txt";
 			loadToDInfo(url);
 		}
-		//涓嬮潰瑕佺畻鐨勬槸  涓�涓槸  鍛ㄦ棩寮�濮嬬殑TOD 鏄惁鑳界粍鎴愭柊鐨凾OD  鍙︿竴涓槸姣忎釜TOD 瑕嗙洊浜嗗摢浜汼EC銆�
-		
+
 	}
-	
+
 	int index = 0;
-	
+
 	public void loadToDInfo(String url) throws FileNotFoundException, IOException, ParseException {
 		BufferedReader br = new BufferedReader(new java.io.FileReader(url));
 		String line;
 		String[] splitLine;
-		
+
 		Tour_ofDuty tempToD = new Tour_ofDuty();
-		
+
 		tempToD.ToDindex = index++;
 		line = br.readLine();
-		int tempCity = 0, tempTE=-1, tempTS=-1, day=0;
+		int tempCity = 0, tempTE = -1, tempTS = -1, day = 0;
 		String cityName = null;
 		ArrayList<Air_section> tempDay = new ArrayList<>();
 		while ((line = br.readLine()) != null) {
 			splitLine = line.split("\\s+");
-			if (splitLine[0].compareTo("ToD")==0) {
+			if (splitLine[0].compareTo("ToD") == 0) {
 				tempToD.arrDay.add(tempDay);
 				tempDay = new ArrayList<>();
 				day++;
-				continue ;
+				continue;
 			}
-		// STILL don't care if the order is wrong
+			// STILL don't care if the order is wrong
 			tempDay.add(arrSec.get(Integer.valueOf(splitLine[1])));
-			
+
 			Date date1, date2;
 			int d1, d2;
 			SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH:mm");
@@ -64,25 +63,26 @@ public class ss_Parameter {
 			date2 = simpleDateFormat.parse(splitLine[16]);
 			d1 = date1.getHours() * 60 + date1.getMinutes();
 			d2 = date2.getHours() * 60 + date2.getMinutes();
-			
-			if (day==0) {
-				int tmp1 = d1+Integer.valueOf(splitLine[11])*24*60;
+
+			if (day == 0) {
+				int tmp1 = d1 + Integer.valueOf(splitLine[11]) * 24 * 60;
 				if (tempTS == -1 || tempTS > tmp1) {
 					cityName = splitLine[5];
-					tempCity=arrCity.indexOf(cityName);
+					tempCity = arrCity.indexOf(cityName);
 					tempTS = tmp1;
 				}
 			}
-			int tmp2 = d2+Integer.valueOf(splitLine[11])*24*60;
-			if (tmp2<tempTS) tmp2 += 7*24*60;
-			if (tempTE==-1 || tempTE < tmp2) {
+			int tmp2 = d2 + Integer.valueOf(splitLine[11]) * 24 * 60;
+			if (tmp2 < tempTS)
+				tmp2 += 7 * 24 * 60;
+			if (tempTE == -1 || tempTE < tmp2) {
 				tempTE = tmp2;
 			}
 		}
-		tempToD.tSta=tempTS;
-		tempToD.tEnd=tempTE;
-		tempToD.settle=tempCity;
-		tempToD.settleName=cityName;
+		tempToD.tSta = tempTS;
+		tempToD.tEnd = tempTE;
+		tempToD.settle = tempCity;
+		tempToD.settleName = cityName;
 		arrToD.add(tempToD);
 		br.close();
 	}
