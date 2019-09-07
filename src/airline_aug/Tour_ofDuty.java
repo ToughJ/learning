@@ -7,6 +7,7 @@ public class Tour_ofDuty {
 	int ToDindex;
 	int settle;
 	String settleName;
+	int day_ofWeek;
 	int tSta, tEnd;
 	Date dateDep, dateArr;
 	ArrayList<ArrayList<Air_section>> arrDay = new ArrayList<>();

@@ -10,24 +10,36 @@ import java.util.Date;
 
 public class ss_Parameter {
 
-	public  ArrayList<Air_section> arrSec = new ArrayList<>();
-	public  ArrayList<String> arrCity = new ArrayList<>();
-	public  ArrayList<Tour_ofDuty> arrToD = new ArrayList<>();
+	public ArrayList<Air_section> arrSec = new ArrayList<>();
+	public ArrayList<String> arrCity = new ArrayList<>();
+	public ArrayList<Tour_ofDuty> arrToD = new ArrayList<>();
+	public ArrayList<Schedule> arrSch = new ArrayList<>();
 
-	public  int toDNum = 250; // the number of ToD we used
+	public int toDNum = 250; // the number of ToD we used
 
 	public ss_Parameter() throws FileNotFoundException, IOException, ParseException {
 		Data_Loader dl = new Data_Loader();
-	    dl.loadNodeInfo("./airline-new-data/data-info-0.txt");
+		dl.loadNodeInfo("./airline-new-data/data-info-0.txt");
 		arrSec = dl.arrSec;
 		arrCity = dl.arrCity;
 	}
 
-	public void produce_schedule(){
-		
+	public void produce_schedule() {
+		int city, startday, endTime;
+		for (Tour_ofDuty tod : arrToD) {
+			city = tod.settle;
+			startday = tod.day_ofWeek;
+			if (startday < 2) {
+
+			} else if (startday < 5) {
+
+			} else {
+
+			}
+		}
 	}
-	
-	public  void loadToDs() throws FileNotFoundException, IOException, ParseException {
+
+	public void loadToDs() throws FileNotFoundException, IOException, ParseException {
 		int index = 0;
 		for (; index < toDNum; index++) {
 			String url = "./airline-new-data/usedToD/ToD" + index + ".txt";
@@ -37,7 +49,7 @@ public class ss_Parameter {
 
 	static int index = 0;
 
-	public  void loadToDInfo(String url) throws FileNotFoundException, IOException, ParseException {
+	public void loadToDInfo(String url) throws FileNotFoundException, IOException, ParseException {
 		BufferedReader br = new BufferedReader(new java.io.FileReader(url));
 		String line;
 		String[] splitLine;
@@ -65,20 +77,21 @@ public class ss_Parameter {
 			SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH:mm");
 			date1 = simpleDateFormat.parse(splitLine[14]);
 			date2 = simpleDateFormat.parse(splitLine[16]);
-			tempToD.dateDep=date1;
-			tempToD.dateArr=date2;
+			tempToD.dateDep = date1;
+			tempToD.dateArr = date2;
 			d1 = date1.getHours() * 60 + date1.getMinutes();
 			d2 = date2.getHours() * 60 + date2.getMinutes();
-			
+
+			tempToD.day_ofWeek = Integer.valueOf(splitLine[11]) - 1;
 			if (day == 0) {
-				int tmp1 = d1 + Integer.valueOf(splitLine[11]) * 24 * 60;
+				int tmp1 = d1 + tempToD.day_ofWeek * 24 * 60;
 				if (tempTS == -1 || tempTS > tmp1) {
 					cityName = splitLine[6];
 					tempCity = arrCity.indexOf(cityName);
 					tempTS = tmp1;
 				}
 			}
-			int tmp2 = d2 + Integer.valueOf(splitLine[11]) * 24 * 60;
+			int tmp2 = d2 + tempToD.day_ofWeek * 24 * 60;
 			if (tmp2 < tempTS)
 				tmp2 += 7 * 24 * 60;
 			if (tempTE == -1 || tempTE < tmp2) {
@@ -93,15 +106,15 @@ public class ss_Parameter {
 		br.close();
 	}
 
-	public  void testLoad() throws FileNotFoundException, IOException, ParseException{
-		// to test loading 
+	public void testLoad() throws FileNotFoundException, IOException, ParseException {
+		// to test loading
 		toDNum = 100;
 		loadToDs();
 		SimpleDateFormat Format = new SimpleDateFormat("HH:mm");
 		for (int i = 0; i < toDNum; i++) {
-			System.out.println("City name: " + arrCity.get(arrToD.get(i).settle) + " date: "+
-					Format.format(arrToD.get(i).dateDep) + " --> " + Format.format(arrToD.get(i).dateArr)); 
+			System.out.println("City name: " + arrCity.get(arrToD.get(i).settle) + " date: "
+					+ Format.format(arrToD.get(i).dateDep) + " --> " + Format.format(arrToD.get(i).dateArr));
 		}
 	}
-	
+
 }
