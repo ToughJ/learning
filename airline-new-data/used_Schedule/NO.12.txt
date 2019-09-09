@@ -1,0 +1,15 @@
+Sec: 435  Plane index : 13  WNZ --> KWE  weekday : 2 time : 07:15 -- 09:50
+Sec: 442  Plane index : 13  KWE --> WNZ  weekday : 2 time : 10:50 -- 13:15
+Sec: 1099  Plane index : 31  WNZ --> WUH  weekday : 3 time : 09:05 -- 10:45
+Sec: 1106  Plane index : 31  WUH --> LJG  weekday : 3 time : 11:50 -- 14:20
+Sec: 1112  Plane index : 31  LJG --> HJJ  weekday : 3 time : 16:35 -- 18:35
+Sec: 1119  Plane index : 31  HJJ --> HGH  weekday : 3 time : 19:20 -- 21:15
+Sec: 1074  Plane index : 30  HGH --> ZYI  weekday : 4 time : 09:40 -- 12:15
+Sec: 1081  Plane index : 30  ZYI --> LJG  weekday : 4 time : 13:00 -- 14:25
+Sec: 1086  Plane index : 30  LJG --> KWL  weekday : 4 time : 15:20 -- 17:05
+Sec: 1093  Plane index : 30  KWL --> WNZ  weekday : 4 time : 17:50 -- 20:05
+Sec: 450  Plane index : 13  WNZ --> XFN  weekday : 5 time : 14:45 -- 16:35
+Sec: 457  Plane index : 13  XFN --> CTU  weekday : 5 time : 17:20 -- 19:25
+Sec: 464  Plane index : 13  CTU --> XFN  weekday : 5 time : 20:25 -- 22:15
+Sec: 471  Plane index : 13  XFN --> WNZ  weekday : 5 time : 23:00 -- 00:45
+two days off

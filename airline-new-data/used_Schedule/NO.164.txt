@@ -1,0 +1,12 @@
+Sec: 1111  Plane index : 31  LJG --> HJJ  weekday : 1 time : 20:10 -- 22:10
+Sec: 1118  Plane index : 31  HJJ --> HGH  weekday : 1 time : 22:55 -- 00:50
+Sec: 1132  Plane index : 32  HGH --> AVA  weekday : 3 time : 07:15 -- 10:00
+Sec: 1139  Plane index : 32  AVA --> LJG  weekday : 3 time : 10:45 -- 12:15
+two days offSec: 1160  Plane index : 32  LJG --> AVA  weekday : 5 time : 18:45 -- 20:10
+Sec: 1166  Plane index : 32  AVA --> HGH  weekday : 5 time : 20:55 -- 23:10
+Sec: 636  Plane index : 18  HGH --> MDL  weekday : 6 time : 15:05 -- 19:25
+Sec: 643  Plane index : 18  MDL --> CTU  weekday : 6 time : 23:50 -- 02:15
+Sec: 726  Plane index : 21  CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+Sec: 405  Plane index : 12  ENY --> HGH  weekday : 1 time : 13:40 -- 16:10
+Sec: 1135  Plane index : 32  HGH --> DYG  weekday : 2 time : 07:15 -- 09:25
+Sec: 1142  Plane index : 32  DYG --> LJG  weekday : 2 time : 10:10 -- 12:00

@@ -1,0 +1,8 @@
+Sec: 632  Plane index : 18  HGH --> ENH  weekday : 3 time : 15:45 -- 18:05
+Sec: 738  Plane index : 21  ENH --> DLC  weekday : 4 time : 08:35 -- 11:00
+Sec: 743  Plane index : 21  DLC --> XNN  weekday : 4 time : 12:00 -- 14:40
+Sec: 750  Plane index : 21  XNN --> DLC  weekday : 4 time : 15:25 -- 18:10
+Sec: 798  Plane index : 22  DLC --> HDG  weekday : 5 time : 20:10 -- 21:45
+Sec: 805  Plane index : 22  HDG --> CTU  weekday : 5 time : 22:35 -- 01:05
+Sec: 703  Plane index : 20  CTU --> HGH  weekday : 7 time : 05:40 -- 08:25
+two days off

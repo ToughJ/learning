@@ -1,0 +1,13 @@
+Sec: 1185  Plane index : 33  WNZ --> CSX  weekday : 1 time : 20:30 -- 22:10
+Sec: 1192  Plane index : 33  CSX --> WNZ  weekday : 1 time : 23:15 -- 00:50
+Sec: 449  Plane index : 13  WNZ --> XFN  weekday : 3 time : 14:45 -- 16:35
+Sec: 456  Plane index : 13  XFN --> CTU  weekday : 3 time : 17:20 -- 19:25
+Sec: 463  Plane index : 13  CTU --> XFN  weekday : 3 time : 20:25 -- 22:15
+Sec: 470  Plane index : 13  XFN --> WNZ  weekday : 3 time : 23:00 -- 00:45
+two days offSec: 454  Plane index : 13  WNZ --> ENY  weekday : 6 time : 17:00 -- 19:55
+Sec: 736  Plane index : 21  ENY --> DLC  weekday : 7 time : 09:10 -- 11:00
+Sec: 746  Plane index : 21  DLC --> XNN  weekday : 7 time : 12:00 -- 14:40
+Sec: 1399  Plane index : 39  XNN --> ZYI  weekday : 1 time : 20:15 -- 22:40
+Sec: 1080  Plane index : 30  ZYI --> LJG  weekday : 2 time : 13:00 -- 14:25
+Sec: 1199  Plane index : 33  LJG --> TEN  weekday : 2 time : 20:15 -- 22:20
+Sec: 1201  Plane index : 33  TEN --> WNZ  weekday : 2 time : 23:05 -- 01:10

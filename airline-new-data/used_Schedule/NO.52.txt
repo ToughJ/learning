@@ -1,0 +1,22 @@
+Sec: 1349  Plane index : 38  CAN --> XNN  weekday : 1 time : 05:45 -- 09:15
+Sec: 1356  Plane index : 38  XNN --> LYG  weekday : 1 time : 10:00 -- 12:40
+Sec: 1363  Plane index : 38  LYG --> NGB  weekday : 1 time : 13:25 -- 14:45
+Sec: 1255  Plane index : 35  NGB --> KOW  weekday : 2 time : 09:05 -- 10:40
+Sec: 1262  Plane index : 35  KOW --> KMG  weekday : 2 time : 11:25 -- 13:45
+Sec: 1266  Plane index : 35  KMG --> KOW  weekday : 2 time : 14:45 -- 17:10
+Sec: 1270  Plane index : 35  KOW --> NGB  weekday : 2 time : 17:55 -- 19:15
+Sec: 1256  Plane index : 35  NGB --> ACX  weekday : 3 time : 09:05 -- 12:00
+Sec: 1263  Plane index : 35  ACX --> KMG  weekday : 3 time : 12:45 -- 13:45
+Sec: 1267  Plane index : 35  KMG --> ACX  weekday : 3 time : 14:55 -- 16:10
+Sec: 1271  Plane index : 35  ACX --> NGB  weekday : 3 time : 16:55 -- 19:50
+Sec: 883  Plane index : 24  NGB --> WEH  weekday : 4 time : 16:10 -- 18:00
+Sec: 890  Plane index : 24  WEH --> SHE  weekday : 4 time : 18:45 -- 19:55
+Sec: 897  Plane index : 24  SHE --> YNT  weekday : 4 time : 20:45 -- 22:20
+Sec: 904  Plane index : 24  YNT --> CAN  weekday : 4 time : 23:05 -- 02:30
+two days offSec: 816  Plane index : 23  CAN --> YNT  weekday : 7 time : 05:40 -- 08:40
+Sec: 823  Plane index : 23  YNT --> SHE  weekday : 7 time : 09:25 -- 10:45
+Sec: 830  Plane index : 23  SHE --> WEH  weekday : 7 time : 11:35 -- 12:55
+Sec: 181  Plane index : 6  WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 630  Plane index : 18  HGH --> ENH  weekday : 1 time : 14:50 -- 17:00
+Sec: 540  Plane index : 15  ENH --> HGH  weekday : 2 time : 21:15 -- 23:05
+Sec: 260  Plane index : 8  HGH --> CAN  weekday : 3 time : 11:35 -- 13:45

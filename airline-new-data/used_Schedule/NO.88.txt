@@ -1,0 +1,7 @@
+Sec: 1151  Plane index : 32  LJG --> SGN  weekday : 6 time : 12:45 -- 16:15
+Sec: 1158  Plane index : 32  SGN --> LJG  weekday : 6 time : 17:15 -- 20:25
+Sec: 1148  Plane index : 32  LJG --> HAN  weekday : 7 time : 13:00 -- 15:05
+Sec: 1155  Plane index : 32  HAN --> LJG  weekday : 7 time : 16:05 -- 18:00
+Sec: 1149  Plane index : 32  LJG --> SGN  weekday : 2 time : 12:45 -- 16:15
+Sec: 1156  Plane index : 32  SGN --> LJG  weekday : 2 time : 17:15 -- 20:25
+two days off

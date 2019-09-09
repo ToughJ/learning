@@ -1,0 +1,16 @@
+from last week
+Sec: 1180  Plane index : 33  JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
+Sec: 204  Plane index : 6  CKG --> JIQ  weekday : 3 time : 19:20 -- 20:15
+Sec: 211  Plane index : 6  JIQ --> HGH  weekday : 3 time : 21:20 -- 23:20
+Sec: 1390  Plane index : 39  HGH --> HIA  weekday : 4 time : 13:00 -- 14:20
+Sec: 1397  Plane index : 39  HIA --> XNN  weekday : 4 time : 15:05 -- 18:00
+Sec: 1404  Plane index : 39  XNN --> ENH  weekday : 4 time : 20:15 -- 22:15
+Sec: 1411  Plane index : 39  ENH --> SZX  weekday : 4 time : 23:10 -- 01:15
+Sec: 1418  Plane index : 39  SZX --> HGH  weekday : 6 time : 02:15 -- 04:20
+Sec: 135  Plane index : 5  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
+two days offSec: 211  Plane index : 6  JIQ --> HGH  weekday : 3 time : 21:20 -- 23:20
+Sec: 220  Plane index : 7  HGH --> WEH  weekday : 4 time : 13:05 -- 15:00
+Sec: 835  Plane index : 23  WEH --> NGB  weekday : 5 time : 13:40 -- 15:25
+Sec: 1244  Plane index : 35  NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
+Sec: 1251  Plane index : 35  CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
+Sec: 135  Plane index : 5  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10

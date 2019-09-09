@@ -1,0 +1,8 @@
+Sec: 177  Plane index : 6  CGQ --> WEH  weekday : 7 time : 07:05 -- 08:45
+Sec: 181  Plane index : 6  WEH --> HGH  weekday : 1 time : 09:30 -- 11:30
+Sec: 860  Plane index : 24  HGH --> KWE  weekday : 2 time : 06:20 -- 08:50
+Sec: 870  Plane index : 24  KWE --> SQD  weekday : 2 time : 09:40 -- 11:55
+Sec: 877  Plane index : 24  SQD --> NGB  weekday : 2 time : 12:40 -- 14:00
+Sec: 882  Plane index : 24  NGB --> WEH  weekday : 3 time : 16:10 -- 18:00
+Sec: 168  Plane index : 5  WEH --> CGQ  weekday : 3 time : 22:45 -- 00:25
+two days off

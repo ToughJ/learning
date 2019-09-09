@@ -1,0 +1,20 @@
+Sec: 139  Plane index : 5  CIF --> HRB  weekday : 1 time : 10:05 -- 11:30
+Sec: 146  Plane index : 5  HRB --> CIF  weekday : 1 time : 12:30 -- 14:10
+Sec: 153  Plane index : 5  CIF --> HGH  weekday : 1 time : 14:55 -- 17:30
+Sec: 273  Plane index : 8  HGH --> PEK  weekday : 1 time : 19:00 -- 21:20
+Sec: 254  Plane index : 8  PEK --> HGH  weekday : 3 time : 08:20 -- 10:35
+Sec: 260  Plane index : 8  HGH --> CAN  weekday : 3 time : 11:35 -- 13:45
+Sec: 267  Plane index : 8  CAN --> HGH  weekday : 3 time : 14:45 -- 17:05
+Sec: 657  Plane index : 19  HGH --> WDS  weekday : 4 time : 06:45 -- 09:10
+Sec: 662  Plane index : 19  WDS --> XIY  weekday : 4 time : 09:55 -- 10:55
+Sec: 669  Plane index : 19  XIY --> HET  weekday : 4 time : 11:55 -- 13:45
+Sec: 676  Plane index : 19  HET --> CIF  weekday : 4 time : 14:30 -- 15:55
+two days offSec: 685  Plane index : 19  CIF --> HET  weekday : 6 time : 20:20 -- 21:40
+Sec: 692  Plane index : 19  HET --> XIY  weekday : 6 time : 22:25 -- 00:15
+Sec: 697  Plane index : 19  XIY --> URC  weekday : 7 time : 02:00 -- 05:25
+Sec: 70  Plane index : 3  URC --> INC  weekday : 1 time : 10:15 -- 13:10
+Sec: 77  Plane index : 3  INC --> HGH  weekday : 1 time : 14:10 -- 16:50
+Sec: 656  Plane index : 19  HGH --> WDS  weekday : 2 time : 06:45 -- 09:10
+Sec: 660  Plane index : 19  WDS --> XIY  weekday : 2 time : 09:55 -- 10:55
+Sec: 667  Plane index : 19  XIY --> HET  weekday : 2 time : 11:55 -- 13:45
+Sec: 674  Plane index : 19  HET --> CIF  weekday : 2 time : 14:30 -- 15:55

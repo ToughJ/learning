@@ -1,0 +1,17 @@
+from last week
+Sec: 1173  Plane index : 33  WNZ --> JIQ  weekday : 3 time : 08:25 -- 10:40
+Sec: 1194  Plane index : 33  JIQ --> WNZ  weekday : 3 time : 15:00 -- 17:00
+Sec: 437  Plane index : 13  WNZ --> KWE  weekday : 4 time : 07:15 -- 09:50
+Sec: 444  Plane index : 13  KWE --> WNZ  weekday : 4 time : 10:50 -- 13:15
+Sec: 438  Plane index : 13  WNZ --> KWE  weekday : 5 time : 07:15 -- 09:50
+Sec: 445  Plane index : 13  KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
+Sec: 418  Plane index : 12  WNZ --> KMG  weekday : 6 time : 17:15 -- 20:20
+Sec: 425  Plane index : 12  KMG --> WNZ  weekday : 6 time : 21:25 -- 00:15
+two days offSec: 1173  Plane index : 33  WNZ --> JIQ  weekday : 3 time : 08:25 -- 10:40
+Sec: 1194  Plane index : 33  JIQ --> WNZ  weekday : 3 time : 15:00 -- 17:00
+Sec: 437  Plane index : 13  WNZ --> KWE  weekday : 4 time : 07:15 -- 09:50
+Sec: 444  Plane index : 13  KWE --> WNZ  weekday : 4 time : 10:50 -- 13:15
+Sec: 438  Plane index : 13  WNZ --> KWE  weekday : 5 time : 07:15 -- 09:50
+Sec: 445  Plane index : 13  KWE --> WNZ  weekday : 5 time : 10:50 -- 13:15
+Sec: 418  Plane index : 12  WNZ --> KMG  weekday : 6 time : 17:15 -- 20:20
+Sec: 425  Plane index : 12  KMG --> WNZ  weekday : 6 time : 21:25 -- 00:15

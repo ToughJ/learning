@@ -1,0 +1,8 @@
+Sec: 318  Plane index : 10  HGH --> MIG  weekday : 2 time : 07:15 -- 10:05
+Sec: 337  Plane index : 10  MIG --> HGH  weekday : 3 time : 18:35 -- 21:05
+Sec: 220  Plane index : 7  HGH --> WEH  weekday : 4 time : 13:05 -- 15:00
+Sec: 227  Plane index : 7  WEH --> CGQ  weekday : 4 time : 15:45 -- 17:25
+Sec: 592  Plane index : 17  CGQ --> LYI  weekday : 5 time : 16:00 -- 18:15
+Sec: 599  Plane index : 17  LYI --> KMG  weekday : 5 time : 19:00 -- 22:20
+Sec: 606  Plane index : 17  KMG --> HGH  weekday : 5 time : 23:20 -- 02:15
+two days off

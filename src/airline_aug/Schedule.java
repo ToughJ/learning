@@ -6,6 +6,7 @@ public class Schedule {
 	ArrayList<Integer> acv = new ArrayList<>(), bcv = new ArrayList<>(), ccv = new ArrayList<>();
 	int city = 0;
 	int startDay = 0;
+	int tSta,tEnd;
 	ArrayList<Tour_ofDuty> arrToD = new ArrayList<>();
 
 	public Schedule() {
@@ -15,6 +16,8 @@ public class Schedule {
 	public Schedule(Schedule one) {
 		this.city = one.city;
 		this.startDay = one.startDay;
+		this.tSta = one.tSta;
+		this.tEnd = one.tEnd;
 		for (Tour_ofDuty tod : one.arrToD) {
 			this.arrToD.add(tod);
 		}
@@ -22,10 +25,10 @@ public class Schedule {
 			this.acv.add(a);
 		}
 		for (int b : one.bcv) {
-			this.acv.add(b);
+			this.bcv.add(b);
 		}
 		for (int c : one.ccv) {
-			this.acv.add(c);
+			this.ccv.add(c);
 		}
 	}
 }

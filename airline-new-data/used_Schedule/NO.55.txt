@@ -1,0 +1,9 @@
+Sec: 199  Plane index : 6  BPE --> YNJ  weekday : 4 time : 16:05 -- 17:55
+Sec: 207  Plane index : 6  YNJ --> BPE  weekday : 4 time : 19:45 -- 21:40
+Sec: 918  Plane index : 25  BPE --> DAT  weekday : 5 time : 14:00 -- 15:30
+Sec: 924  Plane index : 25  DAT --> BPE  weekday : 5 time : 19:45 -- 21:05
+Sec: 931  Plane index : 25  BPE --> HGH  weekday : 5 time : 22:00 -- 00:25
+Sec: 910  Plane index : 25  HGH --> BPE  weekday : 7 time : 13:45 -- 16:05
+Sec: 917  Plane index : 25  BPE --> DAT  weekday : 7 time : 16:50 -- 18:20
+Sec: 925  Plane index : 25  DAT --> BPE  weekday : 7 time : 19:45 -- 21:05
+two days off

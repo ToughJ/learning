@@ -1,0 +1,11 @@
+Sec: 939  Plane index : 26  HGH --> CGO  weekday : 4 time : 06:40 -- 08:35
+Sec: 946  Plane index : 26  CGO --> AKU  weekday : 4 time : 09:35 -- 14:35
+Sec: 954  Plane index : 26  AKU --> CGO  weekday : 5 time : 15:30 -- 19:45
+Sec: 961  Plane index : 26  CGO --> HGH  weekday : 5 time : 20:45 -- 22:25
+Sec: 194  Plane index : 6  HGH --> BPE  weekday : 6 time : 13:05 -- 15:15
+Sec: 201  Plane index : 6  BPE --> YNJ  weekday : 6 time : 16:00 -- 17:50
+Sec: 208  Plane index : 6  YNJ --> BPE  weekday : 6 time : 19:45 -- 21:40
+Sec: 917  Plane index : 25  BPE --> DAT  weekday : 7 time : 16:50 -- 18:20
+Sec: 925  Plane index : 25  DAT --> BPE  weekday : 7 time : 19:45 -- 21:05
+Sec: 932  Plane index : 25  BPE --> HGH  weekday : 7 time : 22:00 -- 00:25
+two days off

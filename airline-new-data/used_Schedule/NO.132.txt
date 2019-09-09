@@ -1,0 +1,6 @@
+Sec: 1242  Plane index : 35  NGB --> CAN  weekday : 4 time : 23:05 -- 01:25
+Sec: 1249  Plane index : 35  CAN --> HGH  weekday : 5 time : 02:25 -- 04:35
+Sec: 1280  Plane index : 36  HGH --> XNN  weekday : 6 time : 06:25 -- 09:35
+Sec: 1384  Plane index : 38  XNN --> CAN  weekday : 7 time : 23:10 -- 02:30
+Sec: 1232  Plane index : 35  CAN --> NGB  weekday : 1 time : 06:10 -- 08:20
+two days off

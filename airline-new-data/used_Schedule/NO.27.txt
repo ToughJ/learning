@@ -1,0 +1,11 @@
+Sec: 1172  Plane index : 33  WNZ --> KOS  weekday : 5 time : 10:45 -- 15:00
+Sec: 1179  Plane index : 33  KOS --> WNZ  weekday : 5 time : 16:00 -- 19:40
+Sec: 439  Plane index : 13  WNZ --> KWE  weekday : 6 time : 07:15 -- 09:50
+Sec: 446  Plane index : 13  KWE --> WNZ  weekday : 6 time : 10:50 -- 13:15
+Sec: 1188  Plane index : 33  WNZ --> CJU  weekday : 7 time : 15:00 -- 17:00
+Sec: 1195  Plane index : 33  CJU --> WNZ  weekday : 7 time : 20:45 -- 22:45
+Sec: 448  Plane index : 13  WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+Sec: 455  Plane index : 13  XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
+Sec: 462  Plane index : 13  CTU --> XFN  weekday : 1 time : 20:25 -- 22:15
+Sec: 469  Plane index : 13  XFN --> WNZ  weekday : 1 time : 23:00 -- 00:45
+two days off

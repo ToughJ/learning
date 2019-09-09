@@ -1,0 +1,11 @@
+Sec: 394  Plane index : 12  ENY --> NKG  weekday : 4 time : 06:35 -- 08:55
+Sec: 403  Plane index : 12  NKG --> ENY  weekday : 4 time : 09:55 -- 12:10
+Sec: 395  Plane index : 12  ENY --> NKG  weekday : 5 time : 06:35 -- 08:55
+Sec: 400  Plane index : 12  NKG --> ENY  weekday : 5 time : 09:55 -- 12:15
+Sec: 764  Plane index : 21  ENY --> CTU  weekday : 6 time : 00:25 -- 02:05
+Sec: 774  Plane index : 22  CTU --> TNA  weekday : 6 time : 06:25 -- 09:00
+Sec: 781  Plane index : 22  TNA --> DLC  weekday : 6 time : 09:50 -- 11:00
+Sec: 785  Plane index : 22  DLC --> NZH  weekday : 7 time : 12:00 -- 14:30
+Sec: 792  Plane index : 22  NZH --> DLC  weekday : 7 time : 15:15 -- 17:35
+Sec: 757  Plane index : 21  DLC --> ENY  weekday : 7 time : 20:50 -- 23:00
+two days off

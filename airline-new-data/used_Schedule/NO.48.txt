@@ -1,0 +1,22 @@
+Sec: 136  Plane index : 5  HGH --> JIQ  weekday : 2 time : 08:25 -- 10:40
+Sec: 142  Plane index : 5  JIQ --> CKG  weekday : 2 time : 11:25 -- 12:20
+Sec: 149  Plane index : 5  CKG --> JIQ  weekday : 2 time : 13:20 -- 14:15
+Sec: 157  Plane index : 5  JIQ --> HGH  weekday : 2 time : 15:00 -- 17:10
+Sec: 1008  Plane index : 28  HGH --> HRB  weekday : 3 time : 06:35 -- 10:00
+Sec: 1014  Plane index : 28  HRB --> XUZ  weekday : 3 time : 10:50 -- 13:25
+Sec: 1021  Plane index : 28  XUZ --> ZUH  weekday : 3 time : 14:10 -- 16:45
+Sec: 521  Plane index : 15  ZUH --> BFJ  weekday : 4 time : 13:35 -- 15:40
+Sec: 528  Plane index : 15  BFJ --> XIY  weekday : 4 time : 16:40 -- 18:25
+Sec: 535  Plane index : 15  XIY --> ENH  weekday : 4 time : 19:25 -- 20:30
+Sec: 542  Plane index : 15  ENH --> HGH  weekday : 4 time : 21:15 -- 23:05
+Sec: 191  Plane index : 6  HGH --> JIQ  weekday : 5 time : 13:50 -- 16:10
+Sec: 198  Plane index : 6  JIQ --> CKG  weekday : 5 time : 17:20 -- 18:15
+Sec: 205  Plane index : 6  CKG --> JIQ  weekday : 5 time : 19:20 -- 20:15
+Sec: 212  Plane index : 6  JIQ --> HGH  weekday : 5 time : 21:20 -- 23:20
+two days offSec: 706  Plane index : 20  HGH --> CTU  weekday : 7 time : 23:55 -- 03:00
+Sec: 726  Plane index : 21  CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+Sec: 733  Plane index : 21  ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
+Sec: 758  Plane index : 21  DLC --> ENH  weekday : 2 time : 20:50 -- 23:30
+Sec: 541  Plane index : 15  ENH --> HGH  weekday : 3 time : 21:15 -- 23:05
+Sec: 261  Plane index : 8  HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
+Sec: 268  Plane index : 8  CAN --> HGH  weekday : 4 time : 14:45 -- 17:05

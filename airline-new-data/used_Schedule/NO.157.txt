@@ -1,0 +1,9 @@
+Sec: 100  Plane index : 4  HGH --> CIF  weekday : 4 time : 06:20 -- 09:10
+Sec: 107  Plane index : 4  CIF --> HRB  weekday : 4 time : 10:05 -- 11:30
+Sec: 975  Plane index : 27  HRB --> HGH  weekday : 5 time : 06:40 -- 10:00
+Sec: 306  Plane index : 9  HGH --> CAN  weekday : 6 time : 02:00 -- 04:10
+Sec: 1354  Plane index : 38  CAN --> XNN  weekday : 6 time : 05:45 -- 09:15
+Sec: 1402  Plane index : 39  XNN --> ZYI  weekday : 7 time : 20:15 -- 22:40
+Sec: 1409  Plane index : 39  ZYI --> SZX  weekday : 7 time : 23:25 -- 01:15
+Sec: 1413  Plane index : 39  SZX --> HGH  weekday : 1 time : 02:15 -- 04:20
+two days off

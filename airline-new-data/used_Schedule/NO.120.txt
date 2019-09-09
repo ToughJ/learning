@@ -1,0 +1,6 @@
+Sec: 483  Plane index : 14  UTP --> XIY  weekday : 1 time : 18:15 -- 22:05
+Sec: 477  Plane index : 14  XIY --> UTP  weekday : 3 time : 09:10 -- 13:30
+two days offSec: 485  Plane index : 14  UTP --> XIY  weekday : 6 time : 18:15 -- 22:05
+Sec: 429  Plane index : 12  XIY --> CXR  weekday : 7 time : 23:10 -- 03:35
+Sec: 473  Plane index : 13  CXR --> XIY  weekday : 2 time : 04:20 -- 08:10
+Sec: 477  Plane index : 14  XIY --> UTP  weekday : 3 time : 09:10 -- 13:30

@@ -1,0 +1,12 @@
+Sec: 547  Plane index : 16  KMG --> INC  weekday : 2 time : 07:35 -- 10:20
+Sec: 554  Plane index : 16  INC --> CGQ  weekday : 2 time : 11:35 -- 14:20
+Sec: 589  Plane index : 17  CGQ --> LYI  weekday : 2 time : 16:00 -- 18:15
+Sec: 583  Plane index : 17  LYI --> CGQ  weekday : 3 time : 12:55 -- 15:05
+Sec: 590  Plane index : 17  CGQ --> LYI  weekday : 3 time : 16:00 -- 18:15
+Sec: 597  Plane index : 17  LYI --> KMG  weekday : 3 time : 19:00 -- 22:20
+two days offSec: 551  Plane index : 16  KMG --> INC  weekday : 6 time : 07:35 -- 10:20
+Sec: 558  Plane index : 16  INC --> CGQ  weekday : 6 time : 11:35 -- 14:20
+Sec: 594  Plane index : 17  CGQ --> LYI  weekday : 7 time : 16:00 -- 18:15
+Sec: 601  Plane index : 17  LYI --> KMG  weekday : 7 time : 19:00 -- 22:20
+Sec: 608  Plane index : 17  KMG --> HGH  weekday : 7 time : 23:20 -- 02:15
+Sec: 610  Plane index : 17  HGH --> KMG  weekday : 2 time : 03:15 -- 06:20

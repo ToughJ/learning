@@ -1,0 +1,9 @@
+Sec: 1042  Plane index : 29  HRB --> WUT  weekday : 3 time : 06:25 -- 09:25
+Sec: 1049  Plane index : 29  WUT --> HAK  weekday : 3 time : 11:05 -- 14:10
+Sec: 1060  Plane index : 29  HAK --> XFN  weekday : 4 time : 15:30 -- 18:00
+Sec: 1067  Plane index : 29  XFN --> HRB  weekday : 4 time : 18:45 -- 21:55
+Sec: 148  Plane index : 5  HRB --> CIF  weekday : 5 time : 12:30 -- 14:10
+Sec: 155  Plane index : 5  CIF --> HGH  weekday : 5 time : 14:55 -- 17:30
+Sec: 101  Plane index : 4  HGH --> CIF  weekday : 6 time : 06:20 -- 09:10
+Sec: 108  Plane index : 4  CIF --> HRB  weekday : 6 time : 10:05 -- 11:30
+two days off

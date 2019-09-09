@@ -1,0 +1,8 @@
+Sec: 708  Plane index : 20  CTU --> MDL  weekday : 2 time : 05:50 -- 08:25
+Sec: 711  Plane index : 20  MDL --> HGH  weekday : 2 time : 09:10 -- 13:05
+Sec: 938  Plane index : 26  HGH --> CGO  weekday : 3 time : 06:40 -- 08:35
+Sec: 945  Plane index : 26  CGO --> AKU  weekday : 3 time : 09:35 -- 14:35
+Sec: 953  Plane index : 26  AKU --> CGO  weekday : 4 time : 15:30 -- 19:45
+Sec: 960  Plane index : 26  CGO --> HGH  weekday : 4 time : 20:45 -- 22:25
+Sec: 705  Plane index : 20  HGH --> CTU  weekday : 5 time : 23:55 -- 03:00
+two days off

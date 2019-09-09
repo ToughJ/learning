@@ -1,0 +1,11 @@
+Sec: 1117  Plane index : 31  LJG --> ZYI  weekday : 6 time : 17:35 -- 19:10
+Sec: 1124  Plane index : 31  ZYI --> HGH  weekday : 6 time : 19:55 -- 22:15
+Sec: 981  Plane index : 27  HGH --> BFJ  weekday : 7 time : 12:35 -- 15:10
+Sec: 988  Plane index : 27  BFJ --> JHG  weekday : 7 time : 16:20 -- 17:50
+Sec: 995  Plane index : 27  JHG --> BFJ  weekday : 7 time : 18:35 -- 20:05
+Sec: 1002  Plane index : 27  BFJ --> HGH  weekday : 7 time : 21:15 -- 23:40
+Sec: 377  Plane index : 11  HGH --> CKG  weekday : 1 time : 18:05 -- 20:35
+Sec: 384  Plane index : 11  CKG --> HGH  weekday : 1 time : 21:35 -- 00:05
+Sec: 1132  Plane index : 32  HGH --> AVA  weekday : 3 time : 07:15 -- 10:00
+Sec: 1139  Plane index : 32  AVA --> LJG  weekday : 3 time : 10:45 -- 12:15
+two days off

@@ -1,0 +1,12 @@
+Sec: 430  Plane index : 12  CXR --> XIY  weekday : 1 time : 04:20 -- 08:10
+Sec: 533  Plane index : 15  XIY --> ENH  weekday : 2 time : 19:25 -- 20:30
+Sec: 540  Plane index : 15  ENH --> HGH  weekday : 2 time : 21:15 -- 23:05
+Sec: 413  Plane index : 12  HGH --> ENY  weekday : 3 time : 17:15 -- 19:55
+Sec: 420  Plane index : 12  ENY --> XIY  weekday : 3 time : 21:15 -- 22:10
+Sec: 427  Plane index : 12  XIY --> CXR  weekday : 3 time : 23:10 -- 03:35
+two days offSec: 433  Plane index : 12  CXR --> XIY  weekday : 7 time : 04:20 -- 08:10
+Sec: 504  Plane index : 15  XIY --> BFJ  weekday : 1 time : 06:55 -- 08:50
+Sec: 511  Plane index : 15  BFJ --> ZUH  weekday : 1 time : 10:40 -- 12:40
+Sec: 518  Plane index : 15  ZUH --> BFJ  weekday : 1 time : 13:35 -- 15:40
+Sec: 525  Plane index : 15  BFJ --> XIY  weekday : 1 time : 16:40 -- 18:25
+Sec: 466  Plane index : 13  XIY --> CXR  weekday : 2 time : 23:10 -- 03:35

@@ -1,0 +1,14 @@
+Sec: 1399  Plane index : 39  XNN --> ZYI  weekday : 1 time : 20:15 -- 22:40
+Sec: 1406  Plane index : 39  ZYI --> SZX  weekday : 1 time : 23:25 -- 01:15
+Sec: 1414  Plane index : 39  SZX --> HGH  weekday : 2 time : 02:15 -- 04:20
+Sec: 704  Plane index : 20  HGH --> CTU  weekday : 3 time : 23:55 -- 03:00
+Sec: 773  Plane index : 22  CTU --> TNA  weekday : 4 time : 06:25 -- 09:00
+Sec: 780  Plane index : 22  TNA --> DLC  weekday : 4 time : 09:50 -- 11:00
+Sec: 744  Plane index : 21  DLC --> XNN  weekday : 5 time : 12:00 -- 14:40
+two days offSec: 1384  Plane index : 38  XNN --> CAN  weekday : 7 time : 23:10 -- 02:30
+Sec: 1349  Plane index : 38  CAN --> XNN  weekday : 1 time : 05:45 -- 09:15
+Sec: 1374  Plane index : 38  XNN --> HGH  weekday : 2 time : 21:40 -- 00:35
+Sec: 861  Plane index : 24  HGH --> KWE  weekday : 3 time : 06:20 -- 08:50
+Sec: 871  Plane index : 24  KWE --> SQD  weekday : 4 time : 09:40 -- 11:55
+Sec: 878  Plane index : 24  SQD --> NGB  weekday : 4 time : 12:40 -- 14:00
+Sec: 1368  Plane index : 38  NGB --> XNN  weekday : 4 time : 16:55 -- 20:20

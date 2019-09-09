@@ -1,0 +1,9 @@
+Sec: 709  Plane index : 20  CTU --> MDL  weekday : 4 time : 05:55 -- 08:25
+Sec: 712  Plane index : 20  MDL --> HGH  weekday : 4 time : 09:10 -- 13:05
+Sec: 968  Plane index : 26  HGH --> SZX  weekday : 5 time : 02:00 -- 04:15
+Sec: 1313  Plane index : 37  SZX --> ENH  weekday : 6 time : 06:35 -- 08:35
+Sec: 1320  Plane index : 37  ENH --> XNN  weekday : 6 time : 09:20 -- 11:40
+Sec: 753  Plane index : 21  XNN --> DLC  weekday : 7 time : 15:25 -- 18:10
+Sec: 799  Plane index : 22  DLC --> HDG  weekday : 7 time : 20:10 -- 21:45
+Sec: 806  Plane index : 22  HDG --> CTU  weekday : 7 time : 22:35 -- 01:05
+two days off

@@ -6,10 +6,11 @@ public class tester {
 //		 dl.loadNodeInfo("./airline-new-data/data-info-0.txt");
 //		 dl.testPrint();
 		
-		ss_Parameter sp = new ss_Parameter();
-		sp.testLoad();
+//		ss_Parameter sp = new ss_Parameter();
+//		sp.testLoad();
+//		sp.testSchedule();
 		
-		
+		ss_cal sc = new ss_cal();
 		
 //		Crew_Pairing cp = new Crew_Pairing("./airline-new-data/data-info-0.txt");
 //		// cp.subproblem.testSubModel();

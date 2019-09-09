@@ -1,0 +1,18 @@
+Sec: 21  Plane index : 1  HRB --> HLH  weekday : 1 time : 18:55 -- 20:15
+Sec: 28  Plane index : 1  HLH --> HGH  weekday : 1 time : 21:40 -- 00:45
+Sec: 97  Plane index : 4  HGH --> WUT  weekday : 3 time : 06:50 -- 09:10
+Sec: 1024  Plane index : 28  WUT --> ZUH  weekday : 4 time : 14:30 -- 17:25
+Sec: 1031  Plane index : 28  ZUH --> WUT  weekday : 4 time : 18:10 -- 21:05
+Sec: 1038  Plane index : 28  WUT --> HRB  weekday : 4 time : 21:50 -- 00:15
+two days offSec: 977  Plane index : 27  HRB --> HGH  weekday : 7 time : 06:40 -- 10:00
+Sec: 263  Plane index : 8  HGH --> CAN  weekday : 7 time : 11:35 -- 13:45
+Sec: 270  Plane index : 8  CAN --> HGH  weekday : 7 time : 14:45 -- 17:05
+Sec: 349  Plane index : 11  HGH --> WUH  weekday : 1 time : 06:45 -- 08:30
+Sec: 356  Plane index : 11  WUH --> ACX  weekday : 1 time : 09:30 -- 11:40
+Sec: 363  Plane index : 11  ACX --> WUH  weekday : 1 time : 12:25 -- 14:30
+Sec: 370  Plane index : 11  WUH --> HGH  weekday : 1 time : 15:30 -- 17:00
+Sec: 1007  Plane index : 28  HGH --> HRB  weekday : 2 time : 06:35 -- 10:00
+Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
+Sec: 1049  Plane index : 29  WUT --> HAK  weekday : 3 time : 11:05 -- 14:10
+Sec: 1056  Plane index : 29  HAK --> WUT  weekday : 3 time : 15:30 -- 18:35
+Sec: 1063  Plane index : 29  WUT --> HRB  weekday : 3 time : 19:20 -- 21:55

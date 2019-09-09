@@ -1,0 +1,15 @@
+from last week
+Sec: 331  Plane index : 10  LHW --> MIG  weekday : 4 time : 16:20 -- 17:40
+Sec: 338  Plane index : 10  MIG --> HGH  weekday : 4 time : 18:35 -- 21:05
+Sec: 345  Plane index : 10  HGH --> PEK  weekday : 4 time : 23:30 -- 01:50
+Sec: 285  Plane index : 9  PEK --> HGH  weekday : 6 time : 05:50 -- 08:05
+Sec: 355  Plane index : 11  HGH --> CSX  weekday : 7 time : 06:45 -- 08:35
+Sec: 375  Plane index : 11  CSX --> HGH  weekday : 7 time : 15:25 -- 17:00
+Sec: 314  Plane index : 10  HGH --> MIG  weekday : 1 time : 08:25 -- 11:15
+Sec: 321  Plane index : 10  MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
+two days offSec: 331  Plane index : 10  LHW --> MIG  weekday : 4 time : 16:20 -- 17:40
+Sec: 338  Plane index : 10  MIG --> HGH  weekday : 4 time : 18:35 -- 21:05
+Sec: 346  Plane index : 10  HGH --> PEK  weekday : 5 time : 23:30 -- 01:50
+Sec: 285  Plane index : 9  PEK --> HGH  weekday : 6 time : 05:50 -- 08:05
+Sec: 317  Plane index : 10  HGH --> MIG  weekday : 7 time : 08:25 -- 11:15
+Sec: 327  Plane index : 10  MIG --> LHW  weekday : 7 time : 12:05 -- 13:25

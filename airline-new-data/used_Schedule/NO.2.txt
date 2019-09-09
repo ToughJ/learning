@@ -1,0 +1,10 @@
+Sec: 967  Plane index : 26  HGH --> SZX  weekday : 4 time : 02:00 -- 04:15
+Sec: 1312  Plane index : 37  SZX --> ENH  weekday : 4 time : 06:35 -- 08:35
+Sec: 1319  Plane index : 37  ENH --> XNN  weekday : 4 time : 09:20 -- 11:40
+Sec: 1283  Plane index : 36  XNN --> HDG  weekday : 5 time : 11:10 -- 13:15
+Sec: 1290  Plane index : 36  HDG --> XUZ  weekday : 5 time : 14:00 -- 15:25
+Sec: 1297  Plane index : 36  XUZ --> HDG  weekday : 5 time : 16:10 -- 17:40
+Sec: 1301  Plane index : 36  HDG --> XNN  weekday : 5 time : 18:25 -- 20:40
+Sec: 1341  Plane index : 37  XNN --> HIA  weekday : 6 time : 20:35 -- 23:10
+Sec: 1348  Plane index : 37  HIA --> HGH  weekday : 6 time : 23:55 -- 01:05
+two days off

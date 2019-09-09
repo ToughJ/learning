@@ -1,0 +1,21 @@
+Sec: 342  Plane index : 10  HGH --> PEK  weekday : 1 time : 23:30 -- 01:50
+Sec: 281  Plane index : 9  PEK --> HGH  weekday : 2 time : 05:50 -- 08:05
+Sec: 217  Plane index : 7  HGH --> LYI  weekday : 3 time : 06:25 -- 07:55
+Sec: 224  Plane index : 7  LYI --> TYN  weekday : 3 time : 08:40 -- 10:20
+Sec: 231  Plane index : 7  TYN --> LYI  weekday : 3 time : 11:15 -- 12:50
+Sec: 598  Plane index : 17  LYI --> KMG  weekday : 4 time : 19:00 -- 22:20
+Sec: 605  Plane index : 17  KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
+two days offSec: 219  Plane index : 7  HGH --> LYI  weekday : 7 time : 06:25 -- 07:55
+Sec: 226  Plane index : 7  LYI --> TYN  weekday : 7 time : 08:40 -- 10:20
+Sec: 233  Plane index : 7  TYN --> LYI  weekday : 7 time : 11:15 -- 12:50
+Sec: 240  Plane index : 7  LYI --> HGH  weekday : 7 time : 13:35 -- 14:50
+Sec: 1069  Plane index : 30  HGH --> HJJ  weekday : 1 time : 09:40 -- 11:45
+Sec: 1076  Plane index : 30  HJJ --> LJG  weekday : 1 time : 12:35 -- 14:35
+Sec: 1083  Plane index : 30  LJG --> KWL  weekday : 1 time : 15:20 -- 17:05
+Sec: 1090  Plane index : 30  KWL --> WNZ  weekday : 1 time : 17:50 -- 20:05
+Sec: 1098  Plane index : 31  WNZ --> WUH  weekday : 2 time : 09:05 -- 10:45
+Sec: 1105  Plane index : 31  WUH --> LJG  weekday : 2 time : 11:50 -- 14:20
+Sec: 1146  Plane index : 32  LJG --> HAN  weekday : 3 time : 13:00 -- 15:05
+Sec: 1153  Plane index : 32  HAN --> LJG  weekday : 3 time : 16:05 -- 18:00
+Sec: 1159  Plane index : 32  LJG --> AVA  weekday : 3 time : 18:45 -- 20:10
+Sec: 1165  Plane index : 32  AVA --> HGH  weekday : 3 time : 20:55 -- 23:10

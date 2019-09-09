@@ -1,0 +1,14 @@
+Sec: 1274  Plane index : 36  HGH --> XNN  weekday : 1 time : 07:15 -- 10:25
+Sec: 1321  Plane index : 37  XNN --> SZX  weekday : 1 time : 12:00 -- 15:20
+Sec: 1311  Plane index : 37  SZX --> ENH  weekday : 2 time : 06:35 -- 08:35
+Sec: 1318  Plane index : 37  ENH --> XNN  weekday : 2 time : 09:20 -- 11:40
+Sec: 1304  Plane index : 36  XNN --> HGH  weekday : 3 time : 21:40 -- 00:35
+two days offSec: 864  Plane index : 24  HGH --> KWE  weekday : 6 time : 06:20 -- 08:50
+Sec: 872  Plane index : 24  KWE --> SQD  weekday : 6 time : 09:40 -- 11:55
+Sec: 879  Plane index : 24  SQD --> NGB  weekday : 6 time : 12:40 -- 14:00
+Sec: 1257  Plane index : 35  NGB --> ACX  weekday : 7 time : 09:05 -- 12:00
+Sec: 1272  Plane index : 35  ACX --> NGB  weekday : 7 time : 16:55 -- 19:50
+Sec: 1252  Plane index : 35  NGB --> KLO  weekday : 1 time : 11:05 -- 14:45
+Sec: 1259  Plane index : 35  KLO --> NGB  weekday : 1 time : 15:45 -- 19:15
+Sec: 1367  Plane index : 38  NGB --> XNN  weekday : 2 time : 16:55 -- 20:20
+Sec: 1374  Plane index : 38  XNN --> HGH  weekday : 2 time : 21:40 -- 00:35

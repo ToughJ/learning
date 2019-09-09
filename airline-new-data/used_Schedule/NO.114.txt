@@ -1,0 +1,13 @@
+from last week
+Sec: 884  Plane index : 24  NGB --> WEH  weekday : 5 time : 16:10 -- 18:00
+Sec: 891  Plane index : 24  WEH --> SHE  weekday : 5 time : 18:45 -- 19:55
+Sec: 898  Plane index : 24  SHE --> YNT  weekday : 5 time : 20:45 -- 22:20
+Sec: 905  Plane index : 24  YNT --> CAN  weekday : 5 time : 23:05 -- 02:30
+Sec: 1238  Plane index : 35  CAN --> NGB  weekday : 7 time : 06:10 -- 08:20
+two days offSec: 882  Plane index : 24  NGB --> WEH  weekday : 3 time : 16:10 -- 18:00
+Sec: 889  Plane index : 24  WEH --> SHE  weekday : 3 time : 18:45 -- 19:55
+Sec: 896  Plane index : 24  SHE --> YNT  weekday : 3 time : 20:45 -- 22:20
+Sec: 903  Plane index : 24  YNT --> CAN  weekday : 3 time : 23:05 -- 02:30
+Sec: 1236  Plane index : 35  CAN --> NGB  weekday : 5 time : 06:10 -- 08:20
+Sec: 1253  Plane index : 35  NGB --> KLO  weekday : 6 time : 11:05 -- 14:45
+Sec: 1260  Plane index : 35  KLO --> NGB  weekday : 6 time : 15:45 -- 19:15

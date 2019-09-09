@@ -1,0 +1,6 @@
+Sec: 1371  Plane index : 38  NGB --> LYG  weekday : 3 time : 17:10 -- 18:40
+Sec: 1378  Plane index : 38  LYG --> XNN  weekday : 3 time : 19:25 -- 22:25
+Sec: 1361  Plane index : 38  XNN --> NGB  weekday : 4 time : 11:30 -- 14:40
+Sec: 1243  Plane index : 35  NGB --> CAN  weekday : 5 time : 23:05 -- 01:25
+Sec: 1237  Plane index : 35  CAN --> NGB  weekday : 6 time : 06:10 -- 08:20
+two days off

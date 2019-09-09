@@ -1,0 +1,10 @@
+Sec: 1327  Plane index : 37  XNN --> CSX  weekday : 6 time : 12:25 -- 14:50
+Sec: 1334  Plane index : 37  CSX --> XNN  weekday : 6 time : 16:55 -- 19:30
+Sec: 1284  Plane index : 36  XNN --> HDG  weekday : 7 time : 11:10 -- 13:15
+Sec: 1291  Plane index : 36  HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
+Sec: 59  Plane index : 2  XUZ --> SZX  weekday : 7 time : 18:50 -- 21:35
+Sec: 1328  Plane index : 37  SZX --> XNN  weekday : 1 time : 16:20 -- 19:45
+Sec: 1381  Plane index : 38  XNN --> CAN  weekday : 1 time : 23:10 -- 02:30
+Sec: 1247  Plane index : 35  CAN --> HGH  weekday : 3 time : 02:25 -- 04:35
+Sec: 1275  Plane index : 36  HGH --> XNN  weekday : 3 time : 07:15 -- 10:25
+two days off

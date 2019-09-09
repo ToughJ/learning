@@ -1,0 +1,13 @@
+from last week
+Sec: 316  Plane index : 10  HGH --> MIG  weekday : 5 time : 08:25 -- 11:15
+Sec: 326  Plane index : 10  MIG --> LHW  weekday : 6 time : 12:05 -- 13:25
+Sec: 333  Plane index : 10  LHW --> MIG  weekday : 6 time : 16:20 -- 17:40
+Sec: 340  Plane index : 10  MIG --> HGH  weekday : 6 time : 18:35 -- 21:05
+two days offSec: 136  Plane index : 5  HGH --> JIQ  weekday : 2 time : 08:25 -- 10:40
+Sec: 142  Plane index : 5  JIQ --> CKG  weekday : 2 time : 11:25 -- 12:20
+Sec: 149  Plane index : 5  CKG --> JIQ  weekday : 2 time : 13:20 -- 14:15
+Sec: 157  Plane index : 5  JIQ --> HGH  weekday : 2 time : 15:00 -- 17:10
+Sec: 97  Plane index : 4  HGH --> WUT  weekday : 3 time : 06:50 -- 09:10
+Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00
+Sec: 112  Plane index : 4  BAV --> WUT  weekday : 5 time : 20:40 -- 21:45
+Sec: 119  Plane index : 4  WUT --> HGH  weekday : 5 time : 22:30 -- 00:45

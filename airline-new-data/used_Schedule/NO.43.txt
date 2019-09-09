@@ -1,0 +1,20 @@
+Sec: 504  Plane index : 15  XIY --> BFJ  weekday : 1 time : 06:55 -- 08:50
+Sec: 511  Plane index : 15  BFJ --> ZUH  weekday : 1 time : 10:40 -- 12:40
+Sec: 518  Plane index : 15  ZUH --> BFJ  weekday : 1 time : 13:35 -- 15:40
+Sec: 525  Plane index : 15  BFJ --> XIY  weekday : 1 time : 16:40 -- 18:25
+Sec: 505  Plane index : 15  XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
+Sec: 512  Plane index : 15  BFJ --> ZUH  weekday : 2 time : 10:40 -- 12:40
+Sec: 519  Plane index : 15  ZUH --> BFJ  weekday : 2 time : 13:35 -- 15:40
+Sec: 526  Plane index : 15  BFJ --> XIY  weekday : 2 time : 16:40 -- 18:25
+Sec: 506  Plane index : 15  XIY --> BFJ  weekday : 3 time : 06:55 -- 08:50
+Sec: 513  Plane index : 15  BFJ --> ZUH  weekday : 3 time : 10:40 -- 12:40
+Sec: 520  Plane index : 15  ZUH --> BFJ  weekday : 3 time : 13:35 -- 15:40
+Sec: 527  Plane index : 15  BFJ --> XIY  weekday : 3 time : 16:40 -- 18:25
+Sec: 507  Plane index : 15  XIY --> BFJ  weekday : 4 time : 06:55 -- 08:50
+Sec: 514  Plane index : 15  BFJ --> ZUH  weekday : 4 time : 10:40 -- 12:40
+Sec: 521  Plane index : 15  ZUH --> BFJ  weekday : 4 time : 13:35 -- 15:40
+Sec: 528  Plane index : 15  BFJ --> XIY  weekday : 4 time : 16:40 -- 18:25
+two days offSec: 468  Plane index : 13  XIY --> CXR  weekday : 6 time : 23:10 -- 03:35
+Sec: 430  Plane index : 12  CXR --> XIY  weekday : 1 time : 04:20 -- 08:10
+Sec: 505  Plane index : 15  XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
+Sec: 526  Plane index : 15  BFJ --> XIY  weekday : 2 time : 16:40 -- 18:25

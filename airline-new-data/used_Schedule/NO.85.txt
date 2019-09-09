@@ -1,0 +1,7 @@
+Sec: 263  Plane index : 8  HGH --> CAN  weekday : 7 time : 11:35 -- 13:45
+Sec: 270  Plane index : 8  CAN --> HGH  weekday : 7 time : 14:45 -- 17:05
+Sec: 96  Plane index : 4  HGH --> WUT  weekday : 1 time : 06:50 -- 09:10
+Sec: 103  Plane index : 4  WUT --> BAV  weekday : 1 time : 09:55 -- 11:00
+Sec: 111  Plane index : 4  BAV --> WUT  weekday : 3 time : 20:40 -- 21:45
+Sec: 118  Plane index : 4  WUT --> HGH  weekday : 3 time : 22:30 -- 00:45
+two days off

@@ -1,0 +1,11 @@
+Sec: 1135  Plane index : 32  HGH --> DYG  weekday : 2 time : 07:15 -- 09:25
+Sec: 1142  Plane index : 32  DYG --> LJG  weekday : 2 time : 10:10 -- 12:00
+Sec: 1115  Plane index : 31  LJG --> ZYI  weekday : 2 time : 17:35 -- 19:10
+Sec: 1315  Plane index : 37  ZYI --> XNN  weekday : 3 time : 09:05 -- 11:15
+Sec: 1322  Plane index : 37  XNN --> SZX  weekday : 3 time : 12:00 -- 15:20
+Sec: 1329  Plane index : 37  SZX --> XNN  weekday : 3 time : 16:20 -- 19:45
+Sec: 1286  Plane index : 36  XNN --> NKG  weekday : 4 time : 10:20 -- 12:55
+Sec: 1294  Plane index : 36  NKG --> XNN  weekday : 4 time : 17:00 -- 19:50
+Sec: 1337  Plane index : 37  XNN --> LYA  weekday : 5 time : 20:35 -- 22:30
+Sec: 1344  Plane index : 37  LYA --> HGH  weekday : 5 time : 23:15 -- 01:05
+two days off

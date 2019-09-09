@@ -1,0 +1,10 @@
+Sec: 1338  Plane index : 37  XNN --> LYA  weekday : 7 time : 20:35 -- 22:30
+Sec: 1345  Plane index : 37  LYA --> HGH  weekday : 7 time : 23:15 -- 01:05
+Sec: 609  Plane index : 17  HGH --> KMG  weekday : 1 time : 03:15 -- 06:20
+Sec: 575  Plane index : 17  KMG --> LYI  weekday : 2 time : 08:50 -- 12:05
+Sec: 582  Plane index : 17  LYI --> CGQ  weekday : 2 time : 12:55 -- 15:05
+Sec: 175  Plane index : 6  CGQ --> WEH  weekday : 3 time : 07:05 -- 08:45
+Sec: 182  Plane index : 6  WEH --> HGH  weekday : 3 time : 09:30 -- 11:30
+Sec: 304  Plane index : 9  HGH --> CAN  weekday : 4 time : 02:00 -- 04:10
+Sec: 1352  Plane index : 38  CAN --> XNN  weekday : 4 time : 05:45 -- 09:15
+two days off

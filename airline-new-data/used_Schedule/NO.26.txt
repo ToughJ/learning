@@ -1,0 +1,9 @@
+Sec: 1163  Plane index : 32  LJG --> DYG  weekday : 4 time : 21:10 -- 23:05
+Sec: 1169  Plane index : 32  DYG --> HGH  weekday : 4 time : 23:50 -- 01:40
+Sec: 621  Plane index : 18  HGH --> UYN  weekday : 6 time : 06:25 -- 08:55
+Sec: 628  Plane index : 18  UYN --> HGH  weekday : 6 time : 09:45 -- 12:05
+Sec: 307  Plane index : 9  HGH --> CAN  weekday : 7 time : 02:00 -- 04:10
+Sec: 1231  Plane index : 34  CAN --> HGH  weekday : 1 time : 02:25 -- 04:35
+Sec: 1131  Plane index : 32  HGH --> AVA  weekday : 1 time : 07:15 -- 10:00
+Sec: 1138  Plane index : 32  AVA --> LJG  weekday : 1 time : 10:45 -- 12:15
+two days off

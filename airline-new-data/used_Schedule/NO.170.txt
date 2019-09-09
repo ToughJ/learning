@@ -1,0 +1,8 @@
+Sec: 546  Plane index : 16  KMG --> INC  weekday : 1 time : 07:35 -- 10:20
+Sec: 553  Plane index : 16  INC --> CGQ  weekday : 1 time : 11:35 -- 14:20
+Sec: 565  Plane index : 16  CGQ --> INC  weekday : 2 time : 17:40 -- 20:50
+Sec: 568  Plane index : 16  INC --> KMG  weekday : 2 time : 21:45 -- 00:30
+two days offSec: 550  Plane index : 16  KMG --> INC  weekday : 5 time : 07:35 -- 10:20
+Sec: 557  Plane index : 16  INC --> CGQ  weekday : 5 time : 11:35 -- 14:20
+Sec: 563  Plane index : 16  CGQ --> INC  weekday : 7 time : 16:30 -- 19:40
+Sec: 573  Plane index : 16  INC --> KMG  weekday : 7 time : 21:45 -- 00:30

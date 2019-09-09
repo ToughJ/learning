@@ -1,0 +1,8 @@
+Sec: 1332  Plane index : 37  CSX --> XNN  weekday : 2 time : 16:55 -- 19:30
+Sec: 1357  Plane index : 38  XNN --> LYG  weekday : 3 time : 10:00 -- 12:40
+Sec: 1364  Plane index : 38  LYG --> NGB  weekday : 3 time : 13:25 -- 14:45
+Sec: 1368  Plane index : 38  NGB --> XNN  weekday : 4 time : 16:55 -- 20:20
+Sec: 1375  Plane index : 38  XNN --> HGH  weekday : 4 time : 21:40 -- 00:35
+Sec: 1280  Plane index : 36  HGH --> XNN  weekday : 6 time : 06:25 -- 09:35
+Sec: 1327  Plane index : 37  XNN --> CSX  weekday : 6 time : 12:25 -- 14:50
+two days off

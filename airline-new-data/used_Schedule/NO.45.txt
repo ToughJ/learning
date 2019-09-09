@@ -1,0 +1,11 @@
+Sec: 1217  Plane index : 34  CSX --> NGB  weekday : 1 time : 20:10 -- 21:50
+Sec: 881  Plane index : 24  NGB --> WEH  weekday : 2 time : 16:10 -- 18:00
+Sec: 888  Plane index : 24  WEH --> SHE  weekday : 2 time : 18:45 -- 19:55
+Sec: 895  Plane index : 24  SHE --> YNT  weekday : 2 time : 20:45 -- 22:20
+Sec: 902  Plane index : 24  YNT --> CAN  weekday : 2 time : 23:05 -- 02:30
+Sec: 813  Plane index : 23  CAN --> YNT  weekday : 4 time : 05:40 -- 08:40
+Sec: 820  Plane index : 23  YNT --> SHE  weekday : 4 time : 09:25 -- 10:45
+Sec: 827  Plane index : 23  SHE --> WEH  weekday : 4 time : 11:35 -- 12:55
+Sec: 834  Plane index : 23  WEH --> NGB  weekday : 4 time : 13:40 -- 15:25
+Sec: 1212  Plane index : 34  NGB --> CSX  weekday : 5 time : 10:00 -- 11:40
+two days off

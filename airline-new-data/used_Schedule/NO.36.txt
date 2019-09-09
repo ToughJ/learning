@@ -1,0 +1,23 @@
+from last week
+Sec: 43  Plane index : 2  HLH --> HRB  weekday : 3 time : 13:10 -- 14:20
+Sec: 50  Plane index : 2  HRB --> XUZ  weekday : 3 time : 15:15 -- 17:50
+Sec: 57  Plane index : 2  XUZ --> SZX  weekday : 3 time : 18:50 -- 21:35
+Sec: 65  Plane index : 2  SZX --> HGH  weekday : 3 time : 22:35 -- 00:35
+Sec: 354  Plane index : 11  HGH --> CSX  weekday : 5 time : 06:45 -- 08:35
+Sec: 361  Plane index : 11  CSX --> ACX  weekday : 5 time : 09:35 -- 11:35
+Sec: 368  Plane index : 11  ACX --> CSX  weekday : 5 time : 12:25 -- 14:25
+Sec: 376  Plane index : 11  CSX --> HGH  weekday : 5 time : 15:25 -- 17:05
+Sec: 41  Plane index : 2  HGH --> YNT  weekday : 6 time : 09:25 -- 11:15
+Sec: 48  Plane index : 2  YNT --> HRB  weekday : 6 time : 12:25 -- 14:20
+Sec: 55  Plane index : 2  HRB --> HLH  weekday : 6 time : 15:15 -- 16:35
+two days offSec: 43  Plane index : 2  HLH --> HRB  weekday : 3 time : 13:10 -- 14:20
+Sec: 50  Plane index : 2  HRB --> XUZ  weekday : 3 time : 15:15 -- 17:50
+Sec: 57  Plane index : 2  XUZ --> SZX  weekday : 3 time : 18:50 -- 21:35
+Sec: 65  Plane index : 2  SZX --> HGH  weekday : 3 time : 22:35 -- 00:35
+Sec: 354  Plane index : 11  HGH --> CSX  weekday : 5 time : 06:45 -- 08:35
+Sec: 361  Plane index : 11  CSX --> ACX  weekday : 5 time : 09:35 -- 11:35
+Sec: 368  Plane index : 11  ACX --> CSX  weekday : 5 time : 12:25 -- 14:25
+Sec: 376  Plane index : 11  CSX --> HGH  weekday : 5 time : 15:25 -- 17:05
+Sec: 41  Plane index : 2  HGH --> YNT  weekday : 6 time : 09:25 -- 11:15
+Sec: 48  Plane index : 2  YNT --> HRB  weekday : 6 time : 12:25 -- 14:20
+Sec: 55  Plane index : 2  HRB --> HLH  weekday : 6 time : 15:15 -- 16:35

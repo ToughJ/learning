@@ -1,0 +1,18 @@
+Sec: 1239  Plane index : 35  NGB --> CSX  weekday : 1 time : 22:35 -- 00:15
+Sec: 1207  Plane index : 34  CSX --> ZUH  weekday : 2 time : 07:45 -- 09:20
+Sec: 1028  Plane index : 28  ZUH --> XUZ  weekday : 3 time : 17:40 -- 20:00
+Sec: 1035  Plane index : 28  XUZ --> HRB  weekday : 3 time : 20:45 -- 23:15
+Sec: 115  Plane index : 4  HRB --> CIF  weekday : 4 time : 12:30 -- 14:10
+Sec: 122  Plane index : 4  CIF --> HGH  weekday : 4 time : 14:55 -- 17:30
+Sec: 863  Plane index : 24  HGH --> KWE  weekday : 5 time : 06:20 -- 08:50
+Sec: 869  Plane index : 24  KWE --> KOW  weekday : 5 time : 09:40 -- 11:50
+Sec: 876  Plane index : 24  KOW --> NGB  weekday : 5 time : 12:35 -- 14:00
+two days offSec: 841  Plane index : 23  NGB --> KOW  weekday : 7 time : 17:45 -- 19:20
+Sec: 848  Plane index : 23  KOW --> KWE  weekday : 7 time : 20:05 -- 22:05
+Sec: 858  Plane index : 23  KWE --> HGH  weekday : 7 time : 22:55 -- 01:10
+Sec: 707  Plane index : 20  HGH --> CTU  weekday : 2 time : 00:50 -- 04:00
+Sec: 730  Plane index : 21  CTU --> ENH  weekday : 2 time : 05:55 -- 07:15
+Sec: 765  Plane index : 21  ENH --> CTU  weekday : 3 time : 00:30 -- 02:00
+Sec: 701  Plane index : 20  CTU --> HGH  weekday : 3 time : 05:40 -- 08:25
+Sec: 304  Plane index : 9  HGH --> CAN  weekday : 4 time : 02:00 -- 04:10
+Sec: 1235  Plane index : 35  CAN --> NGB  weekday : 4 time : 06:10 -- 08:20

@@ -1,0 +1,9 @@
+Sec: 940  Plane index : 26  HGH --> CGO  weekday : 5 time : 06:40 -- 08:35
+Sec: 947  Plane index : 26  CGO --> AKU  weekday : 5 time : 09:35 -- 14:35
+Sec: 955  Plane index : 26  AKU --> CGO  weekday : 6 time : 15:30 -- 19:45
+Sec: 962  Plane index : 26  CGO --> HGH  weekday : 6 time : 20:45 -- 22:25
+Sec: 188  Plane index : 6  HGH --> WUT  weekday : 7 time : 13:00 -- 15:20
+Sec: 195  Plane index : 6  WUT --> BAV  weekday : 7 time : 16:05 -- 17:10
+Sec: 202  Plane index : 6  BAV --> WUT  weekday : 7 time : 20:40 -- 21:45
+Sec: 117  Plane index : 4  WUT --> HGH  weekday : 1 time : 22:30 -- 00:45
+two days off

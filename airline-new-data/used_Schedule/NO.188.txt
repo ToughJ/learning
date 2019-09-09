@@ -1,0 +1,18 @@
+from last week
+Sec: 770  Plane index : 22  CTU --> HDG  weekday : 5 time : 06:25 -- 08:30
+Sec: 1291  Plane index : 36  HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
+Sec: 1298  Plane index : 36  XUZ --> HDG  weekday : 7 time : 16:10 -- 17:40
+Sec: 806  Plane index : 22  HDG --> CTU  weekday : 7 time : 22:35 -- 01:05
+two days offSec: 773  Plane index : 22  CTU --> TNA  weekday : 4 time : 06:25 -- 09:00
+Sec: 780  Plane index : 22  TNA --> DLC  weekday : 4 time : 09:50 -- 11:00
+Sec: 788  Plane index : 22  DLC --> NBS  weekday : 4 time : 12:00 -- 13:20
+Sec: 795  Plane index : 22  NBS --> DLC  weekday : 4 time : 14:05 -- 15:30
+Sec: 744  Plane index : 21  DLC --> XNN  weekday : 5 time : 12:00 -- 14:40
+Sec: 1401  Plane index : 39  XNN --> ZYI  weekday : 5 time : 20:15 -- 22:40
+Sec: 1082  Plane index : 30  ZYI --> LJG  weekday : 6 time : 13:00 -- 14:25
+Sec: 1088  Plane index : 30  LJG --> KWL  weekday : 6 time : 15:20 -- 17:05
+Sec: 1095  Plane index : 30  KWL --> WNZ  weekday : 6 time : 17:50 -- 20:05
+Sec: 1174  Plane index : 33  WNZ --> CSX  weekday : 7 time : 09:00 -- 10:35
+Sec: 1181  Plane index : 33  CSX --> WNZ  weekday : 7 time : 11:35 -- 13:10
+Sec: 451  Plane index : 13  WNZ --> XFN  weekday : 7 time : 14:45 -- 16:35
+Sec: 458  Plane index : 13  XFN --> CTU  weekday : 7 time : 17:20 -- 19:25

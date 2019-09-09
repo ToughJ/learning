@@ -10,9 +10,9 @@ public class Tour_ofDuty {
 	int day_ofWeek;
 	int tSta, tEnd;
 	Date dateDep, dateArr;
-	ArrayList<ArrayList<Air_section>> arrDay = new ArrayList<>();
+	ArrayList<ArrayList<Air_section>> days = new ArrayList<>();
+	ArrayList<Air_section> secs = new ArrayList<>();
 
 	public Tour_ofDuty() {
-
 	}
 }

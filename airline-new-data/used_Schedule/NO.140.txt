@@ -1,0 +1,15 @@
+Sec: 812  Plane index : 23  CAN --> YNT  weekday : 3 time : 05:40 -- 08:40
+Sec: 819  Plane index : 23  YNT --> SHE  weekday : 3 time : 09:25 -- 10:45
+Sec: 826  Plane index : 23  SHE --> WEH  weekday : 3 time : 11:35 -- 12:55
+Sec: 833  Plane index : 23  WEH --> NGB  weekday : 3 time : 13:40 -- 15:25
+Sec: 1254  Plane index : 35  NGB --> KLO  weekday : 4 time : 09:55 -- 13:35
+Sec: 1261  Plane index : 35  KLO --> NGB  weekday : 4 time : 14:35 -- 18:05
+Sec: 1258  Plane index : 35  NGB --> TEN  weekday : 5 time : 09:05 -- 11:35
+Sec: 1265  Plane index : 35  TEN --> KMG  weekday : 5 time : 12:25 -- 13:50
+Sec: 1269  Plane index : 35  KMG --> TEN  weekday : 5 time : 14:50 -- 16:25
+Sec: 1273  Plane index : 35  TEN --> NGB  weekday : 5 time : 17:10 -- 19:20
+Sec: 885  Plane index : 24  NGB --> WEH  weekday : 6 time : 16:10 -- 18:00
+Sec: 892  Plane index : 24  WEH --> SHE  weekday : 6 time : 18:45 -- 19:55
+Sec: 899  Plane index : 24  SHE --> YNT  weekday : 6 time : 20:45 -- 22:20
+Sec: 906  Plane index : 24  YNT --> CAN  weekday : 6 time : 23:05 -- 02:30
+two days off

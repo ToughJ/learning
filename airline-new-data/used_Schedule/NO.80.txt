@@ -1,0 +1,14 @@
+Sec: 110  Plane index : 4  BAV --> WUT  weekday : 1 time : 20:40 -- 21:45
+Sec: 117  Plane index : 4  WUT --> HGH  weekday : 1 time : 22:30 -- 00:45
+Sec: 303  Plane index : 9  HGH --> CAN  weekday : 3 time : 02:00 -- 04:10
+Sec: 1248  Plane index : 35  CAN --> HGH  weekday : 4 time : 02:25 -- 04:35
+Sec: 619  Plane index : 18  HGH --> UYN  weekday : 4 time : 06:25 -- 08:55
+Sec: 626  Plane index : 18  UYN --> HGH  weekday : 4 time : 09:45 -- 12:05
+Sec: 98  Plane index : 4  HGH --> WUT  weekday : 5 time : 06:50 -- 09:10
+Sec: 105  Plane index : 4  WUT --> BAV  weekday : 5 time : 09:55 -- 11:00
+two days offSec: 202  Plane index : 6  BAV --> WUT  weekday : 7 time : 20:40 -- 21:45
+Sec: 209  Plane index : 6  WUT --> HGH  weekday : 7 time : 22:30 -- 00:45
+Sec: 302  Plane index : 9  HGH --> CAN  weekday : 2 time : 02:00 -- 04:10
+Sec: 1247  Plane index : 35  CAN --> HGH  weekday : 3 time : 02:25 -- 04:35
+Sec: 97  Plane index : 4  HGH --> WUT  weekday : 3 time : 06:50 -- 09:10
+Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00

@@ -1,0 +1,8 @@
+Sec: 371  Plane index : 11  WUH --> HGH  weekday : 2 time : 15:30 -- 17:00
+Sec: 124  Plane index : 4  HGH --> INC  weekday : 2 time : 19:05 -- 21:55
+Sec: 127  Plane index : 4  INC --> URC  weekday : 2 time : 22:40 -- 01:45
+Sec: 130  Plane index : 4  URC --> XIY  weekday : 4 time : 02:45 -- 05:55
+Sec: 646  Plane index : 18  XIY --> WDS  weekday : 5 time : 21:20 -- 22:25
+Sec: 650  Plane index : 18  WDS --> HGH  weekday : 5 time : 23:10 -- 01:05
+Sec: 352  Plane index : 11  HGH --> WUH  weekday : 6 time : 06:45 -- 08:30
+two days off

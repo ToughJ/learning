@@ -1,0 +1,13 @@
+from last week
+Sec: 1114  Plane index : 31  LJG --> HJJ  weekday : 7 time : 16:35 -- 18:35
+Sec: 1076  Plane index : 30  HJJ --> LJG  weekday : 1 time : 12:35 -- 14:35
+Sec: 1083  Plane index : 30  LJG --> KWL  weekday : 1 time : 15:20 -- 17:05
+Sec: 1090  Plane index : 30  KWL --> WNZ  weekday : 1 time : 17:50 -- 20:05
+Sec: 1098  Plane index : 31  WNZ --> WUH  weekday : 2 time : 09:05 -- 10:45
+Sec: 1105  Plane index : 31  WUH --> LJG  weekday : 2 time : 11:50 -- 14:20
+two days offSec: 1116  Plane index : 31  LJG --> ZYI  weekday : 4 time : 17:35 -- 19:10
+Sec: 1123  Plane index : 31  ZYI --> HGH  weekday : 4 time : 19:55 -- 22:15
+Sec: 277  Plane index : 8  HGH --> PEK  weekday : 5 time : 19:00 -- 21:20
+Sec: 286  Plane index : 9  PEK --> HGH  weekday : 7 time : 05:50 -- 08:05
+Sec: 1072  Plane index : 30  HGH --> HJJ  weekday : 7 time : 09:40 -- 11:45
+Sec: 1079  Plane index : 30  HJJ --> LJG  weekday : 7 time : 12:35 -- 14:35

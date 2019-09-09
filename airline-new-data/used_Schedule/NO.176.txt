@@ -1,0 +1,17 @@
+Sec: 1303  Plane index : 36  XNN --> HGH  weekday : 1 time : 21:40 -- 00:35
+Sec: 1070  Plane index : 30  HGH --> HJJ  weekday : 3 time : 09:40 -- 11:45
+Sec: 1077  Plane index : 30  HJJ --> LJG  weekday : 3 time : 12:35 -- 14:35
+Sec: 1085  Plane index : 30  LJG --> KWL  weekday : 3 time : 15:20 -- 17:05
+Sec: 1092  Plane index : 30  KWL --> WNZ  weekday : 3 time : 17:50 -- 20:05
+Sec: 1100  Plane index : 31  WNZ --> WUH  weekday : 4 time : 09:05 -- 10:45
+Sec: 1110  Plane index : 31  WUH --> LJG  weekday : 4 time : 11:50 -- 14:35
+Sec: 1116  Plane index : 31  LJG --> ZYI  weekday : 4 time : 17:35 -- 19:10
+Sec: 1316  Plane index : 37  ZYI --> XNN  weekday : 5 time : 09:05 -- 11:15
+two days offSec: 1306  Plane index : 36  XNN --> HGH  weekday : 7 time : 21:40 -- 00:35
+Sec: 707  Plane index : 20  HGH --> CTU  weekday : 2 time : 00:50 -- 04:00
+Sec: 730  Plane index : 21  CTU --> ENH  weekday : 2 time : 05:55 -- 07:15
+Sec: 1318  Plane index : 37  ENH --> XNN  weekday : 2 time : 09:20 -- 11:40
+Sec: 1282  Plane index : 36  XNN --> HDG  weekday : 3 time : 11:10 -- 13:15
+Sec: 1289  Plane index : 36  HDG --> XUZ  weekday : 3 time : 14:00 -- 15:25
+Sec: 1296  Plane index : 36  XUZ --> HDG  weekday : 3 time : 16:10 -- 17:40
+Sec: 1300  Plane index : 36  HDG --> XNN  weekday : 3 time : 18:25 -- 20:40

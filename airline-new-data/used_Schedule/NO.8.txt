@@ -1,0 +1,9 @@
+Sec: 359  Plane index : 11  WUH --> ACX  weekday : 6 time : 09:30 -- 11:40
+Sec: 366  Plane index : 11  ACX --> WUH  weekday : 6 time : 12:25 -- 14:30
+Sec: 373  Plane index : 11  WUH --> HGH  weekday : 6 time : 15:30 -- 17:00
+Sec: 278  Plane index : 8  HGH --> PEK  weekday : 6 time : 19:00 -- 21:20
+Sec: 252  Plane index : 8  PEK --> HGH  weekday : 1 time : 08:20 -- 10:35
+Sec: 350  Plane index : 11  HGH --> WUH  weekday : 2 time : 06:45 -- 08:30
+Sec: 357  Plane index : 11  WUH --> ACX  weekday : 2 time : 09:30 -- 11:40
+Sec: 364  Plane index : 11  ACX --> WUH  weekday : 2 time : 12:25 -- 14:30
+two days off

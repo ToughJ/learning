@@ -1,0 +1,17 @@
+Sec: 574  Plane index : 17  KMG --> LYI  weekday : 1 time : 08:50 -- 12:05
+Sec: 581  Plane index : 17  LYI --> CGQ  weekday : 1 time : 12:55 -- 15:05
+Sec: 178  Plane index : 6  CGQ --> RIZ  weekday : 2 time : 07:05 -- 09:20
+Sec: 185  Plane index : 6  RIZ --> HGH  weekday : 2 time : 10:05 -- 11:30
+Sec: 1389  Plane index : 39  HGH --> HIA  weekday : 2 time : 13:00 -- 14:20
+Sec: 1396  Plane index : 39  HIA --> XNN  weekday : 2 time : 15:05 -- 18:00
+Sec: 1400  Plane index : 39  XNN --> ZYI  weekday : 3 time : 20:15 -- 22:40
+Sec: 1407  Plane index : 39  ZYI --> SZX  weekday : 3 time : 23:25 -- 01:15
+Sec: 1416  Plane index : 39  SZX --> HGH  weekday : 4 time : 02:15 -- 04:20
+Sec: 613  Plane index : 17  HGH --> KMG  weekday : 5 time : 03:15 -- 06:20
+two days offSec: 580  Plane index : 17  KMG --> LYI  weekday : 7 time : 08:50 -- 12:05
+Sec: 240  Plane index : 7  LYI --> HGH  weekday : 7 time : 13:35 -- 14:50
+Sec: 247  Plane index : 7  HGH --> HZG  weekday : 7 time : 15:55 -- 18:25
+Sec: 248  Plane index : 7  HZG --> HGH  weekday : 1 time : 21:20 -- 23:30
+Sec: 343  Plane index : 10  HGH --> PEK  weekday : 2 time : 23:30 -- 01:50
+Sec: 282  Plane index : 9  PEK --> HGH  weekday : 3 time : 05:50 -- 08:05
+Sec: 612  Plane index : 17  HGH --> KMG  weekday : 4 time : 03:15 -- 06:20

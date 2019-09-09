@@ -1,0 +1,13 @@
+Sec: 964  Plane index : 26  HGH --> SZX  weekday : 1 time : 02:00 -- 04:15
+Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
+Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
+Sec: 1374  Plane index : 38  XNN --> HGH  weekday : 2 time : 21:40 -- 00:35
+Sec: 291  Plane index : 9  HGH --> AVA  weekday : 4 time : 12:35 -- 15:20
+Sec: 312  Plane index : 9  AVA --> HGH  weekday : 4 time : 21:05 -- 23:20
+two days offSec: 970  Plane index : 26  HGH --> SZX  weekday : 7 time : 02:00 -- 04:15
+Sec: 1310  Plane index : 37  SZX --> ZYI  weekday : 7 time : 06:20 -- 08:20
+Sec: 1317  Plane index : 37  ZYI --> XNN  weekday : 7 time : 09:05 -- 11:15
+Sec: 1335  Plane index : 37  XNN --> LYA  weekday : 1 time : 20:35 -- 22:30
+Sec: 1342  Plane index : 37  LYA --> HGH  weekday : 1 time : 23:15 -- 01:05
+Sec: 288  Plane index : 9  HGH --> LHW  weekday : 3 time : 12:00 -- 15:00
+Sec: 295  Plane index : 9  LHW --> HGH  weekday : 3 time : 20:15 -- 23:00

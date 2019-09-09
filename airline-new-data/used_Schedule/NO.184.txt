@@ -1,0 +1,18 @@
+from last week
+Sec: 669  Plane index : 19  XIY --> HET  weekday : 4 time : 11:55 -- 13:45
+Sec: 676  Plane index : 19  HET --> CIF  weekday : 4 time : 14:30 -- 15:55
+Sec: 683  Plane index : 19  CIF --> HET  weekday : 4 time : 20:20 -- 21:40
+Sec: 691  Plane index : 19  HET --> XIY  weekday : 5 time : 22:25 -- 00:15
+Sec: 482  Plane index : 14  XIY --> MFM  weekday : 7 time : 09:10 -- 12:35
+Sec: 491  Plane index : 14  MFM --> ENH  weekday : 7 time : 13:55 -- 15:40
+Sec: 640  Plane index : 18  ENH --> XIY  weekday : 7 time : 18:50 -- 20:20
+two days offSec: 534  Plane index : 15  XIY --> ENH  weekday : 3 time : 19:25 -- 20:30
+Sec: 541  Plane index : 15  ENH --> HGH  weekday : 3 time : 21:15 -- 23:05
+Sec: 291  Plane index : 9  HGH --> AVA  weekday : 4 time : 12:35 -- 15:20
+Sec: 299  Plane index : 9  AVA --> JHG  weekday : 4 time : 16:30 -- 17:55
+Sec: 309  Plane index : 9  JHG --> AVA  weekday : 4 time : 18:40 -- 20:10
+Sec: 312  Plane index : 9  AVA --> HGH  weekday : 4 time : 21:05 -- 23:20
+Sec: 414  Plane index : 12  HGH --> ENY  weekday : 5 time : 17:15 -- 19:55
+Sec: 421  Plane index : 12  ENY --> XIY  weekday : 5 time : 21:15 -- 22:10
+Sec: 428  Plane index : 12  XIY --> CXR  weekday : 5 time : 23:10 -- 03:35
+Sec: 433  Plane index : 12  CXR --> XIY  weekday : 7 time : 04:20 -- 08:10
