@@ -1,3 +1,4 @@
+tod_num :0
 Sec: 392  Plane index : 12  ENY --> NKG  weekday : 2 time : 06:35 -- 08:55
 Sec: 402  Plane index : 12  NKG --> ENY  weekday : 2 time : 09:55 -- 12:10
 Sec: 734  Plane index : 21  ENY --> DLC  weekday : 3 time : 09:10 -- 11:00
@@ -6,4 +7,6 @@ Sec: 749  Plane index : 21  XNN --> DLC  weekday : 3 time : 15:25 -- 18:10
 Sec: 759  Plane index : 21  DLC --> ENH  weekday : 4 time : 20:50 -- 23:30
 Sec: 639  Plane index : 18  ENH --> XIY  weekday : 5 time : 18:50 -- 20:20
 Sec: 496  Plane index : 14  XIY --> ENY  weekday : 5 time : 23:05 -- 00:10
+two days off
+
 two days off

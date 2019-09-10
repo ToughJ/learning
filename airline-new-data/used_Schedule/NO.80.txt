@@ -1,14 +1,21 @@
-Sec: 110  Plane index : 4  BAV --> WUT  weekday : 1 time : 20:40 -- 21:45
-Sec: 117  Plane index : 4  WUT --> HGH  weekday : 1 time : 22:30 -- 00:45
-Sec: 303  Plane index : 9  HGH --> CAN  weekday : 3 time : 02:00 -- 04:10
-Sec: 1248  Plane index : 35  CAN --> HGH  weekday : 4 time : 02:25 -- 04:35
-Sec: 619  Plane index : 18  HGH --> UYN  weekday : 4 time : 06:25 -- 08:55
-Sec: 626  Plane index : 18  UYN --> HGH  weekday : 4 time : 09:45 -- 12:05
-Sec: 98  Plane index : 4  HGH --> WUT  weekday : 5 time : 06:50 -- 09:10
-Sec: 105  Plane index : 4  WUT --> BAV  weekday : 5 time : 09:55 -- 11:00
-two days offSec: 202  Plane index : 6  BAV --> WUT  weekday : 7 time : 20:40 -- 21:45
-Sec: 209  Plane index : 6  WUT --> HGH  weekday : 7 time : 22:30 -- 00:45
-Sec: 302  Plane index : 9  HGH --> CAN  weekday : 2 time : 02:00 -- 04:10
-Sec: 1247  Plane index : 35  CAN --> HGH  weekday : 3 time : 02:25 -- 04:35
-Sec: 97  Plane index : 4  HGH --> WUT  weekday : 3 time : 06:50 -- 09:10
+tod_num :711
+Sec: 1048  Plane index : 29  WUT --> HAK  weekday : 1 time : 11:05 -- 14:10
+Sec: 1055  Plane index : 29  HAK --> WUT  weekday : 1 time : 15:30 -- 18:35
+Sec: 1062  Plane index : 29  WUT --> HRB  weekday : 1 time : 19:20 -- 21:55
+Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
+Sec: 1023  Plane index : 28  WUT --> ZUH  weekday : 2 time : 14:30 -- 17:25
+Sec: 1030  Plane index : 28  ZUH --> WUT  weekday : 2 time : 18:10 -- 21:05
 Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00
+Sec: 111  Plane index : 4  BAV --> WUT  weekday : 3 time : 20:40 -- 21:45
+two days off
+
+tod_num :132
+Sec: 1026  Plane index : 28  WUT --> ZUH  weekday : 7 time : 14:30 -- 17:25
+Sec: 1033  Plane index : 28  ZUH --> WUT  weekday : 7 time : 18:10 -- 21:05
+Sec: 1040  Plane index : 28  WUT --> HRB  weekday : 7 time : 21:50 -- 00:15
+Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
+Sec: 1023  Plane index : 28  WUT --> ZUH  weekday : 2 time : 14:30 -- 17:25
+Sec: 1030  Plane index : 28  ZUH --> WUT  weekday : 2 time : 18:10 -- 21:05
+Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00
+Sec: 111  Plane index : 4  BAV --> WUT  weekday : 3 time : 20:40 -- 21:45
+two days off

@@ -1,9 +1,25 @@
-Sec: 1046  Plane index : 29  HRB --> XFN  weekday : 4 time : 06:25 -- 09:55
-Sec: 1053  Plane index : 29  XFN --> HAK  weekday : 4 time : 11:40 -- 14:10
-Sec: 1057  Plane index : 29  HAK --> WUT  weekday : 5 time : 15:30 -- 18:35
-Sec: 1064  Plane index : 29  WUT --> HRB  weekday : 5 time : 19:20 -- 21:55
-Sec: 1018  Plane index : 28  HRB --> WUT  weekday : 6 time : 10:50 -- 13:45
-Sec: 1026  Plane index : 28  WUT --> ZUH  weekday : 7 time : 14:30 -- 17:25
-Sec: 1033  Plane index : 28  ZUH --> WUT  weekday : 7 time : 18:10 -- 21:05
-Sec: 1040  Plane index : 28  WUT --> HRB  weekday : 7 time : 21:50 -- 00:15
+tod_num :1199
+Sec: 1274  Plane index : 36  HGH --> XNN  weekday : 1 time : 07:15 -- 10:25
+Sec: 1321  Plane index : 37  XNN --> SZX  weekday : 1 time : 12:00 -- 15:20
+Sec: 1311  Plane index : 37  SZX --> ENH  weekday : 2 time : 06:35 -- 08:35
+Sec: 1318  Plane index : 37  ENH --> XNN  weekday : 2 time : 09:20 -- 11:40
+Sec: 1304  Plane index : 36  XNN --> HGH  weekday : 3 time : 21:40 -- 00:35
+two days off
+
+tod_num :934
+Sec: 138  Plane index : 5  HGH --> JIQ  weekday : 6 time : 08:25 -- 10:40
+Sec: 144  Plane index : 5  JIQ --> CKG  weekday : 6 time : 11:25 -- 12:20
+Sec: 151  Plane index : 5  CKG --> JIQ  weekday : 6 time : 13:20 -- 14:15
+Sec: 159  Plane index : 5  JIQ --> HGH  weekday : 6 time : 15:00 -- 17:10
+Sec: 655  Plane index : 19  HGH --> WDS  weekday : 7 time : 06:55 -- 09:10
+Sec: 665  Plane index : 19  WDS --> XIY  weekday : 7 time : 09:55 -- 10:55
+Sec: 672  Plane index : 19  XIY --> HET  weekday : 7 time : 11:55 -- 13:45
+Sec: 679  Plane index : 19  HET --> CIF  weekday : 7 time : 14:30 -- 15:55
+Sec: 139  Plane index : 5  CIF --> HRB  weekday : 1 time : 10:05 -- 11:30
+Sec: 146  Plane index : 5  HRB --> CIF  weekday : 1 time : 12:30 -- 14:10
+Sec: 153  Plane index : 5  CIF --> HGH  weekday : 1 time : 14:55 -- 17:30
+Sec: 193  Plane index : 6  HGH --> BPE  weekday : 2 time : 13:05 -- 15:15
+Sec: 200  Plane index : 6  BPE --> YNJ  weekday : 2 time : 16:00 -- 17:50
+Sec: 206  Plane index : 6  YNJ --> BPE  weekday : 2 time : 19:45 -- 21:40
+Sec: 213  Plane index : 6  BPE --> HGH  weekday : 2 time : 22:25 -- 00:40
 two days off

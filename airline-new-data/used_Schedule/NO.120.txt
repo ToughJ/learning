@@ -1,6 +1,17 @@
-Sec: 483  Plane index : 14  UTP --> XIY  weekday : 1 time : 18:15 -- 22:05
-Sec: 477  Plane index : 14  XIY --> UTP  weekday : 3 time : 09:10 -- 13:30
-two days offSec: 485  Plane index : 14  UTP --> XIY  weekday : 6 time : 18:15 -- 22:05
-Sec: 429  Plane index : 12  XIY --> CXR  weekday : 7 time : 23:10 -- 03:35
-Sec: 473  Plane index : 13  CXR --> XIY  weekday : 2 time : 04:20 -- 08:10
-Sec: 477  Plane index : 14  XIY --> UTP  weekday : 3 time : 09:10 -- 13:30
+tod_num :1225
+Sec: 547  Plane index : 16  KMG --> INC  weekday : 2 time : 07:35 -- 10:20
+Sec: 554  Plane index : 16  INC --> CGQ  weekday : 2 time : 11:35 -- 14:20
+Sec: 589  Plane index : 17  CGQ --> LYI  weekday : 2 time : 16:00 -- 18:15
+Sec: 583  Plane index : 17  LYI --> CGQ  weekday : 3 time : 12:55 -- 15:05
+Sec: 590  Plane index : 17  CGQ --> LYI  weekday : 3 time : 16:00 -- 18:15
+Sec: 597  Plane index : 17  LYI --> KMG  weekday : 3 time : 19:00 -- 22:20
+two days off
+
+tod_num :1294
+Sec: 551  Plane index : 16  KMG --> INC  weekday : 6 time : 07:35 -- 10:20
+Sec: 558  Plane index : 16  INC --> CGQ  weekday : 6 time : 11:35 -- 14:20
+Sec: 594  Plane index : 17  CGQ --> LYI  weekday : 7 time : 16:00 -- 18:15
+Sec: 601  Plane index : 17  LYI --> KMG  weekday : 7 time : 19:00 -- 22:20
+Sec: 608  Plane index : 17  KMG --> HGH  weekday : 7 time : 23:20 -- 02:15
+Sec: 610  Plane index : 17  HGH --> KMG  weekday : 2 time : 03:15 -- 06:20
+two days off

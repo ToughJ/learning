@@ -1,20 +1,21 @@
-Sec: 1171  Plane index : 33  WNZ --> KOS  weekday : 1 time : 10:45 -- 15:00
-Sec: 1178  Plane index : 33  KOS --> WNZ  weekday : 1 time : 16:00 -- 19:40
-Sec: 416  Plane index : 12  WNZ --> KMG  weekday : 2 time : 17:15 -- 20:20
-Sec: 423  Plane index : 12  KMG --> WNZ  weekday : 2 time : 21:25 -- 00:15
-Sec: 1190  Plane index : 33  WNZ --> CJU  weekday : 4 time : 18:35 -- 20:35
-Sec: 1197  Plane index : 33  CJU --> WNZ  weekday : 4 time : 21:35 -- 23:35
-two days offSec: 1174  Plane index : 33  WNZ --> CSX  weekday : 7 time : 09:00 -- 10:35
-Sec: 1181  Plane index : 33  CSX --> WNZ  weekday : 7 time : 11:35 -- 13:10
-Sec: 1097  Plane index : 31  WNZ --> WUH  weekday : 1 time : 09:05 -- 10:45
-Sec: 1104  Plane index : 31  WUH --> LJG  weekday : 1 time : 11:50 -- 14:20
-Sec: 1145  Plane index : 32  LJG --> AVA  weekday : 1 time : 16:50 -- 18:15
-Sec: 1152  Plane index : 32  AVA --> HGH  weekday : 1 time : 19:00 -- 21:15
-Sec: 1073  Plane index : 30  HGH --> ZYI  weekday : 2 time : 09:40 -- 12:15
-Sec: 1080  Plane index : 30  ZYI --> LJG  weekday : 2 time : 13:00 -- 14:25
-Sec: 1084  Plane index : 30  LJG --> KWL  weekday : 2 time : 15:20 -- 17:05
-Sec: 1091  Plane index : 30  KWL --> WNZ  weekday : 2 time : 17:50 -- 20:05
-Sec: 1173  Plane index : 33  WNZ --> JIQ  weekday : 3 time : 08:25 -- 10:40
-Sec: 1180  Plane index : 33  JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
-Sec: 1187  Plane index : 33  CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
-Sec: 1194  Plane index : 33  JIQ --> WNZ  weekday : 3 time : 15:00 -- 17:00
+tod_num :1214
+Sec: 1381  Plane index : 38  XNN --> CAN  weekday : 1 time : 23:10 -- 02:30
+Sec: 1350  Plane index : 38  CAN --> XNN  weekday : 2 time : 05:45 -- 09:15
+Sec: 1400  Plane index : 39  XNN --> ZYI  weekday : 3 time : 20:15 -- 22:40
+Sec: 1407  Plane index : 39  ZYI --> SZX  weekday : 3 time : 23:25 -- 01:15
+Sec: 1417  Plane index : 39  SZX --> HGH  weekday : 5 time : 02:15 -- 04:20
+Sec: 1276  Plane index : 36  HGH --> XNN  weekday : 5 time : 07:15 -- 10:25
+two days off
+
+tod_num :961
+Sec: 1284  Plane index : 36  XNN --> HDG  weekday : 7 time : 11:10 -- 13:15
+Sec: 1291  Plane index : 36  HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
+Sec: 1298  Plane index : 36  XUZ --> HDG  weekday : 7 time : 16:10 -- 17:40
+Sec: 1302  Plane index : 36  HDG --> XNN  weekday : 7 time : 18:25 -- 20:40
+Sec: 1281  Plane index : 36  XNN --> HDG  weekday : 1 time : 11:10 -- 13:15
+Sec: 1288  Plane index : 36  HDG --> XUZ  weekday : 1 time : 14:00 -- 15:25
+Sec: 1295  Plane index : 36  XUZ --> HDG  weekday : 1 time : 16:10 -- 17:40
+Sec: 1299  Plane index : 36  HDG --> XNN  weekday : 1 time : 18:25 -- 20:40
+Sec: 748  Plane index : 21  XNN --> DLC  weekday : 2 time : 15:25 -- 18:10
+Sec: 742  Plane index : 21  DLC --> XNN  weekday : 3 time : 12:00 -- 14:40
+two days off

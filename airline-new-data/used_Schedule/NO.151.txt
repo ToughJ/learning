@@ -1,18 +1,18 @@
-Sec: 476  Plane index : 14  XIY --> UTP  weekday : 1 time : 09:10 -- 13:30
-Sec: 484  Plane index : 14  UTP --> XIY  weekday : 3 time : 18:15 -- 22:05
-Sec: 669  Plane index : 19  XIY --> HET  weekday : 4 time : 11:55 -- 13:45
-Sec: 676  Plane index : 19  HET --> CIF  weekday : 4 time : 14:30 -- 15:55
-Sec: 683  Plane index : 19  CIF --> HET  weekday : 4 time : 20:20 -- 21:40
-Sec: 690  Plane index : 19  HET --> XIY  weekday : 4 time : 22:25 -- 00:15
-two days offSec: 510  Plane index : 15  XIY --> BFJ  weekday : 7 time : 06:55 -- 08:50
-Sec: 517  Plane index : 15  BFJ --> ZUH  weekday : 7 time : 10:40 -- 12:40
-Sec: 524  Plane index : 15  ZUH --> BFJ  weekday : 7 time : 13:35 -- 15:40
-Sec: 985  Plane index : 27  BFJ --> JHG  weekday : 1 time : 16:20 -- 17:50
-Sec: 992  Plane index : 27  JHG --> BFJ  weekday : 1 time : 18:35 -- 20:05
-Sec: 512  Plane index : 15  BFJ --> ZUH  weekday : 2 time : 10:40 -- 12:40
-Sec: 519  Plane index : 15  ZUH --> BFJ  weekday : 2 time : 13:35 -- 15:40
-Sec: 526  Plane index : 15  BFJ --> XIY  weekday : 2 time : 16:40 -- 18:25
-Sec: 506  Plane index : 15  XIY --> BFJ  weekday : 3 time : 06:55 -- 08:50
-Sec: 513  Plane index : 15  BFJ --> ZUH  weekday : 3 time : 10:40 -- 12:40
-Sec: 520  Plane index : 15  ZUH --> BFJ  weekday : 3 time : 13:35 -- 15:40
-Sec: 527  Plane index : 15  BFJ --> XIY  weekday : 3 time : 16:40 -- 18:25
+tod_num :1332
+Sec: 810  Plane index : 23  CAN --> YNT  weekday : 1 time : 05:40 -- 08:40
+Sec: 817  Plane index : 23  YNT --> SHE  weekday : 1 time : 09:25 -- 10:45
+Sec: 824  Plane index : 23  SHE --> WEH  weekday : 1 time : 11:35 -- 12:55
+Sec: 831  Plane index : 23  WEH --> NGB  weekday : 1 time : 13:40 -- 15:25
+Sec: 1240  Plane index : 35  NGB --> CAN  weekday : 2 time : 23:05 -- 01:25
+two days off
+
+tod_num :101
+Sec: 814  Plane index : 23  CAN --> YNT  weekday : 5 time : 05:40 -- 08:40
+Sec: 821  Plane index : 23  YNT --> SHE  weekday : 5 time : 09:25 -- 10:45
+Sec: 828  Plane index : 23  SHE --> WEH  weekday : 5 time : 11:35 -- 12:55
+Sec: 836  Plane index : 23  WEH --> NGB  weekday : 6 time : 13:40 -- 15:25
+Sec: 886  Plane index : 24  NGB --> WEH  weekday : 7 time : 16:10 -- 18:00
+Sec: 893  Plane index : 24  WEH --> SHE  weekday : 7 time : 18:45 -- 19:55
+Sec: 900  Plane index : 24  SHE --> YNT  weekday : 7 time : 20:45 -- 22:20
+Sec: 907  Plane index : 24  YNT --> CAN  weekday : 7 time : 23:05 -- 02:30
+two days off

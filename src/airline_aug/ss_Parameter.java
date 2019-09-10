@@ -178,7 +178,7 @@ public class ss_Parameter {
 				arrSch.add(sche1);
 
 				for (Tour_ofDuty newtod : arrToD) {
-					if (newtod.settle == sche1.city && newtod.tSta > sche1.tEnd) {
+					if (newtod.settle == sche1.city && newtod.tSta > sche1.tEnd &&newtod.tSta -sche1.tEnd > 2*24*60 ) {
 						Schedule newSche = new Schedule(sche1);
 						newSche.arrToD.add(newtod);
 						newSche.tEnd = newtod.tEnd;

@@ -1,13 +1,14 @@
-Sec: 1041  Plane index : 29  HRB --> WUT  weekday : 1 time : 06:25 -- 09:25
-Sec: 1048  Plane index : 29  WUT --> HAK  weekday : 1 time : 11:05 -- 14:10
-Sec: 1059  Plane index : 29  HAK --> XFN  weekday : 2 time : 15:30 -- 18:00
-Sec: 1066  Plane index : 29  XFN --> HRB  weekday : 2 time : 18:45 -- 21:55
-Sec: 1014  Plane index : 28  HRB --> XUZ  weekday : 3 time : 10:50 -- 13:25
-Sec: 1035  Plane index : 28  XUZ --> HRB  weekday : 3 time : 20:45 -- 23:15
-two days offSec: 55  Plane index : 2  HRB --> HLH  weekday : 6 time : 15:15 -- 16:35
-Sec: 62  Plane index : 2  HLH --> SZX  weekday : 6 time : 17:20 -- 21:35
-Sec: 68  Plane index : 2  SZX --> HGH  weekday : 6 time : 22:35 -- 00:35
-Sec: 35  Plane index : 2  HGH --> HLH  weekday : 1 time : 09:10 -- 12:25
-Sec: 42  Plane index : 2  HLH --> HRB  weekday : 1 time : 13:10 -- 14:20
-Sec: 972  Plane index : 27  HRB --> HGH  weekday : 2 time : 06:40 -- 10:00
-Sec: 1008  Plane index : 28  HGH --> HRB  weekday : 3 time : 06:35 -- 10:00
+tod_num :110
+Sec: 1172  Plane index : 33  WNZ --> KOS  weekday : 5 time : 10:45 -- 15:00
+Sec: 1179  Plane index : 33  KOS --> WNZ  weekday : 5 time : 16:00 -- 19:40
+Sec: 439  Plane index : 13  WNZ --> KWE  weekday : 6 time : 07:15 -- 09:50
+Sec: 446  Plane index : 13  KWE --> WNZ  weekday : 6 time : 10:50 -- 13:15
+Sec: 1188  Plane index : 33  WNZ --> CJU  weekday : 7 time : 15:00 -- 17:00
+Sec: 1195  Plane index : 33  CJU --> WNZ  weekday : 7 time : 20:45 -- 22:45
+Sec: 448  Plane index : 13  WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+Sec: 455  Plane index : 13  XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
+Sec: 462  Plane index : 13  CTU --> XFN  weekday : 1 time : 20:25 -- 22:15
+Sec: 469  Plane index : 13  XFN --> WNZ  weekday : 1 time : 23:00 -- 00:45
+two days off
+
+two days off

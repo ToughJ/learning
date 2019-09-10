@@ -1,9 +1,24 @@
-Sec: 576  Plane index : 17  KMG --> LYI  weekday : 3 time : 08:50 -- 12:05
-Sec: 238  Plane index : 7  LYI --> HGH  weekday : 3 time : 13:35 -- 14:50
-Sec: 275  Plane index : 8  HGH --> PEK  weekday : 3 time : 19:00 -- 21:20
-Sec: 256  Plane index : 8  PEK --> HGH  weekday : 5 time : 08:20 -- 10:35
-Sec: 1387  Plane index : 39  HGH --> LYA  weekday : 5 time : 13:00 -- 14:50
-Sec: 1394  Plane index : 39  LYA --> XNN  weekday : 5 time : 15:35 -- 17:35
-Sec: 1376  Plane index : 38  XNN --> HGH  weekday : 6 time : 21:40 -- 00:35
-Sec: 615  Plane index : 17  HGH --> KMG  weekday : 7 time : 03:15 -- 06:20
+tod_num :369
+Sec: 637  Plane index : 18  ENH --> XIY  weekday : 1 time : 18:50 -- 20:20
+Sec: 644  Plane index : 18  XIY --> WDS  weekday : 1 time : 21:20 -- 22:25
+Sec: 648  Plane index : 18  WDS --> HGH  weekday : 1 time : 23:10 -- 01:05
+Sec: 610  Plane index : 17  HGH --> KMG  weekday : 2 time : 03:15 -- 06:20
+Sec: 548  Plane index : 16  KMG --> INC  weekday : 3 time : 07:35 -- 10:20
+Sec: 555  Plane index : 16  INC --> CGQ  weekday : 3 time : 11:35 -- 14:20
+Sec: 176  Plane index : 6  CGQ --> WEH  weekday : 5 time : 07:05 -- 08:45
+Sec: 183  Plane index : 6  WEH --> HGH  weekday : 5 time : 09:30 -- 11:30
+Sec: 633  Plane index : 18  HGH --> ENH  weekday : 5 time : 14:50 -- 17:10
+two days off
+
+tod_num :411
+Sec: 640  Plane index : 18  ENH --> XIY  weekday : 7 time : 18:50 -- 20:20
+Sec: 647  Plane index : 18  XIY --> WDS  weekday : 7 time : 21:20 -- 22:25
+Sec: 651  Plane index : 18  WDS --> HGH  weekday : 7 time : 23:10 -- 01:05
+Sec: 99  Plane index : 4  HGH --> CIF  weekday : 2 time : 06:20 -- 09:10
+Sec: 106  Plane index : 4  CIF --> HRB  weekday : 2 time : 10:05 -- 11:30
+Sec: 973  Plane index : 27  HRB --> HGH  weekday : 3 time : 06:40 -- 10:00
+Sec: 979  Plane index : 27  HGH --> BFJ  weekday : 3 time : 12:35 -- 15:10
+Sec: 527  Plane index : 15  BFJ --> XIY  weekday : 3 time : 16:40 -- 18:25
+Sec: 480  Plane index : 14  XIY --> MFM  weekday : 4 time : 09:10 -- 12:35
+Sec: 490  Plane index : 14  MFM --> ENH  weekday : 4 time : 13:55 -- 15:40
 two days off

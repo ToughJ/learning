@@ -1,18 +1,21 @@
-Sec: 301  Plane index : 9  HGH --> CAN  weekday : 1 time : 02:00 -- 04:10
-Sec: 1246  Plane index : 35  CAN --> HGH  weekday : 2 time : 02:25 -- 04:35
-Sec: 912  Plane index : 25  HGH --> KJH  weekday : 2 time : 06:30 -- 08:55
-Sec: 919  Plane index : 25  KJH --> CTU  weekday : 2 time : 09:40 -- 11:10
-Sec: 1128  Plane index : 31  CTU --> HGH  weekday : 3 time : 05:25 -- 08:10
-two days offSec: 4  Plane index : 1  HGH --> SZX  weekday : 5 time : 08:45 -- 11:05
-Sec: 9  Plane index : 1  SZX --> XUZ  weekday : 5 time : 12:10 -- 14:25
-Sec: 16  Plane index : 1  XUZ --> HRB  weekday : 5 time : 15:10 -- 17:40
-Sec: 976  Plane index : 27  HRB --> HGH  weekday : 6 time : 06:40 -- 10:00
-Sec: 265  Plane index : 8  HGH --> CAN  weekday : 6 time : 11:35 -- 13:55
-Sec: 272  Plane index : 8  CAN --> HGH  weekday : 6 time : 14:55 -- 17:05
-Sec: 6  Plane index : 1  HGH --> SZX  weekday : 7 time : 08:45 -- 11:05
-Sec: 10  Plane index : 1  SZX --> XUZ  weekday : 7 time : 12:10 -- 14:25
-Sec: 17  Plane index : 1  XUZ --> HRB  weekday : 7 time : 15:10 -- 17:40
-Sec: 23  Plane index : 1  HRB --> HLH  weekday : 7 time : 18:55 -- 20:15
-Sec: 42  Plane index : 2  HLH --> HRB  weekday : 1 time : 13:10 -- 14:20
-Sec: 21  Plane index : 1  HRB --> HLH  weekday : 1 time : 18:55 -- 20:15
-Sec: 28  Plane index : 1  HLH --> HGH  weekday : 1 time : 21:40 -- 00:45
+tod_num :1200
+Sec: 1203  Plane index : 34  CSX --> NGB  weekday : 1 time : 06:55 -- 08:35
+Sec: 1210  Plane index : 34  NGB --> CSX  weekday : 1 time : 09:20 -- 11:10
+Sec: 1221  Plane index : 34  CSX --> NNG  weekday : 2 time : 20:10 -- 21:45
+Sec: 1228  Plane index : 34  NNG --> CSX  weekday : 2 time : 22:35 -- 00:15
+Sec: 1208  Plane index : 34  CSX --> ZUH  weekday : 4 time : 07:45 -- 09:20
+Sec: 1215  Plane index : 34  ZUH --> CSX  weekday : 4 time : 14:10 -- 15:45
+two days off
+
+tod_num :25
+Sec: 1334  Plane index : 37  CSX --> XNN  weekday : 6 time : 16:55 -- 19:30
+Sec: 1359  Plane index : 38  XNN --> LYG  weekday : 7 time : 10:00 -- 12:40
+Sec: 1366  Plane index : 38  LYG --> NGB  weekday : 7 time : 13:25 -- 14:45
+Sec: 1373  Plane index : 38  NGB --> LYG  weekday : 7 time : 17:10 -- 18:40
+Sec: 1380  Plane index : 38  LYG --> XNN  weekday : 7 time : 19:25 -- 22:25
+Sec: 1321  Plane index : 37  XNN --> SZX  weekday : 1 time : 12:00 -- 15:20
+Sec: 1328  Plane index : 37  SZX --> XNN  weekday : 1 time : 16:20 -- 19:45
+Sec: 1325  Plane index : 37  XNN --> CSX  weekday : 2 time : 12:25 -- 14:50
+Sec: 1221  Plane index : 34  CSX --> NNG  weekday : 2 time : 20:10 -- 21:45
+Sec: 1228  Plane index : 34  NNG --> CSX  weekday : 2 time : 22:35 -- 00:15
+two days off

@@ -1,8 +1,12 @@
-Sec: 842  Plane index : 23  NGB --> SQD  weekday : 2 time : 17:45 -- 19:05
-Sec: 849  Plane index : 23  SQD --> KWE  weekday : 2 time : 19:50 -- 22:05
-Sec: 853  Plane index : 23  KWE --> HGH  weekday : 2 time : 22:55 -- 01:10
-Sec: 968  Plane index : 26  HGH --> SZX  weekday : 5 time : 02:00 -- 04:15
-Sec: 1309  Plane index : 37  SZX --> ZYI  weekday : 5 time : 06:20 -- 08:20
-Sec: 1316  Plane index : 37  ZYI --> XNN  weekday : 5 time : 09:05 -- 11:15
-Sec: 1362  Plane index : 38  XNN --> NGB  weekday : 6 time : 11:30 -- 14:40
+tod_num :347
+Sec: 576  Plane index : 17  KMG --> LYI  weekday : 3 time : 08:50 -- 12:05
+Sec: 238  Plane index : 7  LYI --> HGH  weekday : 3 time : 13:35 -- 14:50
+Sec: 275  Plane index : 8  HGH --> PEK  weekday : 3 time : 19:00 -- 21:20
+Sec: 256  Plane index : 8  PEK --> HGH  weekday : 5 time : 08:20 -- 10:35
+Sec: 1387  Plane index : 39  HGH --> LYA  weekday : 5 time : 13:00 -- 14:50
+Sec: 1394  Plane index : 39  LYA --> XNN  weekday : 5 time : 15:35 -- 17:35
+Sec: 1376  Plane index : 38  XNN --> HGH  weekday : 6 time : 21:40 -- 00:35
+Sec: 615  Plane index : 17  HGH --> KMG  weekday : 7 time : 03:15 -- 06:20
+two days off
+
 two days off

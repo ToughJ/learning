@@ -1,6 +1,9 @@
+tod_num :1376
 Sec: 335  Plane index : 10  MIG --> HGH  weekday : 1 time : 18:35 -- 21:05
 Sec: 1  Plane index : 1  HGH --> SZX  weekday : 2 time : 08:45 -- 11:05
 Sec: 11  Plane index : 1  SZX --> HLH  weekday : 2 time : 12:10 -- 16:15
 Sec: 29  Plane index : 1  HLH --> HGH  weekday : 3 time : 21:40 -- 00:45
 Sec: 316  Plane index : 10  HGH --> MIG  weekday : 5 time : 08:25 -- 11:15
+two days off
+
 two days off

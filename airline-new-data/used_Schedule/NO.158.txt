@@ -1,9 +1,9 @@
-Sec: 1043  Plane index : 29  HRB --> WUT  weekday : 5 time : 06:25 -- 09:25
-Sec: 1050  Plane index : 29  WUT --> HAK  weekday : 5 time : 11:05 -- 14:10
-Sec: 1061  Plane index : 29  HAK --> XFN  weekday : 6 time : 15:30 -- 18:00
-Sec: 1068  Plane index : 29  XFN --> HRB  weekday : 6 time : 18:45 -- 21:55
+tod_num :1349
+Sec: 112  Plane index : 4  BAV --> WUT  weekday : 5 time : 20:40 -- 21:45
+Sec: 119  Plane index : 4  WUT --> HGH  weekday : 5 time : 22:30 -- 00:45
+Sec: 1012  Plane index : 28  HGH --> HRB  weekday : 7 time : 06:35 -- 10:00
 Sec: 1019  Plane index : 28  HRB --> WUT  weekday : 7 time : 10:50 -- 13:45
-Sec: 1026  Plane index : 28  WUT --> ZUH  weekday : 7 time : 14:30 -- 17:25
-Sec: 1027  Plane index : 28  ZUH --> XUZ  weekday : 1 time : 17:40 -- 20:00
-Sec: 1034  Plane index : 28  XUZ --> HRB  weekday : 1 time : 20:45 -- 23:15
+Sec: 195  Plane index : 6  WUT --> BAV  weekday : 7 time : 16:05 -- 17:10
+two days off
+
 two days off

@@ -1,9 +1,27 @@
-Sec: 940  Plane index : 26  HGH --> CGO  weekday : 5 time : 06:40 -- 08:35
-Sec: 947  Plane index : 26  CGO --> AKU  weekday : 5 time : 09:35 -- 14:35
-Sec: 955  Plane index : 26  AKU --> CGO  weekday : 6 time : 15:30 -- 19:45
-Sec: 962  Plane index : 26  CGO --> HGH  weekday : 6 time : 20:45 -- 22:25
-Sec: 188  Plane index : 6  HGH --> WUT  weekday : 7 time : 13:00 -- 15:20
-Sec: 195  Plane index : 6  WUT --> BAV  weekday : 7 time : 16:05 -- 17:10
-Sec: 202  Plane index : 6  BAV --> WUT  weekday : 7 time : 20:40 -- 21:45
-Sec: 117  Plane index : 4  WUT --> HGH  weekday : 1 time : 22:30 -- 00:45
+tod_num :70
+Sec: 1111  Plane index : 31  LJG --> HJJ  weekday : 1 time : 20:10 -- 22:10
+Sec: 1118  Plane index : 31  HJJ --> HGH  weekday : 1 time : 22:55 -- 00:50
+Sec: 353  Plane index : 11  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
+Sec: 360  Plane index : 11  CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
+Sec: 367  Plane index : 11  ACX --> CSX  weekday : 3 time : 12:25 -- 14:25
+Sec: 374  Plane index : 11  CSX --> HGH  weekday : 3 time : 15:25 -- 17:00
+Sec: 351  Plane index : 11  HGH --> WUH  weekday : 4 time : 06:45 -- 08:30
+Sec: 358  Plane index : 11  WUH --> ACX  weekday : 4 time : 09:30 -- 11:40
+Sec: 365  Plane index : 11  ACX --> WUH  weekday : 4 time : 12:25 -- 14:30
+Sec: 372  Plane index : 11  WUH --> HGH  weekday : 4 time : 15:30 -- 17:00
+Sec: 1133  Plane index : 32  HGH --> AVA  weekday : 5 time : 07:15 -- 10:00
+Sec: 1140  Plane index : 32  AVA --> LJG  weekday : 5 time : 10:45 -- 12:15
+Sec: 1147  Plane index : 32  LJG --> HAN  weekday : 5 time : 13:00 -- 15:05
+Sec: 1154  Plane index : 32  HAN --> LJG  weekday : 5 time : 16:05 -- 18:00
+two days off
+
+tod_num :1053
+Sec: 1161  Plane index : 32  LJG --> AVA  weekday : 7 time : 18:45 -- 20:10
+Sec: 1167  Plane index : 32  AVA --> HGH  weekday : 7 time : 20:55 -- 23:10
+Sec: 84  Plane index : 3  HGH --> INC  weekday : 1 time : 18:55 -- 21:55
+Sec: 88  Plane index : 3  INC --> URC  weekday : 1 time : 22:30 -- 01:45
+Sec: 72  Plane index : 3  URC --> INC  weekday : 3 time : 10:15 -- 13:10
+Sec: 79  Plane index : 3  INC --> HGH  weekday : 3 time : 14:10 -- 16:50
+Sec: 1136  Plane index : 32  HGH --> DYG  weekday : 4 time : 07:15 -- 09:25
+Sec: 1143  Plane index : 32  DYG --> LJG  weekday : 4 time : 10:10 -- 12:00
 two days off

@@ -1,6 +1,21 @@
-Sec: 1371  Plane index : 38  NGB --> LYG  weekday : 3 time : 17:10 -- 18:40
-Sec: 1378  Plane index : 38  LYG --> XNN  weekday : 3 time : 19:25 -- 22:25
-Sec: 1361  Plane index : 38  XNN --> NGB  weekday : 4 time : 11:30 -- 14:40
-Sec: 1243  Plane index : 35  NGB --> CAN  weekday : 5 time : 23:05 -- 01:25
-Sec: 1237  Plane index : 35  CAN --> NGB  weekday : 6 time : 06:10 -- 08:20
+tod_num :1392
+Sec: 700  Plane index : 20  CTU --> HGH  weekday : 1 time : 05:40 -- 08:25
+Sec: 617  Plane index : 18  HGH --> UYN  weekday : 2 time : 06:25 -- 08:55
+Sec: 624  Plane index : 18  UYN --> HGH  weekday : 2 time : 09:45 -- 12:05
+Sec: 353  Plane index : 11  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
+Sec: 360  Plane index : 11  CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
+Sec: 367  Plane index : 11  ACX --> CSX  weekday : 3 time : 12:25 -- 14:25
+Sec: 374  Plane index : 11  CSX --> HGH  weekday : 3 time : 15:25 -- 17:00
+Sec: 635  Plane index : 18  HGH --> MDL  weekday : 4 time : 15:05 -- 19:25
+Sec: 642  Plane index : 18  MDL --> CTU  weekday : 4 time : 23:50 -- 02:15
+two days off
+
+tod_num :289
+Sec: 1130  Plane index : 31  CTU --> HGH  weekday : 7 time : 05:25 -- 08:10
+Sec: 964  Plane index : 26  HGH --> SZX  weekday : 1 time : 02:00 -- 04:15
+Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
+Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
+Sec: 749  Plane index : 21  XNN --> DLC  weekday : 3 time : 15:25 -- 18:10
+Sec: 797  Plane index : 22  DLC --> HDG  weekday : 3 time : 20:10 -- 21:45
+Sec: 804  Plane index : 22  HDG --> CTU  weekday : 3 time : 22:35 -- 01:05
 two days off

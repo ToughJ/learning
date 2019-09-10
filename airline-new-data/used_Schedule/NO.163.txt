@@ -1,3 +1,4 @@
+tod_num :1362
 Sec: 302  Plane index : 9  HGH --> CAN  weekday : 2 time : 02:00 -- 04:10
 Sec: 1233  Plane index : 35  CAN --> NGB  weekday : 2 time : 06:10 -- 08:20
 Sec: 839  Plane index : 23  NGB --> KOW  weekday : 3 time : 17:45 -- 19:20
@@ -5,10 +6,14 @@ Sec: 846  Plane index : 23  KOW --> KWE  weekday : 3 time : 20:05 -- 22:05
 Sec: 854  Plane index : 23  KWE --> HGH  weekday : 3 time : 22:55 -- 01:10
 Sec: 262  Plane index : 8  HGH --> CAN  weekday : 5 time : 11:35 -- 13:45
 Sec: 269  Plane index : 8  CAN --> HGH  weekday : 5 time : 14:45 -- 17:05
-two days offSec: 348  Plane index : 10  HGH --> PEK  weekday : 7 time : 23:30 -- 01:50
-Sec: 280  Plane index : 9  PEK --> HGH  weekday : 1 time : 05:50 -- 08:05
-Sec: 39  Plane index : 2  HGH --> YNT  weekday : 2 time : 09:25 -- 11:15
-Sec: 46  Plane index : 2  YNT --> HRB  weekday : 2 time : 12:25 -- 14:20
-Sec: 973  Plane index : 27  HRB --> HGH  weekday : 3 time : 06:40 -- 10:00
-Sec: 190  Plane index : 6  HGH --> JIQ  weekday : 3 time : 13:50 -- 16:10
-Sec: 158  Plane index : 5  JIQ --> HGH  weekday : 4 time : 15:00 -- 17:10
+two days off
+
+tod_num :1065
+Sec: 706  Plane index : 20  HGH --> CTU  weekday : 7 time : 23:55 -- 03:00
+Sec: 726  Plane index : 21  CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+Sec: 733  Plane index : 21  ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
+Sec: 758  Plane index : 21  DLC --> ENH  weekday : 2 time : 20:50 -- 23:30
+Sec: 541  Plane index : 15  ENH --> HGH  weekday : 3 time : 21:15 -- 23:05
+Sec: 261  Plane index : 8  HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
+Sec: 268  Plane index : 8  CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
+two days off

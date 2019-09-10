@@ -1,13 +1,12 @@
-Sec: 70  Plane index : 3  URC --> INC  weekday : 1 time : 10:15 -- 13:10
-Sec: 77  Plane index : 3  INC --> HGH  weekday : 1 time : 14:10 -- 16:50
-Sec: 656  Plane index : 19  HGH --> WDS  weekday : 2 time : 06:45 -- 09:10
-Sec: 660  Plane index : 19  WDS --> XIY  weekday : 2 time : 09:55 -- 10:55
-Sec: 695  Plane index : 19  XIY --> URC  weekday : 3 time : 02:00 -- 05:25
-two days offSec: 74  Plane index : 3  URC --> INC  weekday : 5 time : 10:15 -- 13:10
-Sec: 81  Plane index : 3  INC --> HGH  weekday : 5 time : 14:10 -- 16:50
-Sec: 162  Plane index : 5  HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
-Sec: 229  Plane index : 7  WEH --> CGQ  weekday : 6 time : 14:50 -- 16:30
-Sec: 236  Plane index : 7  CGQ --> WEH  weekday : 6 time : 18:50 -- 20:30
-Sec: 243  Plane index : 7  WEH --> HGH  weekday : 6 time : 21:20 -- 23:20
-Sec: 87  Plane index : 3  HGH --> INC  weekday : 7 time : 18:55 -- 21:55
-Sec: 91  Plane index : 3  INC --> URC  weekday : 7 time : 22:30 -- 01:45
+tod_num :1191
+Sec: 1046  Plane index : 29  HRB --> XFN  weekday : 4 time : 06:25 -- 09:55
+Sec: 1053  Plane index : 29  XFN --> HAK  weekday : 4 time : 11:40 -- 14:10
+Sec: 1057  Plane index : 29  HAK --> WUT  weekday : 5 time : 15:30 -- 18:35
+Sec: 1064  Plane index : 29  WUT --> HRB  weekday : 5 time : 19:20 -- 21:55
+Sec: 1018  Plane index : 28  HRB --> WUT  weekday : 6 time : 10:50 -- 13:45
+Sec: 1026  Plane index : 28  WUT --> ZUH  weekday : 7 time : 14:30 -- 17:25
+Sec: 1033  Plane index : 28  ZUH --> WUT  weekday : 7 time : 18:10 -- 21:05
+Sec: 1040  Plane index : 28  WUT --> HRB  weekday : 7 time : 21:50 -- 00:15
+two days off
+
+two days off

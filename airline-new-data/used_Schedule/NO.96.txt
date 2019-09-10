@@ -1,14 +1,25 @@
-Sec: 1231  Plane index : 34  CAN --> HGH  weekday : 1 time : 02:25 -- 04:35
-Sec: 616  Plane index : 18  HGH --> UYN  weekday : 1 time : 06:25 -- 08:55
-Sec: 623  Plane index : 18  UYN --> HGH  weekday : 1 time : 09:45 -- 12:05
-Sec: 39  Plane index : 2  HGH --> YNT  weekday : 2 time : 09:25 -- 11:15
-Sec: 46  Plane index : 2  YNT --> HRB  weekday : 2 time : 12:25 -- 14:20
-Sec: 973  Plane index : 27  HRB --> HGH  weekday : 3 time : 06:40 -- 10:00
-Sec: 260  Plane index : 8  HGH --> CAN  weekday : 3 time : 11:35 -- 13:45
-two days offSec: 815  Plane index : 23  CAN --> YNT  weekday : 6 time : 05:40 -- 08:40
-Sec: 822  Plane index : 23  YNT --> SHE  weekday : 6 time : 09:25 -- 10:45
-Sec: 829  Plane index : 23  SHE --> WEH  weekday : 6 time : 11:35 -- 12:55
-Sec: 184  Plane index : 6  WEH --> HGH  weekday : 7 time : 09:30 -- 11:30
-Sec: 279  Plane index : 8  HGH --> PEK  weekday : 7 time : 19:00 -- 21:20
-Sec: 253  Plane index : 8  PEK --> HGH  weekday : 2 time : 08:20 -- 10:35
-Sec: 264  Plane index : 8  HGH --> CAN  weekday : 2 time : 11:35 -- 13:55
+tod_num :1168
+Sec: 707  Plane index : 20  HGH --> CTU  weekday : 2 time : 00:50 -- 04:00
+Sec: 730  Plane index : 21  CTU --> ENH  weekday : 2 time : 05:55 -- 07:15
+Sec: 737  Plane index : 21  ENH --> DLC  weekday : 2 time : 08:35 -- 11:00
+Sec: 797  Plane index : 22  DLC --> HDG  weekday : 3 time : 20:10 -- 21:45
+Sec: 804  Plane index : 22  HDG --> CTU  weekday : 3 time : 22:35 -- 01:05
+Sec: 731  Plane index : 21  CTU --> ENH  weekday : 4 time : 05:55 -- 07:15
+Sec: 766  Plane index : 21  ENH --> CTU  weekday : 5 time : 00:30 -- 02:00
+Sec: 1129  Plane index : 31  CTU --> HGH  weekday : 5 time : 05:25 -- 08:10
+two days off
+
+tod_num :845
+Sec: 317  Plane index : 10  HGH --> MIG  weekday : 7 time : 08:25 -- 11:15
+Sec: 327  Plane index : 10  MIG --> LHW  weekday : 7 time : 12:05 -- 13:25
+Sec: 334  Plane index : 10  LHW --> MIG  weekday : 7 time : 16:20 -- 17:40
+Sec: 321  Plane index : 10  MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
+Sec: 328  Plane index : 10  LHW --> MIG  weekday : 1 time : 16:20 -- 17:40
+Sec: 335  Plane index : 10  MIG --> HGH  weekday : 1 time : 18:35 -- 21:05
+Sec: 292  Plane index : 9  HGH --> AVA  weekday : 2 time : 13:00 -- 15:45
+Sec: 298  Plane index : 9  AVA --> JHG  weekday : 2 time : 16:30 -- 17:55
+Sec: 308  Plane index : 9  JHG --> AVA  weekday : 2 time : 18:40 -- 20:10
+Sec: 1139  Plane index : 32  AVA --> LJG  weekday : 3 time : 10:45 -- 12:15
+Sec: 1159  Plane index : 32  LJG --> AVA  weekday : 3 time : 18:45 -- 20:10
+Sec: 1165  Plane index : 32  AVA --> HGH  weekday : 3 time : 20:55 -- 23:10
+two days off

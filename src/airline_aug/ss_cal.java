@@ -24,7 +24,7 @@ public class ss_cal {
 	public ArrayList<Schedule> arrSch = new ArrayList<>();
 	public ArrayList<Integer> ali = new ArrayList<>(), bli = new ArrayList<>(), cli = new ArrayList<>();
 	public int[][] cl;
-	public double coef = 0.001;
+	public double coef = 0.003;
 
 	private int used = 0;
 
@@ -137,6 +137,7 @@ public class ss_cal {
 		}
 		Tour_ofDuty tod=schedule.arrToD.get(0);
 		int fd=tod.day_ofWeek;
+		out.write("tod_num :" + tod.ToDindex + "\r\n");
 		for (Air_section sec : tod.secs){
 			out.write("Sec: " + sec.getIndex() + "  Plane index : " + sec.getPlaneIndex()+"  "
 					+ arrCity.get(sec.getDeparture()) + " --> "
@@ -150,6 +151,7 @@ public class ss_cal {
 		out.write("two days off\r\n\r\n");
 		if (schedule.arrToD.size()>1){
 			tod =schedule.arrToD.get(1);
+			out.write("tod_num :" + tod.ToDindex + "\r\n");
 			fd=tod.day_ofWeek;
 			for (Air_section sec : tod.secs){
 				out.write("Sec: " + sec.getIndex() + "  Plane index : " + sec.getPlaneIndex()+"  "
@@ -161,8 +163,9 @@ public class ss_cal {
 				out.write("  weekday : " + sec.getDay() + " time : " + format.format(sec.dateDep) + " -- "
 						+ format.format(sec.dateArr) + "\r\n");
 			}
+			out.write("two days off\r\n");
 		}
-		out.write("two days off\r\n");
+		
 		out.flush(); //
 		out.close(); //
 

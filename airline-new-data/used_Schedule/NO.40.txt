@@ -1,20 +1,28 @@
-Sec: 426  Plane index : 12  XIY --> CXR  weekday : 1 time : 23:10 -- 03:35
-Sec: 431  Plane index : 12  CXR --> XIY  weekday : 3 time : 04:20 -- 08:10
-Sec: 507  Plane index : 15  XIY --> BFJ  weekday : 4 time : 06:55 -- 08:50
-Sec: 514  Plane index : 15  BFJ --> ZUH  weekday : 4 time : 10:40 -- 12:40
-Sec: 521  Plane index : 15  ZUH --> BFJ  weekday : 4 time : 13:35 -- 15:40
-Sec: 528  Plane index : 15  BFJ --> XIY  weekday : 4 time : 16:40 -- 18:25
-Sec: 508  Plane index : 15  XIY --> BFJ  weekday : 5 time : 06:55 -- 08:50
-Sec: 515  Plane index : 15  BFJ --> ZUH  weekday : 5 time : 10:40 -- 12:40
-Sec: 522  Plane index : 15  ZUH --> BFJ  weekday : 5 time : 13:35 -- 15:40
-Sec: 529  Plane index : 15  BFJ --> XIY  weekday : 5 time : 16:40 -- 18:25
-two days offSec: 538  Plane index : 15  XIY --> ENH  weekday : 7 time : 19:25 -- 20:30
-Sec: 545  Plane index : 15  ENH --> HGH  weekday : 7 time : 21:15 -- 23:05
-Sec: 377  Plane index : 11  HGH --> CKG  weekday : 1 time : 18:05 -- 20:35
-Sec: 384  Plane index : 11  CKG --> HGH  weekday : 1 time : 21:35 -- 00:05
-Sec: 965  Plane index : 26  HGH --> SZX  weekday : 2 time : 02:00 -- 04:15
-Sec: 1415  Plane index : 39  SZX --> HGH  weekday : 3 time : 02:15 -- 04:20
-Sec: 2  Plane index : 1  HGH --> SZX  weekday : 3 time : 08:45 -- 11:05
-Sec: 1416  Plane index : 39  SZX --> HGH  weekday : 4 time : 02:15 -- 04:20
-Sec: 657  Plane index : 19  HGH --> WDS  weekday : 4 time : 06:45 -- 09:10
-Sec: 662  Plane index : 19  WDS --> XIY  weekday : 4 time : 09:55 -- 10:55
+from last week
+tod_num :142
+Sec: 43  Plane index : 2  HLH --> HRB  weekday : 3 time : 13:10 -- 14:20
+Sec: 50  Plane index : 2  HRB --> XUZ  weekday : 3 time : 15:15 -- 17:50
+Sec: 57  Plane index : 2  XUZ --> SZX  weekday : 3 time : 18:50 -- 21:35
+Sec: 65  Plane index : 2  SZX --> HGH  weekday : 3 time : 22:35 -- 00:35
+Sec: 354  Plane index : 11  HGH --> CSX  weekday : 5 time : 06:45 -- 08:35
+Sec: 361  Plane index : 11  CSX --> ACX  weekday : 5 time : 09:35 -- 11:35
+Sec: 368  Plane index : 11  ACX --> CSX  weekday : 5 time : 12:25 -- 14:25
+Sec: 376  Plane index : 11  CSX --> HGH  weekday : 5 time : 15:25 -- 17:05
+Sec: 41  Plane index : 2  HGH --> YNT  weekday : 6 time : 09:25 -- 11:15
+Sec: 48  Plane index : 2  YNT --> HRB  weekday : 6 time : 12:25 -- 14:20
+Sec: 55  Plane index : 2  HRB --> HLH  weekday : 6 time : 15:15 -- 16:35
+two days off
+
+tod_num :142
+Sec: 43  Plane index : 2  HLH --> HRB  weekday : 3 time : 13:10 -- 14:20
+Sec: 50  Plane index : 2  HRB --> XUZ  weekday : 3 time : 15:15 -- 17:50
+Sec: 57  Plane index : 2  XUZ --> SZX  weekday : 3 time : 18:50 -- 21:35
+Sec: 65  Plane index : 2  SZX --> HGH  weekday : 3 time : 22:35 -- 00:35
+Sec: 354  Plane index : 11  HGH --> CSX  weekday : 5 time : 06:45 -- 08:35
+Sec: 361  Plane index : 11  CSX --> ACX  weekday : 5 time : 09:35 -- 11:35
+Sec: 368  Plane index : 11  ACX --> CSX  weekday : 5 time : 12:25 -- 14:25
+Sec: 376  Plane index : 11  CSX --> HGH  weekday : 5 time : 15:25 -- 17:05
+Sec: 41  Plane index : 2  HGH --> YNT  weekday : 6 time : 09:25 -- 11:15
+Sec: 48  Plane index : 2  YNT --> HRB  weekday : 6 time : 12:25 -- 14:20
+Sec: 55  Plane index : 2  HRB --> HLH  weekday : 6 time : 15:15 -- 16:35
+two days off

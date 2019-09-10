@@ -1,13 +1,23 @@
-Sec: 926  Plane index : 25  CTU --> KJH  weekday : 2 time : 12:10 -- 13:45
-Sec: 933  Plane index : 25  KJH --> HGH  weekday : 2 time : 14:45 -- 16:55
-Sec: 274  Plane index : 8  HGH --> PEK  weekday : 2 time : 19:00 -- 21:20
-Sec: 255  Plane index : 8  PEK --> HGH  weekday : 4 time : 08:20 -- 10:35
-Sec: 983  Plane index : 27  HGH --> XFN  weekday : 4 time : 14:30 -- 16:25
-Sec: 990  Plane index : 27  XFN --> CTU  weekday : 4 time : 17:10 -- 19:10
-two days offSec: 998  Plane index : 27  CTU --> XFN  weekday : 6 time : 20:10 -- 21:55
+tod_num :627
+Sec: 216  Plane index : 7  HGH --> LYI  weekday : 1 time : 06:25 -- 07:55
+Sec: 223  Plane index : 7  LYI --> TYN  weekday : 1 time : 08:40 -- 10:20
+Sec: 230  Plane index : 7  TYN --> LYI  weekday : 1 time : 11:15 -- 12:50
+Sec: 237  Plane index : 7  LYI --> HGH  weekday : 1 time : 13:35 -- 14:50
+Sec: 136  Plane index : 5  HGH --> JIQ  weekday : 2 time : 08:25 -- 10:40
+Sec: 142  Plane index : 5  JIQ --> CKG  weekday : 2 time : 11:25 -- 12:20
+Sec: 149  Plane index : 5  CKG --> JIQ  weekday : 2 time : 13:20 -- 14:15
+Sec: 157  Plane index : 5  JIQ --> HGH  weekday : 2 time : 15:00 -- 17:10
+Sec: 344  Plane index : 10  HGH --> PEK  weekday : 3 time : 23:30 -- 01:50
+Sec: 283  Plane index : 9  PEK --> HGH  weekday : 4 time : 05:50 -- 08:05
+two days off
+
+tod_num :751
+Sec: 984  Plane index : 27  HGH --> XFN  weekday : 6 time : 14:30 -- 16:25
+Sec: 991  Plane index : 27  XFN --> CTU  weekday : 6 time : 17:10 -- 19:10
+Sec: 998  Plane index : 27  CTU --> XFN  weekday : 6 time : 20:10 -- 21:55
 Sec: 1005  Plane index : 27  XFN --> HGH  weekday : 6 time : 22:45 -- 00:40
-Sec: 189  Plane index : 6  HGH --> JIQ  weekday : 1 time : 13:50 -- 16:10
-Sec: 196  Plane index : 6  JIQ --> CKG  weekday : 1 time : 16:55 -- 17:50
-Sec: 203  Plane index : 6  CKG --> JIQ  weekday : 1 time : 18:55 -- 19:50
-Sec: 210  Plane index : 6  JIQ --> HGH  weekday : 1 time : 21:20 -- 23:20
-Sec: 1125  Plane index : 31  HGH --> CTU  weekday : 2 time : 23:55 -- 03:00
+Sec: 859  Plane index : 24  HGH --> KWE  weekday : 1 time : 06:20 -- 08:50
+Sec: 441  Plane index : 13  KWE --> WNZ  weekday : 1 time : 10:50 -- 13:15
+Sec: 1098  Plane index : 31  WNZ --> WUH  weekday : 2 time : 09:05 -- 10:45
+Sec: 371  Plane index : 11  WUH --> HGH  weekday : 2 time : 15:30 -- 17:00
+two days off

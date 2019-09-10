@@ -1,3 +1,4 @@
+tod_num :1397
 Sec: 453  Plane index : 13  WNZ --> ENY  weekday : 4 time : 17:00 -- 19:55
 Sec: 460  Plane index : 13  ENY --> XIY  weekday : 4 time : 21:15 -- 22:10
 Sec: 509  Plane index : 15  XIY --> BFJ  weekday : 6 time : 06:55 -- 08:50
@@ -6,4 +7,6 @@ Sec: 1216  Plane index : 34  ZUH --> CSX  weekday : 6 time : 14:10 -- 15:45
 Sec: 1181  Plane index : 33  CSX --> WNZ  weekday : 7 time : 11:35 -- 13:10
 Sec: 1188  Plane index : 33  WNZ --> CJU  weekday : 7 time : 15:00 -- 17:00
 Sec: 1195  Plane index : 33  CJU --> WNZ  weekday : 7 time : 20:45 -- 22:45
+two days off
+
 two days off

@@ -1,15 +1,12 @@
-Sec: 1252  Plane index : 35  NGB --> KLO  weekday : 1 time : 11:05 -- 14:45
-Sec: 1259  Plane index : 35  KLO --> NGB  weekday : 1 time : 15:45 -- 19:15
-Sec: 1367  Plane index : 38  NGB --> XNN  weekday : 2 time : 16:55 -- 20:20
-Sec: 1382  Plane index : 38  XNN --> CAN  weekday : 3 time : 23:10 -- 02:30
-Sec: 1235  Plane index : 35  CAN --> NGB  weekday : 4 time : 06:10 -- 08:20
-two days offSec: 844  Plane index : 23  NGB --> SQD  weekday : 6 time : 17:45 -- 19:05
-Sec: 851  Plane index : 23  SQD --> KWE  weekday : 6 time : 19:50 -- 22:05
-Sec: 857  Plane index : 23  KWE --> HGH  weekday : 6 time : 22:55 -- 01:10
-Sec: 964  Plane index : 26  HGH --> SZX  weekday : 1 time : 02:00 -- 04:15
-Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
-Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
-Sec: 1285  Plane index : 36  XNN --> NKG  weekday : 2 time : 10:20 -- 12:55
-Sec: 1293  Plane index : 36  NKG --> XNN  weekday : 2 time : 13:55 -- 16:45
-Sec: 1357  Plane index : 38  XNN --> LYG  weekday : 3 time : 10:00 -- 12:40
-Sec: 1364  Plane index : 38  LYG --> NGB  weekday : 3 time : 13:25 -- 14:45
+tod_num :1222
+Sec: 502  Plane index : 36  XNN --> CAN  weekday : 4 time : 23:10 -- 02:30
+Sec: 1353  Plane index : 38  CAN --> XNN  weekday : 5 time : 05:45 -- 09:15
+Sec: 1287  Plane index : 36  XNN --> NKG  weekday : 6 time : 10:20 -- 12:55
+Sec: 1292  Plane index : 36  NKG --> XNN  weekday : 6 time : 16:05 -- 18:55
+Sec: 1284  Plane index : 36  XNN --> HDG  weekday : 7 time : 11:10 -- 13:15
+Sec: 1291  Plane index : 36  HDG --> XUZ  weekday : 7 time : 14:00 -- 15:25
+Sec: 1298  Plane index : 36  XUZ --> HDG  weekday : 7 time : 16:10 -- 17:40
+Sec: 1302  Plane index : 36  HDG --> XNN  weekday : 7 time : 18:25 -- 20:40
+two days off
+
+two days off

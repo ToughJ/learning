@@ -1,10 +1,19 @@
-Sec: 726  Plane index : 21  CTU --> ENY  weekday : 1 time : 05:55 -- 07:20
+from last week
+tod_num :1180
+Sec: 969  Plane index : 26  HGH --> SZX  weekday : 6 time : 02:00 -- 04:15
+Sec: 1313  Plane index : 37  SZX --> ENH  weekday : 6 time : 06:35 -- 08:35
+Sec: 767  Plane index : 21  ENH --> CTU  weekday : 7 time : 00:30 -- 02:00
+Sec: 729  Plane index : 21  CTU --> ENY  weekday : 7 time : 05:55 -- 07:20
 Sec: 405  Plane index : 12  ENY --> HGH  weekday : 1 time : 13:40 -- 16:10
-Sec: 634  Plane index : 18  HGH --> MDL  weekday : 2 time : 15:05 -- 19:25
-Sec: 641  Plane index : 18  MDL --> CTU  weekday : 2 time : 23:50 -- 02:15
-two days offSec: 710  Plane index : 20  CTU --> MDL  weekday : 6 time : 05:55 -- 08:25
-Sec: 713  Plane index : 20  MDL --> HGH  weekday : 6 time : 09:10 -- 13:05
-Sec: 616  Plane index : 18  HGH --> UYN  weekday : 1 time : 06:25 -- 08:55
-Sec: 623  Plane index : 18  UYN --> HGH  weekday : 1 time : 09:45 -- 12:05
-Sec: 634  Plane index : 18  HGH --> MDL  weekday : 2 time : 15:05 -- 19:25
-Sec: 641  Plane index : 18  MDL --> CTU  weekday : 2 time : 23:50 -- 02:15
+two days off
+
+tod_num :1167
+Sec: 967  Plane index : 26  HGH --> SZX  weekday : 4 time : 02:00 -- 04:15
+Sec: 1312  Plane index : 37  SZX --> ENH  weekday : 4 time : 06:35 -- 08:35
+Sec: 766  Plane index : 21  ENH --> CTU  weekday : 5 time : 00:30 -- 02:00
+Sec: 728  Plane index : 21  CTU --> ENY  weekday : 5 time : 05:55 -- 07:20
+Sec: 735  Plane index : 21  ENY --> DLC  weekday : 5 time : 09:10 -- 11:00
+Sec: 802  Plane index : 22  DLC --> TNA  weekday : 6 time : 20:50 -- 22:05
+Sec: 809  Plane index : 22  TNA --> CTU  weekday : 6 time : 22:55 -- 01:25
+Sec: 1130  Plane index : 31  CTU --> HGH  weekday : 7 time : 05:25 -- 08:10
+two days off

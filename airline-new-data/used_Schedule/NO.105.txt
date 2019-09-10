@@ -1,9 +1,10 @@
-Sec: 801  Plane index : 22  DLC --> TNA  weekday : 4 time : 20:50 -- 22:05
-Sec: 808  Plane index : 22  TNA --> CTU  weekday : 4 time : 22:55 -- 01:25
-Sec: 1129  Plane index : 31  CTU --> HGH  weekday : 5 time : 05:25 -- 08:10
-Sec: 1127  Plane index : 31  HGH --> CTU  weekday : 6 time : 23:55 -- 03:00
-Sec: 771  Plane index : 22  CTU --> HDG  weekday : 7 time : 06:25 -- 08:30
-Sec: 778  Plane index : 22  HDG --> DLC  weekday : 7 time : 09:15 -- 11:00
-Sec: 782  Plane index : 22  DLC --> DTU  weekday : 1 time : 12:00 -- 14:05
-Sec: 789  Plane index : 22  DTU --> DLC  weekday : 1 time : 14:50 -- 16:55
+tod_num :1189
+Sec: 698  Plane index : 19  XIY --> URC  weekday : 4 time : 02:00 -- 05:25
+Sec: 94  Plane index : 3  URC --> XIY  weekday : 5 time : 02:45 -- 05:55
+Sec: 481  Plane index : 14  XIY --> MFM  weekday : 5 time : 09:10 -- 12:35
+Sec: 491  Plane index : 14  MFM --> ENH  weekday : 7 time : 13:55 -- 15:40
+Sec: 500  Plane index : 14  ENH --> MFM  weekday : 7 time : 16:25 -- 18:25
+Sec: 489  Plane index : 14  MFM --> XIY  weekday : 7 time : 19:20 -- 22:05
+two days off
+
 two days off

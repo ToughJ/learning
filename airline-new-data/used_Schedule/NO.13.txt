@@ -1,3 +1,4 @@
+tod_num :56
 Sec: 1176  Plane index : 33  WNZ --> HUZ  weekday : 4 time : 08:45 -- 10:30
 Sec: 1183  Plane index : 33  HUZ --> WNZ  weekday : 4 time : 11:15 -- 13:00
 Sec: 1186  Plane index : 33  WNZ --> HUZ  weekday : 5 time : 20:30 -- 22:15
@@ -6,4 +7,6 @@ Sec: 451  Plane index : 13  WNZ --> XFN  weekday : 7 time : 14:45 -- 16:35
 Sec: 458  Plane index : 13  XFN --> CTU  weekday : 7 time : 17:20 -- 19:25
 Sec: 465  Plane index : 13  CTU --> XFN  weekday : 7 time : 20:25 -- 22:15
 Sec: 472  Plane index : 13  XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
+two days off
+
 two days off

@@ -1,8 +1,24 @@
-Sec: 503  Plane index : 36  XNN --> CAN  weekday : 6 time : 23:10 -- 02:30
-Sec: 1238  Plane index : 35  CAN --> NGB  weekday : 7 time : 06:10 -- 08:20
-Sec: 838  Plane index : 23  NGB --> KOW  weekday : 1 time : 17:45 -- 19:20
-Sec: 845  Plane index : 23  KOW --> KWE  weekday : 1 time : 20:05 -- 22:05
-Sec: 852  Plane index : 23  KWE --> HGH  weekday : 1 time : 22:55 -- 01:10
-Sec: 303  Plane index : 9  HGH --> CAN  weekday : 3 time : 02:00 -- 04:10
-Sec: 1351  Plane index : 38  CAN --> XNN  weekday : 3 time : 05:45 -- 09:15
+tod_num :120
+Sec: 733  Plane index : 21  ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
+Sec: 740  Plane index : 21  DLC --> XNN  weekday : 1 time : 12:00 -- 14:40
+Sec: 747  Plane index : 21  XNN --> DLC  weekday : 1 time : 15:25 -- 18:10
+Sec: 786  Plane index : 22  DLC --> NZL  weekday : 2 time : 12:00 -- 14:05
+Sec: 793  Plane index : 22  NZL --> DLC  weekday : 2 time : 14:50 -- 16:50
+Sec: 758  Plane index : 21  DLC --> ENH  weekday : 2 time : 20:50 -- 23:30
+Sec: 499  Plane index : 14  ENH --> MFM  weekday : 4 time : 16:25 -- 18:25
+Sec: 487  Plane index : 14  MFM --> XIY  weekday : 4 time : 19:20 -- 22:05
+Sec: 495  Plane index : 14  XIY --> ENY  weekday : 4 time : 23:05 -- 00:10
+two days off
+
+tod_num :1138
+Sec: 407  Plane index : 12  ENY --> HGH  weekday : 7 time : 13:40 -- 16:10
+Sec: 978  Plane index : 27  HGH --> BFJ  weekday : 1 time : 12:35 -- 15:10
+Sec: 525  Plane index : 15  BFJ --> XIY  weekday : 1 time : 16:40 -- 18:25
+Sec: 532  Plane index : 15  XIY --> ENH  weekday : 1 time : 19:25 -- 20:30
+Sec: 737  Plane index : 21  ENH --> DLC  weekday : 2 time : 08:35 -- 11:00
+Sec: 741  Plane index : 21  DLC --> XNN  weekday : 2 time : 12:00 -- 14:40
+Sec: 748  Plane index : 21  XNN --> DLC  weekday : 2 time : 15:25 -- 18:10
+Sec: 784  Plane index : 22  DLC --> NZH  weekday : 3 time : 12:00 -- 14:30
+Sec: 791  Plane index : 22  NZH --> DLC  weekday : 3 time : 15:15 -- 17:35
+Sec: 755  Plane index : 21  DLC --> ENY  weekday : 3 time : 20:50 -- 23:00
 two days off
