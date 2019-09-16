@@ -42,10 +42,10 @@ public class ss_Parameter {
 
 	public void initial_crewliving() {
 		// imagine that people in each city is enough.
-		cl = new int[6][arrCity.size()];
-		for (int i = 0; i < 6; i++) {
+		cl = new int[10][arrCity.size()];
+		for (int i = 0; i < 8; i++) { // -3 -2 -1 0 1 2 3 4 
 			for (int j = 0; j < arrCity.size(); j++) {
-				cl[i][j] = 190;
+				cl[i][j] = 100;
 			}
 		}
 	}
@@ -129,10 +129,13 @@ public class ss_Parameter {
 			if (sche.tEnd < sche.tSta) {
 				sche.tEnd += 7 * 60 * 24;
 			}
-			if (startday < 2) {
+			if (startday < 4) {
 				sche.startDay = startday;
 				for (Air_section ase : tod.secs) {
-					sche.bcv.add(ase.index);
+					if (ase.tDep < 7 * 24 * 60 && ase.tDep>=sche.tSta)
+						sche.bcv.add(ase.index);
+					else 
+						sche.ccv.add(ase.index);
 				}
 				arrSch.add(sche);
 
@@ -157,7 +160,7 @@ public class ss_Parameter {
 				sche.startDay = startday;
 				Schedule sche1 = new Schedule(sche);
 				for (Air_section ase : tod.secs) {
-					if (ase.tDep < 7 * 24 * 60) {
+					if (ase.tDep < 7 * 24 * 60 && ase.tDep>4*24*60) {
 						sche.bcv.add(ase.index);
 					} else {
 						sche.ccv.add(ase.index);
@@ -169,7 +172,7 @@ public class ss_Parameter {
 				sche1.tSta -= 7 * 60 * 24;
 				sche1.tEnd -= 7 * 60 * 24;
 				for (Air_section ase : tod.secs) {
-					if (ase.tDep < 7 * 24 * 60) {
+					if (ase.tDep < 7 * 24 * 60 && ase.tDep>4*24*60) {
 						sche1.acv.add(ase.index);
 					} else {
 						sche1.bcv.add(ase.index);

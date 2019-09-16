@@ -670,13 +670,13 @@ public class Crew_Pairing {
 					for (int t = 0; t < dutySize; t++) {
 						for (int j = 0; j < arrSec.size(); j++) {
 							if (xlimit[i][j] > 0) {
-								num_expr.addTerm(pi[i], x[i][j][t]);
+								num_expr.addTerm(pi[i]+0.1, x[i][j][t]);
 							}
 							if (ylimit[i][j] > 0 && t != dutySize - 1) {
-								num_expr.addTerm(pi[i], y[i][j][t]);
+								num_expr.addTerm(pi[i]+0.1, y[i][j][t]);
 							}
 						}
-						num_expr.addTerm(pi[i], f[i][t]);
+						num_expr.addTerm(pi[i]+0.1, f[i][t]);
 					}
 				}
 				reduced_cost.clearExpr();
