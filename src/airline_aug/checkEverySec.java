@@ -16,7 +16,7 @@ public class checkEverySec {
 	static int secNum = 1420;
 	static String[] namelist = new String[400];
 	static ArrayList<ArrayList<Integer>> rec = new ArrayList<>();
-	static int ToD_num = 198;
+	static int ToD_num = 176;
 
 	public checkEverySec() throws IOException {
 

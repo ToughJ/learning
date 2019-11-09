@@ -20,7 +20,7 @@ public class txt2excel {
 	static int ToD_num = 0;
 	static String[] namelist = new String[400];
 	static int tournum =0;
-	static int schNum = 198;
+	static int schNum = 177;
 
 	private static void createHeaderRow(Sheet sheet, int rowCount, String[] splitted) {
 

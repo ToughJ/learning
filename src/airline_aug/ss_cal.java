@@ -49,7 +49,7 @@ public class ss_cal {
 			IloCplex cplex;
 			ArrayList<IloNumVar> x = new ArrayList<>();
 			cplex = new IloCplex();
-			cplex.setParam(IloCplex.Param.MIP.Tolerances.MIPGap, 0.025); //0.025
+			cplex.setParam(IloCplex.Param.MIP.Tolerances.MIPGap, 0.01); //0.025
 			IloLinearNumExpr obj = cplex.linearNumExpr();
 			IloNumVar[] s = new IloNumVar[arrSec.size()];
 			// define variables and objectives part one
@@ -67,6 +67,7 @@ public class ss_cal {
 			// define constraints
 			IloLinearNumExpr[][] crew_living = new IloLinearNumExpr[10][arrCity.size()];
 			IloLinearNumExpr[][] cover = new IloLinearNumExpr[3][arrSec.size()];
+			
 			for (int i = 0; i < 8; i++) {
 				for (int j = 0; j < arrCity.size(); j++) {
 					crew_living[i][j] = cplex.linearNumExpr();
@@ -106,6 +107,7 @@ public class ss_cal {
 			}
 			for (int j : bli) {
 				cplex.addGe(cover[1][j], 1, "cover1," + j);
+				cplex.addLe(cover[1][j], 3, "cover1," + j);
 			}
 			for (int j : cli) {
 				cplex.addGe(cplex.sum(cover[2][j], s[j]), 1, "cover2," + j);

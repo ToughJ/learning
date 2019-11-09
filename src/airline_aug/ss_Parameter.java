@@ -126,25 +126,31 @@ public class ss_Parameter {
 			sche.arrToD.add(tod);
 			sche.tSta = tod.tSta;
 			sche.tEnd = tod.tEnd;
-			if (sche.tEnd < sche.tSta) {
+			if (sche.tEnd <= sche.tSta) {
 				sche.tEnd += 7 * 60 * 24;
 			}
-			if (startday < 4) {
-				sche.startDay = startday;
+			sche.startDay = startday;
+			
+			if (sche.tSta >= 4*24*60){
+				Schedule sche1 = new Schedule(sche);
 				for (Air_section ase : tod.secs) {
-					if (ase.tDep < 7 * 24 * 60 && ase.tDep>=sche.tSta)
-						sche.bcv.add(ase.index);
-					else 
-						sche.ccv.add(ase.index);
+					if (ase.tDep <= 7 * 24 * 60 && ase.tDep>=4*24*60) {
+						sche1.acv.add(ase.index);
+					} else {
+						sche1.bcv.add(ase.index);
+					}
 				}
-				arrSch.add(sche);
-
+				sche1.startDay = startday - 7;
+				sche1.tSta -= 7 * 60 * 24;
+				sche1.tEnd -= 7 * 60 * 24;
+				arrSch.add(sche1);
+				
 				for (Tour_ofDuty newtod : arrToD) {
-					if (newtod.settle == sche.city && newtod.tSta > sche.tEnd && sche.tEnd > sche.tSta) {
-						Schedule newSche = new Schedule(sche);
+					if (newtod.settle == sche1.city && newtod.tSta >= sche1.tEnd) {
+						Schedule newSche = new Schedule(sche1);
 						newSche.arrToD.add(newtod);
 						newSche.tEnd = newtod.tEnd;
-						if (newSche.tEnd < newtod.tSta)
+						if (newSche.tEnd <= newtod.tSta)
 							newSche.tEnd += 7 * 24 * 60;
 						for (Air_section ase : newtod.secs) {
 							if (ase.tDep >= newtod.tSta)
@@ -156,39 +162,26 @@ public class ss_Parameter {
 						arrSch.add(newSche);
 					}
 				}
-			} else {
-				sche.startDay = startday;
-				Schedule sche1 = new Schedule(sche);
-				for (Air_section ase : tod.secs) {
-					if (ase.tDep < 7 * 24 * 60 && ase.tDep>4*24*60) {
-						sche.bcv.add(ase.index);
-					} else {
-						sche.ccv.add(ase.index);
-					}
-				}
-				arrSch.add(sche);
-
-				sche1.startDay = startday - 7;
-				sche1.tSta -= 7 * 60 * 24;
-				sche1.tEnd -= 7 * 60 * 24;
-				for (Air_section ase : tod.secs) {
-					if (ase.tDep < 7 * 24 * 60 && ase.tDep>4*24*60) {
-						sche1.acv.add(ase.index);
-					} else {
-						sche1.bcv.add(ase.index);
-					}
-				}
-				arrSch.add(sche1);
-
+			}
+			
+			for (Air_section ase : tod.secs) {
+				if (ase.tDep <= 7 * 24 * 60 && ase.tDep>=sche.tSta)
+					sche.bcv.add(ase.index);
+				else 
+					sche.ccv.add(ase.index);
+			}
+			arrSch.add(sche);
+			
+			if (sche.tEnd<=7*24*60) {
 				for (Tour_ofDuty newtod : arrToD) {
-					if (newtod.settle == sche1.city && newtod.tSta > sche1.tEnd &&newtod.tSta -sche1.tEnd > 2*24*60 ) {
-						Schedule newSche = new Schedule(sche1);
+					if (newtod.settle == sche.city && newtod.tSta > sche.tEnd) {
+						Schedule newSche = new Schedule(sche);
 						newSche.arrToD.add(newtod);
 						newSche.tEnd = newtod.tEnd;
-						if (newSche.tEnd < newtod.tSta)
+						if (newSche.tEnd <= newtod.tSta)
 							newSche.tEnd += 7 * 24 * 60;
 						for (Air_section ase : newtod.secs) {
-							if (ase.tDep > newtod.tSta)
+							if (ase.tDep >= newtod.tSta)
 								newSche.bcv.add(ase.index);
 							else {
 								newSche.ccv.add(ase.index);
@@ -200,6 +193,8 @@ public class ss_Parameter {
 			}
 		}
 	}
+			
+			
 
 	public void testSchedule() throws FileNotFoundException, IOException, ParseException {
 		// to test producing schedule
