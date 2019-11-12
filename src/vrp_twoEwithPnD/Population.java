@@ -13,7 +13,7 @@ public class Population {
 	int numCus = 0, numSat = 0;
 	double carDem = 0.0, truckDem = 0.0;
 	int iniChrome = 50;
-
+	
 	public Population() {
 	}
 
@@ -133,6 +133,7 @@ public class Population {
 			arrChrom.get(i).createGen();
 			arrChrom.get(i).calTotalDistance();
 			arrChrom.get(i).calFitness();
+			// arrChrom.get(i).testPrint();
 		}
 	}
 
@@ -143,44 +144,71 @@ public class Population {
 				crossedChrom = new Chromosom(numCus, numSat, carDem, truckDem, nodeList);
 		int i = 0, j = 0;
 		Random rand = new Random();
-		boolean[] flag = new boolean[numCus + numSat + 2];
+		boolean[] flag = new boolean[numCus + numSat + 1];
+		int tott=0;
+		ArrayList<Node> tempSec;
 
 		while (i < aChrom.arrNode.size() || j < bChrom.arrNode.size()) {
 			double randPro = rand.nextDouble();
 			boolean isCopy = true;
-			ArrayList<Node> tempSec = new ArrayList<Node>();
-			if (j >= bChrom.arrNode.size() || (randPro > 0.4 * probCross && i < aChrom.arrNode.size())) {
-
+			tempSec = new ArrayList<Node>();
+			int id1, id2; // these two var is to help to classify to make sure
+							// sat all arrise before car route
+			if (i < aChrom.arrNode.size())
+				id1 = Integer.parseInt(aChrom.arrNode.get(i).index);
+			else {
+				id1 = 1; // no matter what it is 
+			}
+			if (j < bChrom.arrNode.size())
+				id2 = Integer.parseInt(bChrom.arrNode.get(j).index);
+			else {
+				id2 = 1;
+			}
+			if (j >= bChrom.arrNode.size() || (id1 == 0 && id2 > 0) || ((id1 * id2 > 0 || (id1 == 0 && id2 == 0))
+					&& (randPro > 0.4 * probCross && i < aChrom.arrNode.size()))) {
+				// if bChrom is done or it is ok (aChrom is not done) but we do
+				// not want to cross, then we should put i to tempSec
+				boolean[] tmpFlag = new boolean[numCus + numSat + 1];
+				for (int k =0;k<=numCus+numSat;k++) tmpFlag[k]=flag[k];
 				tempSec.add(aChrom.arrNode.get(i));
 				i++;
 				while (i < aChrom.arrNode.size()) {
 					int index = Integer.parseInt(aChrom.arrNode.get(i).index);
-					if (index <= numSat && flag[index]) {
+					if (index <= numSat && tmpFlag[index]) {
+						// this means another route begins
 						break;
 					}
-					if (!flag[index]) {
+					if (!tmpFlag[index]) {
 						tempSec.add(aChrom.arrNode.get(i));
+						tmpFlag[index]=true; 
 					} else {
+						// there are some node is not the first time to show up
 						isCopy = false;
 					}
 					i++;
 				}
 				if (isCopy) {
+					// then copy to TempChrom
+//					System.out.print("");
 					for (int k = 0; k < tempSec.size(); k++) {
 						int index = Integer.parseInt(tempSec.get(k).index);
-						flag[index] = true;
+						flag[index] = true;tott++;
 						tempChrom.arrNode.add(tempSec.get(k));
 					}
 				}
 			} else {
+				// in this situation, we choose bChrom
+				boolean[] tmpFlag = new boolean[numCus + numSat + 1];
+				for (int k =0;k<=numCus+numSat;k++) tmpFlag[k]=flag[k];
 				tempSec.add(bChrom.arrNode.get(j));
 				j++;
 				while (j < bChrom.arrNode.size()) {
 					int index = Integer.parseInt(bChrom.arrNode.get(j).index);
-					if (index <= numSat && flag[index]) {
+					if (index <= numSat && tmpFlag[index]) {
 						break;
 					}
-					if (!flag[index]) {
+					if (!tmpFlag[index]) {
+						tmpFlag[index]=true; 
 						tempSec.add(bChrom.arrNode.get(j));
 					} else {
 						isCopy = false;
@@ -188,9 +216,10 @@ public class Population {
 					j++;
 				}
 				if (isCopy) {
+//					System.out.print("dsa");
 					for (int k = 0; k < tempSec.size(); k++) {
 						int index = Integer.parseInt(tempSec.get(k).index);
-						flag[index] = true;
+						flag[index] = true;tott++;
 						tempChrom.arrNode.add(tempSec.get(k));
 					}
 				}
@@ -207,6 +236,7 @@ public class Population {
 				tempChrom.arrNode.add(nodeList.get(j));
 			}
 		}
+
 		Collections.shuffle(tempChrom.arrNode.subList(i, tempChrom.arrNode.size()));
 		tempChrom.calTotalDistance();
 		tempChrom.calFitness();
@@ -221,19 +251,16 @@ public class Population {
 		Node tempNodeA = null, tempNodeB = null;
 		Random rand = new Random();
 		double randDouble = rand.nextDouble();
-		double prob = 0.9;
+		double prob = 0.95;
 		int carStart = Chrom.getSatStart();
 		int numNode = Chrom.arrNode.size();
 		int randomNumA, randomNumB;
 		while (carStart < Chrom.arrNode.size() && randDouble < prob) { // carRoute
 			prob = prob * prob;
 			if ((numNode) - carStart <= 0) {
-				System.out.println("dasdas");
+				System.err.println("dasdas");
 			}
 			randomNumA = rand.nextInt(numNode - carStart) + carStart;
-			if ((numNode) - carStart <= 0) {
-				System.out.println("dasdas");
-			}
 			randomNumB = rand.nextInt(numNode - carStart) + carStart;
 			tempNodeA = Chrom.getArrNode().get(randomNumA);
 			tempNodeB = Chrom.getArrNode().get(randomNumB);
@@ -241,13 +268,18 @@ public class Population {
 			tempChrom.getArrNode().set(randomNumB, tempNodeA);
 			randDouble = rand.nextDouble();
 		}
-		if (carStart > 2) {
-			randomNumA = rand.nextInt(carStart - 2) + 1;
-			randomNumB = rand.nextInt(carStart - 2) + 1;
+		// the truck route changing
+		prob = 0.8;
+		randDouble = rand.nextDouble();
+		while (carStart > 2 && randDouble < prob) {
+			prob = prob * prob;
+			randomNumA = rand.nextInt(carStart - 1) + 1;
+			randomNumB = rand.nextInt(carStart - 1) + 1;
 			tempNodeA = Chrom.getArrNode().get(randomNumA);
 			tempNodeB = Chrom.getArrNode().get(randomNumB);
 			tempChrom.getArrNode().set(randomNumA, tempNodeB);
 			tempChrom.getArrNode().set(randomNumB, tempNodeA);
+			randDouble = rand.nextDouble();
 		}
 		tempChrom.calTotalDistance();
 		tempChrom.calFitness();
@@ -259,13 +291,14 @@ public class Population {
 		ArrayList<Chromosom> temparrChrom = new ArrayList<>();
 		int currentMax = arrChrom.size();
 		// add in the firstNode
+		// first 21 is the elite chromosome
 		for (int i = 0; i < currentMax || i < 21; i++) {
 			Chromosom tempChrom = new Chromosom(numCus, numSat, carDem, truckDem, nodeList);
 			Random rand = new Random();
-			for (int j = i + 1; j < currentMax; j++) {
+			for (int j = currentMax - 1; j > i; j--) {
 				double randDouble = rand.nextDouble();
 				if (randDouble < probCross) {
-					int randomInt = rand.nextInt((currentMax) - j) + j;
+					int randomInt = rand.nextInt(j - i) + i + 1;
 					tempChrom = crossOverChromosom(arrChrom.get(i), arrChrom.get(randomInt));
 					if (tempChrom.getFitness() != arrChrom.get(i).getFitness()
 							|| tempChrom.getFitness() != arrChrom.get(randomInt).getFitness()) {
@@ -278,14 +311,12 @@ public class Population {
 	}
 
 	public void mutateAll() {
-		ArrayList<Chromosom> temparrChrom = new ArrayList<>();
 		int currentMax = arrChrom.size();
 		for (int i = 0; i < currentMax || i < 10 * this.iniChrome; i++) {
 			Chromosom toDoChrome = new Chromosom(arrChrom.get(i));
 			Random rand = new Random();
 			double randDouble = rand.nextDouble();
 			if (randDouble < probMutate) {
-
 				Chromosom tempChrom = mutateChromosom(toDoChrome);
 				if (tempChrom.getFitness() != arrChrom.get(i).getFitness()) {
 					arrChrom.add(tempChrom);
@@ -331,14 +362,18 @@ public class Population {
 		// bestChromosom.calTotalDistance();
 	}
 
-	public void testPrint() {
-		for (int i = 0; i < arrChrom.size(); i++) {
-			System.out.print(i + " ");
-			for (int j = 0; j < arrChrom.get(i).getArrNode().size(); j++) {
-				System.out.print(arrChrom.get(i).getArrNode().get(j).getIndex() + "-");
-			}
-			System.out.println("\tTotalDistance : " + arrChrom.get(i).getTotalDistance() + "\tFitness : "
-					+ arrChrom.get(i).getFitness());
+	public void testPrint()  {
+//		for (int i = 0; i < arrChrom.size(); i++) {
+//			System.out.print(i + " ");
+//			for (int j = 0; j < arrChrom.get(i).getArrNode().size(); j++) {
+//				System.out.print(arrChrom.get(i).getArrNode().get(j).getIndex() + "-");
+//			}
+//			System.out.println("\tTotalDistance : " + arrChrom.get(i).getTotalDistance() + "\tFitness : "
+//					+ arrChrom.get(i).getFitness());
+//		}
+		
+		for (int i=0;i<arrChrom.size();i++){
+			arrChrom.get(i).testPrint();
 		}
 	}
 

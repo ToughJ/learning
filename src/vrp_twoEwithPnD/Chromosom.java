@@ -9,17 +9,18 @@ import java.util.Random;
 public class Chromosom {
 	ArrayList<Node> nodeList;
 	ArrayList<Node> arrNode;
-	ArrayList<Integer> truckEnd;
+//	ArrayList<Integer> truckEnd;
 	double totalDistance, fitness;
 	int carCount;
 	int truckCount;
 	double carDemand = 0.0, truckDemand = 0.0;
 	int numCus = 0, numSat = 0;
+	double[] capDem;
 
 	public Chromosom(int numCus, int numSat, double carDem, double truckDem) {
 		arrNode = new ArrayList<>();
 		nodeList = new ArrayList<>();
-		truckEnd = new ArrayList<>();
+//		truckEnd = new ArrayList<>();
 		this.carDemand = carDem;
 		this.truckDemand = truckDem;
 		this.numCus = numCus;
@@ -32,7 +33,7 @@ public class Chromosom {
 
 	public Chromosom(int numCus, int numSat, double carDem, double truckDem, ArrayList<Node> nodeList) {
 		arrNode = new ArrayList<>();
-		truckEnd = new ArrayList<>();
+//		truckEnd = new ArrayList<>();
 		this.nodeList = nodeList;
 		this.carDemand = carDem;
 		this.truckDemand = truckDem;
@@ -51,7 +52,7 @@ public class Chromosom {
 		this.numSat = chrome.numSat;
 		this.arrNode = chrome.arrNode;
 		this.carCount = chrome.carCount;
-		this.truckEnd = chrome.truckEnd;
+//		this.truckEnd = chrome.truckEnd;
 		this.truckCount = chrome.truckCount;
 		this.totalDistance = chrome.totalDistance;
 		this.fitness = chrome.fitness;
@@ -115,6 +116,7 @@ public class Chromosom {
 		return truckCount;
 	}
 
+	// to get where the SAT start in the chromosome
 	public int getSatStart() {
 		boolean[] checkSat = new boolean[numSat + 2];
 		int i = 1;
@@ -135,16 +137,18 @@ public class Chromosom {
 	public void calTotalDistance() {
 		Random rand = new Random();
 		double tempDist = 0, tempTotalDist = 0;
-		double[] capDem = new double[numSat + 2];
+		capDem = new double[numSat + 1];
 
 		carCount = 0;
 		truckCount = 0;
-		truckEnd.clear();
+//		truckEnd.clear();
 		double currentDemand = 0;
 		int start = 0;
-		int index, satStart = getSatStart();
+		int index = 0, satStart = getSatStart();
 		ArrayList<Node> tempArrNode1 = new ArrayList<Node>(), tempArrNode2 = new ArrayList<Node>();
 
+		// in order to know the demand of each satellite, we have to calculate
+		// the car route first
 		int from = satStart, to;
 		if (from < arrNode.size() - 1) {
 			start = Integer.parseInt(arrNode.get(from).index);
@@ -153,13 +157,22 @@ public class Chromosom {
 			while (from < arrNode.size()) {
 				tempDist = 0;
 				to = from + 1;
-
+				if (to < arrNode.size())
+					index = Integer.parseInt(arrNode.get(to).index);
+				// if demand is 0, the node should be a satellite, this
+				// procedure is to admmit the repetitive two satellite, which is
+				// not possible
 				while (to < arrNode.size() && arrNode.get(from).demand == 0 && arrNode.get(to).demand == 0) {
 					to++;
+					if (to < arrNode.size())
+						index = Integer.parseInt(arrNode.get(to).index);
 				}
-				if (to >= arrNode.size())
+				if (to >= arrNode.size()){
+					tempDist += calDistNode(arrNode.get(from), nodeList.get(start));
 					break;
-				index = Integer.parseInt(arrNode.get(to).index);
+				}
+				// if it is still a sattellite, another route arrise. and start
+				// from the "index"
 				if (index <= numSat) {
 					if (to == arrNode.size() - 1)
 						break;
@@ -170,11 +183,15 @@ public class Chromosom {
 					currentDemand = 0;
 					carCountInc();
 				} else {
+					// TODO this one should be change, cause bug arrise during
+					// the route overcapacity
 					if (currentDemand + arrNode.get(to).demand > this.carDemand
 							|| currentDemand + arrNode.get(to).demand < -this.carDemand) {
 						int newStart = rand.nextInt(numSat) + 1;
 						tempArrNode2.add(nodeList.get(newStart));
-						capDem[start] += currentDemand;
+						capDem[start] += currentDemand; // to rememeber the
+														// demand of the
+														// sattelite
 						currentDemand = 0;
 						tempDist += calDistNode(arrNode.get(from), nodeList.get(start))
 								+ calDistNode(arrNode.get(to), nodeList.get(newStart));
@@ -194,44 +211,61 @@ public class Chromosom {
 			totalDistance = tempTotalDist;
 		}
 
+		// a new arrNode to make the truck route at the beginning
 		tempArrNode1.add(arrNode.get(0));
 		start = Integer.parseInt(arrNode.get(0).index);
 		to = 1;
 		from = 0;
 		truckCountInc();
-		while (from < arrNode.size()) {
+		boolean[] tmpFlag = new boolean[numSat+1];
+		while (from < satStart) {
 
 			tempDist = 0;
 			to = from + 1;
-			while (to < arrNode.size() && Integer.parseInt(arrNode.get(from).index) == 0
+			if (to < satStart)
+				index = Integer.parseInt(arrNode.get(to).index);
+			// no consecutive two 0 in line
+			while (to < satStart && Integer.parseInt(arrNode.get(from).index) == 0
 					&& Integer.parseInt(arrNode.get(to).index) == 0) {
 				to++;
+				if (to < satStart)
+					index = Integer.parseInt(arrNode.get(to).index);
 			}
-			if (to >= arrNode.size())
-				break;
-
-			index = Integer.parseInt(arrNode.get(to).index);
-
-			if (index <= numSat && capDem[index] == 0) {
-				tempArrNode1.add(arrNode.get(to));
+			
+			// if the sat is no need, we no need to calculate it or remember it
+			while (to < satStart && index <= numSat && capDem[index] == 0) {
+				// tempArrNode1.add(arrNode.get(to));
 				to++;
-				if (to >= arrNode.size())
+				if (to >= satStart)
 					break;
 				index = Integer.parseInt(arrNode.get(to).index);
 			}
-			if (to >= satStart) {
+			// if the from and the to is the same, skip it 
+			while (to < satStart && index == Integer.parseInt(arrNode.get(from).index)) {
+				to++;
+				if (to < satStart)
+					index = Integer.parseInt(arrNode.get(to).index);
+			}
+
+			if (to >= satStart) { // truck route done
+				for (int k=1;k<=numSat;k++) 
+					if(!tmpFlag[k] && capDem[k] != 0){
+						tempArrNode1.add(nodeList.get(0));
+						tempArrNode1.add(nodeList.get(k));
+					}
 				tempDist += calDistNode(arrNode.get(from), nodeList.get(start));
 				tempTotalDist = tempTotalDist + tempDist;
-				start = index;
-				from = to;
-				tempArrNode1.add(arrNode.get(from));
+				// start = index;
+				// from = to;
+				// tempArrNode1.add(arrNode.get());
 				break;
 			}
 
-			if (currentDemand + arrNode.get(to).demand > this.truckDemand
+			// TODO
+			else if (currentDemand + arrNode.get(to).demand > this.truckDemand
 					|| currentDemand + arrNode.get(to).demand < -this.truckDemand) {
 				currentDemand = 0;
-				truckEnd.add(from);
+//				truckEnd.add(from);
 				tempDist += calDistNode(arrNode.get(from), nodeList.get(0))
 						+ calDistNode(arrNode.get(to), nodeList.get(0));
 				truckCountInc();
@@ -243,7 +277,8 @@ public class Chromosom {
 				currentDemand += capDem[index];
 			tempTotalDist = tempTotalDist + tempDist;
 			tempArrNode1.add(arrNode.get(to));
-			from++;
+			if (index <= numSat) tmpFlag[index] = true;
+			from=to;
 		}
 		totalDistance = tempTotalDist;
 		arrNode.clear();
@@ -265,7 +300,7 @@ public class Chromosom {
 		int start = 0;
 		double[] currentDemand = new double[numSat + 1];
 		this.arrNode.add(nodeList.get(start));
-		int i = 0, j = 0;
+		int i = 0, j = 0; // counter
 		int toCus;
 		while (i < numSat || j < numCus) {
 			if (start == 0) {
@@ -283,14 +318,6 @@ public class Chromosom {
 					toCus = randCusIndex.get(j);
 					j++;
 				}
-				// if (currentDemand[start] + nodeList.get(toCus).demand >
-				// this.truckDemand ||
-				// currentDemand[start] + nodeList.get(toCus).demand <
-				// -this.truckDemand){
-				// currentDemand[start] = 0;
-				// start = rand.nextInt(numSat)+ 1;
-				// this.arrNode.add(nodeList.get(start));
-				// }
 				this.arrNode.add(nodeList.get(toCus));
 			} else if (j < numCus) {
 				toCus = randCusIndex.get(j);
@@ -307,75 +334,43 @@ public class Chromosom {
 		}
 	}
 
-	// private boolean[] flag = new boolean[numCus+numSat+1];
-	// public void createRoute(int start, double[] currentDemand, double
-	// capacity){
-	// Random rand = new Random();
-	// boolean doneFlag = true;
-	// for (int i = 1; i <= numSat+numCus; i++){
-	// if (!flag[i]) {
-	// doneFlag=false;
-	// break;
-	// }
-	// }
-	// if (doneFlag) {
-	// return ;
-	// }
-	// int toCus;
-	// double pro = 0.8;
-	// if (start == 0) pro = 0.2;
-	// do {
-	// double randPro = rand.nextDouble();
-	// if (randPro > pro) {
-	// toCus = rand.nextInt((numSat) - 0) + 1;
-	// }
-	// else {
-	// toCus = rand.nextInt((numCus) - 0) + numSat + 1;
-	// }
-	// }
-	// while (flag[toCus]);
-	// if (toCus > numSat) {
-	// flag[toCus] = true;
-	// if (currentDemand[start] + nodeList.get(toCus).demand > capacity ||
-	// currentDemand[start] + nodeList.get(toCus).demand < -capacity){
-	// currentDemand[start] = 0;
-	// start = rand.nextInt(numSat + 1);
-	// this.arrNode.add(nodeList.get(start));
-	// if (start == 0) capacity = this.truckDemand;
-	// else capacity = this.carDemand;
-	// }
-	// currentDemand[start] += nodeList.get(toCus).demand;
-	// this.arrNode.add(nodeList.get(toCus));
-	// createRoute(start, currentDemand, capacity);
-	// }
-	// else {
-	// if (start == 0){
-	// flag[toCus] = true;
-	//// if (currentDemand[start] + nodeList.get(toCus).demand > this.carDemand
-	// ||
-	//// currentDemand[start] + nodeList.get(toCus).demand < -this.carDemand){
-	//// currentDemand[start] = 0;
-	//// start = rand.nextInt((numSat) - 0);
-	//// this.arrNode.add(nodeList.get(start));
-	//// }
-	//// currentDemand[start] += nodeList.get(toCus).demand;
-	// }
-	// else {
-	// currentDemand[start] = 0;
-	// start = toCus;
-	//
-	// if (start == 0) capacity = this.truckDemand;
-	// else capacity = this.carDemand;
-	// }
-	// this.arrNode.add(nodeList.get(start));
-	// createRoute(start, currentDemand, capacity);
-	// }
-	// }
-
 	public void testPrint() {
+		// for (int i = 0; i < arrNode.size(); i++) {
+		// System.out.println(arrNode.get(i).getIndex() + " " +
+		// arrNode.get(i).getX() + " " + arrNode.get(i).getY()
+		// + " " + arrNode.get(i).getDemand());
+		// }
+		boolean[] flagInPrint = new boolean[nodeList.size()];
+		System.out.println("size is " + arrNode.size());
 		for (int i = 0; i < arrNode.size(); i++) {
-			System.out.println(arrNode.get(i).getIndex() + " " + arrNode.get(i).getX() + " " + arrNode.get(i).getY()
-					+ " " + arrNode.get(i).getDemand());
+			int index = Integer.parseInt(arrNode.get(i).index);
+			if (flagInPrint[index]) {
+				if (index > numSat) {
+					System.err.println("there is some customer node appears more than once");
+//					throw new Exception();
+				} else if (index > 0) {
+					for (int k = 1; k <= numSat; k++) {
+						if (!flagInPrint[k] && capDem[k] != 0) {
+							System.err.println("there is some sattlite node did not appear in truck route");
+//							throw new Exception();
+						}
+					}
+				}
+			}
+			flagInPrint[index] = true;
+
+			System.out.print(arrNode.get(i).getIndex() + "-");
 		}
+		for (int i = 1; i < nodeList.size(); i++) {
+			if (!flagInPrint[i]) {
+				if (i <= numSat && capDem[i] == 0) {
+					continue;
+				} else {
+					System.err.println("there is node did not appear");
+//					throw new Exception();
+				}
+			}
+		}
+		System.out.println();
 	}
 }

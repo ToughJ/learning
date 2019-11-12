@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class FileLoader {
-	public ArrayList<Node> arrNode = new ArrayList();
+	public ArrayList<Node> nodeList = new ArrayList();
 	public int numCus = 0, numSat = 0;
 	public double carDem = 0.0, truckDem = 0.0;
 
@@ -39,22 +39,22 @@ public class FileLoader {
 			tempArrNode.add(tempNode);
 			i++;
 		}
-		arrNode.clear();
-		arrNode.addAll(tempArrNode);
+		nodeList.clear();
+		nodeList.addAll(tempArrNode);
 	}
 
-	public ArrayList<Node> getArrNode() {
-		return arrNode;
+	public ArrayList<Node> getNodeList() {
+		return nodeList;
 	}
 
-	public void setArrNode(ArrayList<Node> arrNode) {
-		this.arrNode = arrNode;
+	public void setNodeList(ArrayList<Node> nodeList) {
+		this.nodeList = nodeList;
 	}
 
 	public void testPrint() {
-		for (int i = 0; i < arrNode.size(); i++) {
-			System.out.println(arrNode.get(i).getIndex() + " " + arrNode.get(i).getX() + " " + arrNode.get(i).getY()
-					+ " " + arrNode.get(i).getDemand());
+		for (int i = 0; i < nodeList.size(); i++) {
+			System.out.println(nodeList.get(i).getIndex() + " " + nodeList.get(i).getX() + " " + nodeList.get(i).getY()
+					+ " " + nodeList.get(i).getDemand());
 		}
 	}
 }

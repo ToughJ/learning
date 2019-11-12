@@ -3,6 +3,8 @@ package vrp_twoEwithPnD;
 import java.util.ArrayList;
 import java.util.Random;
 
+
+//TODO change it, make the sat in truck route not necessary
 //TODO more changing rules  for example  reverse,  the following changing with, only the node and so on
 public class Tabu_search {
 	double TOLERANCE = 0.000001;
@@ -311,9 +313,10 @@ public class Tabu_search {
 						// solution remains unaffected
 						// If afterInd == relIndex - 1 -> this would mean the
 						// solution remains unaffected
-						// this why ??? TODO to check
-						// CHECKED and found that without relIndex-1 is WRONG
-						if (afterToInd != relFromIndex && afterToInd != relFromIndex - 1) {
+						// this why ??? TODO to check   ***maybe this time is right.
+						// CHECKED and found that without these is WRONG
+						// not in the same route is ok
+						if ((fromRoute.ID!=toRoute.ID) || (afterToInd != relFromIndex && afterToInd != relFromIndex - 1)) {
 							// Node F the node after which B is going to be
 							// reinserted
 							Node F = toRoute.nodes.get(afterToInd);
@@ -338,7 +341,7 @@ public class Tabu_search {
 						    	else costAddedFixed = carcost;
 						    }
 						    if (fromRoute.nodes.size()==3 && fromRoute.ID != toRoute.ID) {
-						    	if (toRoute.nodes.get(0).ID ==0) costRemovedFixed = truckcost;
+						    	if (fromRoute.nodes.get(0).ID ==0) costRemovedFixed = truckcost;
 						    	else costRemovedFixed = carcost;
 						    }
 

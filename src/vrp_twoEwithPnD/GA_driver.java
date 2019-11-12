@@ -37,31 +37,36 @@ public class GA_driver {
 	}
 
 	public void setUrlSaveFile(String urlSaveFile) {
-		this.urlSaveFile = urlSaveFile;
+		this.urlSaveFile = "./vrp-data/conference/"+urlSaveFile;
 	}
 
-	public void evolve(int n) throws FileNotFoundException {
+	public void evolve(int n) throws FileNotFoundException  {
 		PrintWriter printer = new PrintWriter(urlSaveFile);
 		for (int i = 0; i < n; i++) {
 			printer.println("====Generation -" + i + "====");
 
 			population.crossOverAll();
+//			population.testPrint();
 			population.mutateAll();
+//			population.testPrint();	
 			population.selectBestChroms(numPop);
 
 			// this.population.bestChromosom.testPrint();
-			int tE = -1;
-			if (tE < this.population.bestChromosom.truckEnd.size() - 1)
-				tE++;
+//			int tE = -1;
+//			if (tE < this.population.bestChromosom.truckEnd.size() - 1)
+//				tE++;
+//			for (int j = 0; j < this.population.bestChromosom.getArrNode().size(); j++) {
+//				printer.print(this.population.bestChromosom.getArrNode().get(j).getIndex() + "-");
+//				if (tE != -1 && j == this.population.bestChromosom.truckEnd.get(tE)) {
+//					printer.print("0-");
+//					if (tE < this.population.bestChromosom.truckEnd.size() - 1)
+//						tE++;
+//					else
+//						tE = -1;
+//				}
+//			}
 			for (int j = 0; j < this.population.bestChromosom.getArrNode().size(); j++) {
 				printer.print(this.population.bestChromosom.getArrNode().get(j).getIndex() + "-");
-				if (tE != -1 && j == this.population.bestChromosom.truckEnd.get(tE)) {
-					printer.print("0-");
-					if (tE < this.population.bestChromosom.truckEnd.size() - 1)
-						tE++;
-					else
-						tE = -1;
-				}
 			}
 			printer.println("\tTotalDistance : " + this.population.bestChromosom.getTotalDistance() + "\tFitness : "
 					+ this.population.bestChromosom.getFitness() + "\tCarUsed : "
