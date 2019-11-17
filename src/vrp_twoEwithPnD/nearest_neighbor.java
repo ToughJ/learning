@@ -8,7 +8,7 @@ public class nearest_neighbor {
 	int numCus = 0, numSat = 0;
 	double carDem = 0.0, truckDem = 0.0;
 	double dem = 0.0;
-	double carcost=100,truckcost=1000;
+	double carcost = 100, truckcost = 1000;
 	int numberOfCars, numberOfTrucks;
 	double[][] distanceMatrix;
 	// initialize solution
@@ -70,7 +70,7 @@ public class nearest_neighbor {
 		numberOfTrucks = (int) (dem / truckDem * 1.5 + 1);
 		for (int i = 1; i <= numberOfCars; i++) {
 			Route route_nodes = new Route();
-			route_nodes.ID = i+numberOfTrucks;
+			route_nodes.ID = i + numberOfTrucks;
 			route_nodes.setCap(carDem);
 			Croutes.add(route_nodes);
 		}
@@ -164,7 +164,10 @@ public class nearest_neighbor {
 			double remaining = Troutes.get(j - 1).capacity;
 			double load = Troutes.get(j - 1).load;
 			nodeSequence.add(nodeList.get(0));
-			while (cos <= numSat && nodeList.get(cos).demand <= remaining) { // satdem[cos] <= remaining
+			// add a constraint here, that is only if the demand of the cos is
+			// not 0, we'll arrange it
+			// satdem[cos] <=remaining
+			while (cos <= numSat && nodeList.get(cos).demand != 0 && nodeList.get(cos).demand <= remaining) {
 				double cost = distanceMatrix[nodeSequence.get(nodeSequence.size() - 1).ID][cos];
 				nodeSequence.add(nodeList.get(cos));
 				s.cost += cost;
@@ -172,7 +175,7 @@ public class nearest_neighbor {
 				load += nodeList.get(cos).demand;
 				Troutes.get(j - 1).cost += cost;
 				Troutes.get(j - 1).load = load;
-				Troutes.get(j - 1).capacity = remaining;
+//				Troutes.get(j - 1).capacity = remaining;
 				cos++;
 			}
 			double cost = distanceMatrix[nodeSequence.get(nodeSequence.size() - 1).ID][0];
@@ -180,15 +183,16 @@ public class nearest_neighbor {
 			s.cost += cost;
 			Troutes.get(j - 1).cost += cost;
 		}
-		s.distance=s.cost;
+		s.distance = s.cost;
 		// the fixed cost of cars and trucks;
-		for (int i =0; i< numberOfCars;i++){
-			if (s.crt.get(i).nodes.size()>2)  s.cost+=carcost;
+		for (int i = 0; i < numberOfCars; i++) {
+			if (s.crt.get(i).nodes.size() > 2)
+				s.cost += carcost;
 		}
-		for (int i =0; i< numberOfTrucks;i++){
-			if (s.trt.get(i).nodes.size()>2)  s.cost+=truckcost;
+		for (int i = 0; i < numberOfTrucks; i++) {
+			if (s.trt.get(i).nodes.size() > 2)
+				s.cost += truckcost;
 		}
-
 
 		// Print the results of the VRP
 		for (int j = 0; j < numberOfTrucks; j++)

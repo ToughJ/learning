@@ -3,19 +3,18 @@ package vrp_twoEwithPnD;
 import java.util.ArrayList;
 import java.util.Random;
 
-
 //TODO change it, make the sat in truck route not necessary
 //TODO more changing rules  for example  reverse,  the following changing with, only the node and so on
 public class Tabu_search {
 	double TOLERANCE = 0.000001;
-	double taburand = 0.3;
+	double taburand = 0.4;
 	int[][] tabuArcs;
 	int TABU;
 	Random globalRandom = new Random(1);
 	int MAX_ITERATIONS = 200;
-	
-	double carcost=100,truckcost=1000;
-	
+
+	double carcost = 100, truckcost = 1000;
+
 	// a flag to show if this iter tabu works?
 	boolean ifTabu = false;
 
@@ -53,7 +52,7 @@ public class Tabu_search {
 		for (int i = 0; i < nodeList.size(); i++) {
 			Node from = nodeList.get(i);
 
-			for (int j = 0; j < nodeList.size(); j++) {
+			for (int j = i; j < nodeList.size(); j++) {
 				Node to = nodeList.get(j);
 
 				double Delta_x = (from.x - to.x);
@@ -63,6 +62,7 @@ public class Tabu_search {
 				distance = Math.round(distance);
 
 				distanceMatrix[i][j] = distance;
+				distanceMatrix[j][i] = distance;
 
 			}
 		}
@@ -106,7 +106,7 @@ public class Tabu_search {
 		int bestsolutioniter = 0; // tag1
 
 		// the TABU horizon: for how many iterations something declared tabu
-		TABU = 18;
+		TABU = 80;
 
 		// This will hold an object containing the best solution found through
 		// the search process
@@ -141,26 +141,74 @@ public class Tabu_search {
 			findBestRelocationMove(rm, s, distanceMatrix, tabuSearchIterator, bestSolution, numberOfCars,
 					numberOfTrucks);
 			if (ifTabu) {
-			applyRelocationMove(rm, s, distanceMatrix, tabuSearchIterator);
-			// renew the demand of each sat
-			for (int i = 0; i < numSat; i++)
-				nodeList.get(i + 1).demand = 0;
-			for (int i = 0; i < numberOfCars; i++) {
-				Node dep = s.crt.get(i).nodes.get(0);
-				for (Node node : s.crt.get(i).nodes)
-					if (dep.ID != node.ID) {
-						dep.demand += node.demand;
-					}
-			}
+				applyRelocationMove(rm, s, distanceMatrix, tabuSearchIterator);
+				// renew the demand of each sat
+				for (int i = 0; i < numSat; i++)
+					nodeList.get(i + 1).demand = 0;
+				for (int i = 0; i < numberOfCars; i++) {
+					Node dep = s.crt.get(i).nodes.get(0);
+					for (Node node : s.crt.get(i).nodes)
+						if (dep.ID != node.ID) {
+							dep.demand += node.demand;
+						}
+				}
+				// we should check if any sat not in any truck route, but after
+				// the removing, the demand is not 0 anymore. ADD it in.
+				// AND delete some sat, if don;t need to put in the truck route.
+				boolean[] tmpFlag = new boolean[numSat + 1];
+				for (int i = 0; i < numberOfTrucks; i++) {
 
-			if (s.cost < bestSolution.cost - TOLERANCE) {
-				bestSolution = cloneSolution(s);
-				bestsolutioniter = tabuSearchIterator;
-			}
-			System.out.println("Iteration: " + tabuSearchIterator + " Best Cost: " + bestSolution.cost
-					+ " Current Cost: " + s.cost);
-			}
-			else {
+					for (int j = 1; j < s.trt.get(i).nodes.size() - 1; j++) {
+						Node node = s.trt.get(i).nodes.get(j);
+						if (node.ID <= numSat && node.ID > 0) {
+							tmpFlag[node.ID] = true;
+							if (nodeList.get(node.ID).demand == 0) {
+								double disChanging = -distanceMatrix[node.ID][s.trt.get(i).nodes.get(j - 1).ID]
+										- distanceMatrix[node.ID][s.trt.get(i).nodes.get(j + 1).ID]
+										+ distanceMatrix[s.trt.get(i).nodes.get(j - 1).ID][s.trt.get(i).nodes
+												.get(j + 1).ID];
+								s.trt.get(i).cost += disChanging;
+								s.distance += disChanging;
+								double costChanging = disChanging;
+								if(s.trt.get(i).nodes.size() ==3) costChanging -= truckcost;
+								s.cost += costChanging;
+								s.trt.get(i).nodes.remove(j);
+								j--;
+								tmpFlag[node.ID] = false;
+							}
+						}
+					}
+				}
+				for (int i = 1; i <= numSat; i++) {
+					if (!tmpFlag[i] && nodeList.get(i).demand != 0) {
+						// find a truck route to added it in.
+						for (int j = 0; j < numberOfTrucks; j++) {
+							if (s.trt.get(j).capacity >= s.trt.get(j).load + nodeList.get(i).demand) {
+								double disChanging = distanceMatrix[i][s.trt.get(j).nodes
+										.get(s.trt.get(j).nodes.size() - 2).ID]
+										+ distanceMatrix[i][s.trt.get(j).nodes.get(s.trt.get(j).nodes.size() - 1).ID]
+										- distanceMatrix[s.trt.get(j).nodes
+												.get(s.trt.get(j).nodes.size() - 1).ID][s.trt.get(j).nodes
+														.get(s.trt.get(j).nodes.size() - 2).ID];
+								s.trt.get(j).cost += disChanging;
+								s.distance += disChanging;
+								double costChanging = disChanging;
+								if (s.trt.get(j).nodes.size() == 2)
+									costChanging += truckcost;
+								s.cost += costChanging;
+								s.trt.get(j).nodes.add(s.trt.get(j).nodes.size() - 1, nodeList.get(i));
+							}
+						}
+					}
+				}
+
+				if (s.cost < bestSolution.cost - TOLERANCE) {
+					bestSolution = cloneSolution(s);
+					bestsolutioniter = tabuSearchIterator;
+				}
+				System.out.println("Iteration: " + tabuSearchIterator + " Best Cost: " + bestSolution.cost
+						+ " Current Cost: " + s.cost);
+			} else {
 				System.out.println("Iteration: " + tabuSearchIterator + " Best Cost: " + bestSolution.cost
 						+ " Current Cost: " + s.cost + " No imporving or changing!!! this iter");
 			}
@@ -177,8 +225,8 @@ public class Tabu_search {
 					System.out.print(bestSolution.trt.get(j).nodes.get(k).ID + "  ");
 				}
 				System.out.println("");
-				System.out.println(
-						"Truck Route Cost: " + s.trt.get(j).cost + " - Truck Route Load: " + bestSolution.trt.get(j).load);
+				System.out.println("Truck Route Cost: " + bestSolution.trt.get(j).cost + " - Truck Route Load: "
+						+ bestSolution.trt.get(j).load);
 				System.out.println("");
 
 			}
@@ -190,7 +238,8 @@ public class Tabu_search {
 					System.out.print(bestSolution.crt.get(j).nodes.get(k).ID + "  ");
 				}
 				System.out.println("");
-				System.out.println("Car Route Cost: " + bestSolution.crt.get(j).cost + " - Car Route Load: " + bestSolution.crt.get(j).load);
+				System.out.println("Car Route Cost: " + bestSolution.crt.get(j).cost + " - Car Route Load: "
+						+ bestSolution.crt.get(j).load);
 				System.out.println("");
 
 			}
@@ -206,8 +255,27 @@ public class Tabu_search {
 
 		out.cost = sol.cost;
 		out.distance = sol.distance;
-		out.crt = (ArrayList<Route>) sol.crt.clone();
-		out.trt = (ArrayList<Route>) sol.trt.clone();
+		
+		for (int i = 0;i<sol.crt.size();i++){
+			out.crt.add(new Route());
+			for (Node node : sol.crt.get(i).nodes){
+				out.crt.get(i).nodes.add(node);
+			}
+			out.crt.get(i).capacity=sol.crt.get(i).capacity;
+			out.crt.get(i).cost=sol.crt.get(i).cost;
+			out.crt.get(i).load=sol.crt.get(i).load;
+			out.crt.get(i).ID=sol.crt.get(i).ID;
+		}
+		for (int i = 0;i<sol.trt.size();i++){
+			out.trt.add(new Route());
+			for (Node node : sol.trt.get(i).nodes){
+				out.trt.get(i).nodes.add(node);
+			}
+			out.trt.get(i).capacity=sol.trt.get(i).capacity;
+			out.trt.get(i).cost=sol.trt.get(i).cost;
+			out.trt.get(i).load=sol.trt.get(i).load;
+			out.trt.get(i).ID=sol.trt.get(i).ID;
+		}
 		return out;
 	}
 
@@ -232,6 +300,8 @@ public class Tabu_search {
 			double org = distanceMatrix[dep][aRoute.nodes.get(1).ID]
 					+ distanceMatrix[dep][aRoute.nodes.get(aRoute.nodes.size() - 2).ID];
 			aRoute.cost = aRoute.cost - org;
+			s.distance -= org;
+			s.cost-= org;
 			for (int j = 1; j <= numSat; j++)
 				if (j != dep) {
 					if (distanceMatrix[j][aRoute.nodes.get(1).ID]
@@ -248,6 +318,8 @@ public class Tabu_search {
 				aRoute.nodes.add(0, nodeList.get(ans));
 			}
 			aRoute.cost = aRoute.cost + org;
+			s.distance += org;
+			s.cost+= org;
 		}
 
 		// We will iterate through all available nodes to be relocated
@@ -313,10 +385,12 @@ public class Tabu_search {
 						// solution remains unaffected
 						// If afterInd == relIndex - 1 -> this would mean the
 						// solution remains unaffected
-						// this why ??? TODO to check   ***maybe this time is right.
+						// this why ??? TODO to check ***maybe this time is
+						// right.
 						// CHECKED and found that without these is WRONG
 						// not in the same route is ok
-						if ((fromRoute.ID!=toRoute.ID) || (afterToInd != relFromIndex && afterToInd != relFromIndex - 1)) {
+						if ((fromRoute.ID != toRoute.ID)
+								|| (afterToInd != relFromIndex && afterToInd != relFromIndex - 1)) {
 							// Node F the node after which B is going to be
 							// reinserted
 							Node F = toRoute.nodes.get(afterToInd);
@@ -333,17 +407,21 @@ public class Tabu_search {
 							double costAddedFrom = distanceMatrix[A.ID][C.ID];
 							double costAddedTo = distanceMatrix[F.ID][B.ID] + distanceMatrix[B.ID][G.ID];
 							// double costAdded = costAdded1 + costAdded2;
-							
+
 							// fixed cost to check the fixed cost change
-							double costAddedFixed=0,costRemovedFixed=0;
-						    if (toRoute.nodes.size()==2) {
-						    	if (toRoute.nodes.get(0).ID ==0) costAddedFixed = truckcost;
-						    	else costAddedFixed = carcost;
-						    }
-						    if (fromRoute.nodes.size()==3 && fromRoute.ID != toRoute.ID) {
-						    	if (fromRoute.nodes.get(0).ID ==0) costRemovedFixed = truckcost;
-						    	else costRemovedFixed = carcost;
-						    }
+							double costAddedFixed = 0, costRemovedFixed = 0;
+							if (toRoute.nodes.size() == 2) {
+								if (toRoute.nodes.get(0).ID == 0)
+									costAddedFixed = truckcost;
+								else
+									costAddedFixed = carcost;
+							}
+							if (fromRoute.nodes.size() == 3 && fromRoute.ID != toRoute.ID) {
+								if (fromRoute.nodes.get(0).ID == 0)
+									costRemovedFixed = truckcost;
+								else
+									costRemovedFixed = carcost;
+							}
 
 							// This is the cost of the move, or in other words
 							// the change that this move will cause if applied
@@ -380,7 +458,7 @@ public class Tabu_search {
 									rm.positionToBeInserted = afterToInd;
 									rm.moveCostTo = moveCostTo;
 									rm.moveCostFrom = moveCostFrom;
-									rm.movefixedcost= costAddedFixed-costRemovedFixed;
+									rm.movefixedcost = costAddedFixed - costRemovedFixed;
 									rm.fromRoute = fromRoute;
 									rm.toRoute = toRoute;
 									rm.moveCost = moveCost;
@@ -479,7 +557,7 @@ public class Tabu_search {
 		// update the cost of the solution and the corresponding cost of the
 		// route object in the solution
 		s.cost = s.cost + rm.moveCost;
-		s.distance = s.distance + rm.moveCostTo+rm.moveCostFrom;
+		s.distance = s.distance + rm.moveCostTo + rm.moveCostFrom;
 		rm.toRoute.cost = rm.toRoute.cost + rm.moveCostTo;
 		rm.fromRoute.cost = rm.fromRoute.cost + rm.moveCostFrom;
 		if (rm.toRoute.ID != rm.fromRoute.ID) {
@@ -491,7 +569,6 @@ public class Tabu_search {
 	}
 
 }// end
-
 
 class Arc {
 	int n1;

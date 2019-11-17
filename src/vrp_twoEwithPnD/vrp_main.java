@@ -8,7 +8,7 @@ public class vrp_main {
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 
 		FileLoader fL = new FileLoader();
-		fL.loadNodeInfo("./vrp-data/conference/data-info- 2.txt");
+		fL.loadNodeInfo("./vrp-data/conference/data-info- 5.txt");
 		
 //		// GA
 //		// fL.testPrint();
