@@ -1,10 +1,14 @@
 ToD 0 : 
-HGH --> CAN  weekday : 3 time : 11:35 -- 13:45
+TYN --> LYI  weekday : 7 time : 11:15 -- 12:50
+LYI --> HGH  weekday : 7 time : 13:35 -- 14:50
+HGH --> HZG  weekday : 7 time : 15:55 -- 18:25
+HZG --> HGH  weekday : 7 time : 21:20 -- 23:30
 ToD 1 : 
-CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
-HGH --> PEK  weekday : 4 time : 23:30 -- 01:50
+HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
 ToD 2 : 
-PEK --> HGH  weekday : 6 time : 08:20 -- 10:35
+CAN --> NGB  weekday : 2 time : 06:10 -- 08:20
 ToD 3 : 
-CTU --> HGH  weekday : 7 time : 05:40 -- 08:25
-HGH --> CTU  weekday : 6 time : 23:55 -- 03:00
+HGH --> LYI  weekday : 3 time : 06:25 -- 07:55
+LYI --> TYN  weekday : 3 time : 08:40 -- 10:20
+NGB --> CAN  weekday : 2 time : 23:05 -- 01:25
+CAN --> HGH  weekday : 3 time : 02:25 -- 04:35

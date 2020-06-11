@@ -1,12 +1,20 @@
-tod_num :1397
-Sec: 453  Plane index : 13  WNZ --> ENY  weekday : 4 time : 17:00 -- 19:55
-Sec: 460  Plane index : 13  ENY --> XIY  weekday : 4 time : 21:15 -- 22:10
-Sec: 509  Plane index : 15  XIY --> BFJ  weekday : 6 time : 06:55 -- 08:50
-Sec: 516  Plane index : 15  BFJ --> ZUH  weekday : 6 time : 10:40 -- 12:40
-Sec: 1216  Plane index : 34  ZUH --> CSX  weekday : 6 time : 14:10 -- 15:45
-Sec: 1181  Plane index : 33  CSX --> WNZ  weekday : 7 time : 11:35 -- 13:10
-Sec: 1188  Plane index : 33  WNZ --> CJU  weekday : 7 time : 15:00 -- 17:00
-Sec: 1195  Plane index : 33  CJU --> WNZ  weekday : 7 time : 20:45 -- 22:45
+from last week
+tod_num : 1522
+Sec: 579  Plane index: 17  KMG --> LYI  weekday: 6 time: 08:50 -- 12:05
+Sec: 586  Plane index: 17  LYI --> CGQ  weekday: 6 time: 12:55 -- 15:05
+Sec: 593  Plane index: 17  CGQ --> LYI  weekday: 6 time: 16:00 -- 18:15
+Sec: 587  Plane index: 17  LYI --> CGQ  weekday: 7 time: 12:55 -- 15:05
+Sec: 560  Plane index: 16  CGQ --> INC  weekday: 1 time: 16:30 -- 19:40
+Sec: 567  Plane index: 16  INC --> KMG  weekday: 1 time: 21:45 -- 00:30
 two days off
 
+tod_num : 948
+Sec: 551  Plane index: 16  KMG --> INC  weekday: 6 time: 07:35 -- 10:20
+Sec: 558  Plane index: 16  INC --> CGQ  weekday: 6 time: 11:35 -- 14:20
+Sec: 593  Plane index: 17  CGQ --> LYI  weekday: 6 time: 16:00 -- 18:15
+Sec: 226  Plane index: 7  LYI --> TYN  weekday: 7 time: 08:40 -- 10:20
+Sec: 233  Plane index: 7  TYN --> LYI  weekday: 7 time: 11:15 -- 12:50
+Sec: 581  Plane index: 17  LYI --> CGQ  weekday: 1 time: 12:55 -- 15:05
+Sec: 588  Plane index: 17  CGQ --> LYI  weekday: 1 time: 16:00 -- 18:15
+Sec: 595  Plane index: 17  LYI --> KMG  weekday: 1 time: 19:00 -- 22:20
 two days off

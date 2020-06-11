@@ -1,15 +1,15 @@
-tod_num :1346
-Sec: 103  Plane index : 4  WUT --> BAV  weekday : 1 time : 09:55 -- 11:00
-Sec: 110  Plane index : 4  BAV --> WUT  weekday : 1 time : 20:40 -- 21:45
-Sec: 1037  Plane index : 28  WUT --> HRB  weekday : 2 time : 21:50 -- 00:15
-Sec: 1017  Plane index : 28  HRB --> WUT  weekday : 4 time : 10:50 -- 13:45
+tod_num : 1370
+Sec: 1111  Plane index: 31  LJG --> HJJ  weekday: 1 time: 20:10 -- 22:10
+Sec: 1118  Plane index: 31  HJJ --> HGH  weekday: 1 time: 22:55 -- 00:50
+Sec: 1132  Plane index: 32  HGH --> AVA  weekday: 3 time: 07:15 -- 10:00
+Sec: 1139  Plane index: 32  AVA --> LJG  weekday: 3 time: 10:45 -- 12:15
 two days off
 
-tod_num :821
-Sec: 1051  Plane index : 29  WUT --> HAK  weekday : 7 time : 11:05 -- 14:10
-Sec: 1058  Plane index : 29  HAK --> WUT  weekday : 7 time : 15:30 -- 18:35
-Sec: 1065  Plane index : 29  WUT --> HRB  weekday : 7 time : 19:20 -- 21:55
-Sec: 1013  Plane index : 28  HRB --> XUZ  weekday : 1 time : 10:50 -- 13:25
-Sec: 1020  Plane index : 28  XUZ --> ZUH  weekday : 1 time : 14:10 -- 16:45
-Sec: 1030  Plane index : 28  ZUH --> WUT  weekday : 2 time : 18:10 -- 21:05
+tod_num : 986
+Sec: 1151  Plane index: 32  LJG --> SGN  weekday: 6 time: 12:45 -- 16:15
+Sec: 1158  Plane index: 32  SGN --> LJG  weekday: 6 time: 17:15 -- 20:25
+Sec: 1148  Plane index: 32  LJG --> HAN  weekday: 7 time: 13:00 -- 15:05
+Sec: 1155  Plane index: 32  HAN --> LJG  weekday: 7 time: 16:05 -- 18:00
+Sec: 1149  Plane index: 32  LJG --> SGN  weekday: 2 time: 12:45 -- 16:15
+Sec: 1156  Plane index: 32  SGN --> LJG  weekday: 2 time: 17:15 -- 20:25
 two days off

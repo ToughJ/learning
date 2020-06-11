@@ -1,10 +1,12 @@
 ToD 0 : 
-JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
-CKG --> JIQ  weekday : 7 time : 13:20 -- 14:15
+XNN --> HGH  weekday : 6 time : 21:40 -- 00:35
+HGH --> HIA  weekday : 6 time : 13:00 -- 14:20
+HIA --> XNN  weekday : 6 time : 15:05 -- 18:00
 ToD 1 : 
-JIQ --> CKG  weekday : 3 time : 17:20 -- 18:15
-CKG --> JIQ  weekday : 3 time : 19:20 -- 20:15
-JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
-CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+HGH --> CKG  weekday : 7 time : 18:05 -- 20:35
 ToD 2 : 
+CKG --> JIQ  weekday : 2 time : 13:20 -- 14:15
+JIQ --> HGH  weekday : 2 time : 15:00 -- 17:10
 ToD 3 : 
+HGH --> UYN  weekday : 3 time : 06:25 -- 08:55
+UYN --> HGH  weekday : 3 time : 09:45 -- 12:05

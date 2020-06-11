@@ -1,18 +1,19 @@
-tod_num :1404
-Sec: 92  Plane index : 3  URC --> XIY  weekday : 1 time : 02:45 -- 05:55
-Sec: 505  Plane index : 15  XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
-Sec: 512  Plane index : 15  BFJ --> ZUH  weekday : 2 time : 10:40 -- 12:40
-Sec: 1214  Plane index : 34  ZUH --> CSX  weekday : 2 time : 14:10 -- 15:45
-Sec: 374  Plane index : 11  CSX --> HGH  weekday : 3 time : 15:25 -- 17:00
-Sec: 85  Plane index : 3  HGH --> INC  weekday : 3 time : 18:55 -- 21:55
-Sec: 89  Plane index : 3  INC --> URC  weekday : 3 time : 22:30 -- 01:45
+tod_num : 1382
+Sec: 1048  Plane index: 29  WUT --> HAK  weekday: 1 time: 11:05 -- 14:10
+Sec: 1055  Plane index: 29  HAK --> WUT  weekday: 1 time: 15:30 -- 18:35
+Sec: 1062  Plane index: 29  WUT --> HRB  weekday: 1 time: 19:20 -- 21:55
+Sec: 1016  Plane index: 28  HRB --> WUT  weekday: 2 time: 10:50 -- 13:45
+Sec: 1023  Plane index: 28  WUT --> ZUH  weekday: 2 time: 14:30 -- 17:25
+Sec: 1030  Plane index: 28  ZUH --> WUT  weekday: 2 time: 18:10 -- 21:05
+Sec: 104  Plane index: 4  WUT --> BAV  weekday: 3 time: 09:55 -- 11:00
+Sec: 111  Plane index: 4  BAV --> WUT  weekday: 3 time: 20:40 -- 21:45
 two days off
 
-tod_num :1098
-Sec: 95  Plane index : 3  URC --> XIY  weekday : 7 time : 02:45 -- 05:55
-Sec: 666  Plane index : 19  XIY --> HET  weekday : 1 time : 11:55 -- 13:45
-Sec: 673  Plane index : 19  HET --> CIF  weekday : 1 time : 14:30 -- 15:55
-Sec: 680  Plane index : 19  CIF --> HET  weekday : 1 time : 20:20 -- 21:40
-Sec: 687  Plane index : 19  HET --> XIY  weekday : 1 time : 22:25 -- 00:15
-Sec: 695  Plane index : 19  XIY --> URC  weekday : 3 time : 02:00 -- 05:25
+tod_num : 821
+Sec: 1051  Plane index: 29  WUT --> HAK  weekday: 7 time: 11:05 -- 14:10
+Sec: 1058  Plane index: 29  HAK --> WUT  weekday: 7 time: 15:30 -- 18:35
+Sec: 1065  Plane index: 29  WUT --> HRB  weekday: 7 time: 19:20 -- 21:55
+Sec: 1013  Plane index: 28  HRB --> XUZ  weekday: 1 time: 10:50 -- 13:25
+Sec: 1020  Plane index: 28  XUZ --> ZUH  weekday: 1 time: 14:10 -- 16:45
+Sec: 1030  Plane index: 28  ZUH --> WUT  weekday: 2 time: 18:10 -- 21:05
 two days off

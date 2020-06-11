@@ -1,12 +1,17 @@
-tod_num :1262
-Sec: 788  Plane index : 22  DLC --> NBS  weekday : 4 time : 12:00 -- 13:20
-Sec: 795  Plane index : 22  NBS --> DLC  weekday : 4 time : 14:05 -- 15:30
-Sec: 783  Plane index : 22  DLC --> DTU  weekday : 5 time : 12:00 -- 14:05
-Sec: 790  Plane index : 22  DTU --> DLC  weekday : 5 time : 14:50 -- 16:55
-Sec: 756  Plane index : 21  DLC --> ENY  weekday : 5 time : 20:50 -- 23:00
-Sec: 736  Plane index : 21  ENY --> DLC  weekday : 7 time : 09:10 -- 11:00
-Sec: 746  Plane index : 21  DLC --> XNN  weekday : 7 time : 12:00 -- 14:40
-Sec: 753  Plane index : 21  XNN --> DLC  weekday : 7 time : 15:25 -- 18:10
+tod_num : 1210
+Sec: 1171  Plane index: 33  WNZ --> KOS  weekday: 1 time: 10:45 -- 15:00
+Sec: 1178  Plane index: 33  KOS --> WNZ  weekday: 1 time: 16:00 -- 19:40
+Sec: 416  Plane index: 12  WNZ --> KMG  weekday: 2 time: 17:15 -- 20:20
+Sec: 423  Plane index: 12  KMG --> WNZ  weekday: 2 time: 21:25 -- 00:15
+Sec: 1190  Plane index: 33  WNZ --> CJU  weekday: 4 time: 18:35 -- 20:35
+Sec: 1197  Plane index: 33  CJU --> WNZ  weekday: 4 time: 21:35 -- 23:35
 two days off
 
+tod_num : 825
+Sec: 440  Plane index: 13  WNZ --> KWE  weekday: 7 time: 07:15 -- 09:50
+Sec: 447  Plane index: 13  KWE --> WNZ  weekday: 7 time: 10:50 -- 13:15
+Sec: 448  Plane index: 13  WNZ --> XFN  weekday: 1 time: 14:45 -- 16:35
+Sec: 455  Plane index: 13  XFN --> CTU  weekday: 1 time: 17:20 -- 19:25
+Sec: 462  Plane index: 13  CTU --> XFN  weekday: 1 time: 20:25 -- 22:15
+Sec: 469  Plane index: 13  XFN --> WNZ  weekday: 1 time: 23:00 -- 00:45
 two days off

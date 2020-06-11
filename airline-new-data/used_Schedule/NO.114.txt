@@ -1,20 +1,22 @@
-tod_num :1208
-Sec: 160  Plane index : 5  HGH --> WEH  weekday : 1 time : 20:05 -- 22:00
-Sec: 167  Plane index : 5  WEH --> CGQ  weekday : 1 time : 22:45 -- 00:25
-Sec: 561  Plane index : 16  CGQ --> INC  weekday : 3 time : 16:30 -- 19:40
-Sec: 569  Plane index : 16  INC --> KMG  weekday : 3 time : 21:45 -- 00:30
-Sec: 550  Plane index : 16  KMG --> INC  weekday : 5 time : 07:35 -- 10:20
-Sec: 81  Plane index : 3  INC --> HGH  weekday : 5 time : 14:10 -- 16:50
+from last week
+tod_num : 1063
+Sec: 465  Plane index: 13  CTU --> XFN  weekday: 7 time: 20:25 -- 22:15
+Sec: 472  Plane index: 13  XFN --> WNZ  weekday: 7 time: 23:00 -- 00:45
+Sec: 1175  Plane index: 33  WNZ --> CGO  weekday: 2 time: 08:25 -- 10:35
+Sec: 1182  Plane index: 33  CGO --> WNZ  weekday: 2 time: 11:35 -- 13:40
+Sec: 452  Plane index: 13  WNZ --> ENY  weekday: 2 time: 17:00 -- 19:55
+Sec: 763  Plane index: 21  ENY --> CTU  weekday: 4 time: 00:25 -- 02:05
 two days off
 
-tod_num :893
-Sec: 87  Plane index : 3  HGH --> INC  weekday : 7 time : 18:55 -- 21:55
-Sec: 553  Plane index : 16  INC --> CGQ  weekday : 1 time : 11:35 -- 14:20
-Sec: 560  Plane index : 16  CGQ --> INC  weekday : 1 time : 16:30 -- 19:40
-Sec: 554  Plane index : 16  INC --> CGQ  weekday : 2 time : 11:35 -- 14:20
-Sec: 234  Plane index : 7  CGQ --> WEH  weekday : 2 time : 18:50 -- 20:30
-Sec: 833  Plane index : 23  WEH --> NGB  weekday : 3 time : 13:40 -- 15:25
-Sec: 839  Plane index : 23  NGB --> KOW  weekday : 3 time : 17:45 -- 19:20
-Sec: 846  Plane index : 23  KOW --> KWE  weekday : 3 time : 20:05 -- 22:05
-Sec: 854  Plane index : 23  KWE --> HGH  weekday : 3 time : 22:55 -- 01:10
+tod_num : 506
+Sec: 774  Plane index: 22  CTU --> TNA  weekday: 6 time: 06:25 -- 09:00
+Sec: 781  Plane index: 22  TNA --> DLC  weekday: 6 time: 09:50 -- 11:00
+Sec: 787  Plane index: 22  DLC --> NZL  weekday: 6 time: 12:00 -- 14:05
+Sec: 794  Plane index: 22  NZL --> DLC  weekday: 6 time: 14:50 -- 16:50
+Sec: 785  Plane index: 22  DLC --> NZH  weekday: 7 time: 12:00 -- 14:30
+Sec: 792  Plane index: 22  NZH --> DLC  weekday: 7 time: 15:15 -- 17:35
+Sec: 799  Plane index: 22  DLC --> HDG  weekday: 7 time: 20:10 -- 21:45
+Sec: 775  Plane index: 22  HDG --> DLC  weekday: 1 time: 09:15 -- 11:00
+Sec: 800  Plane index: 22  DLC --> TNA  weekday: 2 time: 20:50 -- 22:05
+Sec: 807  Plane index: 22  TNA --> CTU  weekday: 2 time: 22:55 -- 01:25
 two days off

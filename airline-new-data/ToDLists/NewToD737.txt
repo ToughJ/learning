@@ -1,6 +1,10 @@
 ToD 0 : 
-JIQ --> CKG  weekday : 3 time : 17:20 -- 18:15
-CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+MIG --> HGH  weekday : 5 time : 18:35 -- 21:05
 ToD 1 : 
+PEK --> HGH  weekday : 7 time : 08:20 -- 10:35
+HGH --> PEK  weekday : 6 time : 23:30 -- 01:50
 ToD 2 : 
+HGH --> CAN  weekday : 1 time : 02:00 -- 04:10
 ToD 3 : 
+HGH --> MIG  weekday : 2 time : 07:15 -- 10:05
+CAN --> HGH  weekday : 2 time : 02:25 -- 04:35

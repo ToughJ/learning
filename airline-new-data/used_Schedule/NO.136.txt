@@ -1,19 +1,9 @@
-tod_num :1286
-Sec: 761  Plane index : 21  ENY --> CTU  weekday : 1 time : 00:25 -- 02:05
-Sec: 768  Plane index : 22  CTU --> HDG  weekday : 1 time : 06:25 -- 08:30
-Sec: 775  Plane index : 22  HDG --> DLC  weekday : 1 time : 09:15 -- 11:00
-Sec: 741  Plane index : 21  DLC --> XNN  weekday : 2 time : 12:00 -- 14:40
-Sec: 748  Plane index : 21  XNN --> DLC  weekday : 2 time : 15:25 -- 18:10
-Sec: 742  Plane index : 21  DLC --> XNN  weekday : 3 time : 12:00 -- 14:40
-Sec: 749  Plane index : 21  XNN --> DLC  weekday : 3 time : 15:25 -- 18:10
-Sec: 755  Plane index : 21  DLC --> ENY  weekday : 3 time : 20:50 -- 23:00
+tod_num : 1239
+Sec: 211  Plane index: 6  JIQ --> HGH  weekday: 3 time: 21:20 -- 23:20
+Sec: 220  Plane index: 7  HGH --> WEH  weekday: 4 time: 13:05 -- 15:00
+Sec: 835  Plane index: 23  WEH --> NGB  weekday: 5 time: 13:40 -- 15:25
+Sec: 1244  Plane index: 35  NGB --> CAN  weekday: 6 time: 23:05 -- 01:25
+Sec: 1251  Plane index: 35  CAN --> HGH  weekday: 7 time: 02:25 -- 04:35
+Sec: 135  Plane index: 5  HGH --> JIQ  weekday: 7 time: 06:50 -- 09:10
 two days off
 
-tod_num :1068
-Sec: 764  Plane index : 21  ENY --> CTU  weekday : 6 time : 00:25 -- 02:05
-Sec: 732  Plane index : 21  CTU --> ENH  weekday : 6 time : 05:55 -- 07:15
-Sec: 739  Plane index : 21  ENH --> DLC  weekday : 6 time : 08:35 -- 11:00
-Sec: 740  Plane index : 21  DLC --> XNN  weekday : 1 time : 12:00 -- 14:40
-Sec: 747  Plane index : 21  XNN --> DLC  weekday : 1 time : 15:25 -- 18:10
-Sec: 754  Plane index : 21  DLC --> ENY  weekday : 1 time : 20:50 -- 23:00
-two days off

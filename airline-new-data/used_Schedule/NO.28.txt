@@ -1,25 +1,20 @@
 from last week
-tod_num :108
-Sec: 1014  Plane index : 28  HRB --> XUZ  weekday : 3 time : 10:50 -- 13:25
-Sec: 15  Plane index : 1  XUZ --> HRB  weekday : 3 time : 15:10 -- 17:40
-Sec: 974  Plane index : 27  HRB --> HGH  weekday : 4 time : 06:40 -- 10:00
-Sec: 261  Plane index : 8  HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
-Sec: 268  Plane index : 8  CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
-Sec: 1010  Plane index : 28  HGH --> HRB  weekday : 5 time : 06:35 -- 10:00
-Sec: 1015  Plane index : 28  HRB --> XUZ  weekday : 5 time : 10:50 -- 13:25
-Sec: 1022  Plane index : 28  XUZ --> ZUH  weekday : 5 time : 14:10 -- 16:45
-Sec: 1032  Plane index : 28  ZUH --> WUT  weekday : 6 time : 18:10 -- 21:05
-Sec: 1039  Plane index : 28  WUT --> HRB  weekday : 6 time : 21:50 -- 00:15
+tod_num : 83
+Sec: 1205  Plane index: 34  CSX --> NGB  weekday: 5 time: 06:45 -- 08:25
+Sec: 1212  Plane index: 34  NGB --> CSX  weekday: 5 time: 10:00 -- 11:40
+Sec: 1209  Plane index: 34  CSX --> ZUH  weekday: 6 time: 07:45 -- 09:20
+Sec: 1216  Plane index: 34  ZUH --> CSX  weekday: 6 time: 14:10 -- 15:45
+Sec: 1206  Plane index: 34  CSX --> NGB  weekday: 7 time: 06:45 -- 08:25
+Sec: 1213  Plane index: 34  NGB --> CSX  weekday: 7 time: 10:00 -- 11:40
+Sec: 1203  Plane index: 34  CSX --> NGB  weekday: 1 time: 06:55 -- 08:35
+Sec: 1210  Plane index: 34  NGB --> CSX  weekday: 1 time: 09:20 -- 11:10
 two days off
 
-tod_num :1348
-Sec: 1014  Plane index : 28  HRB --> XUZ  weekday : 3 time : 10:50 -- 13:25
-Sec: 15  Plane index : 1  XUZ --> HRB  weekday : 3 time : 15:10 -- 17:40
-Sec: 974  Plane index : 27  HRB --> HGH  weekday : 4 time : 06:40 -- 10:00
-Sec: 261  Plane index : 8  HGH --> CAN  weekday : 4 time : 11:35 -- 13:45
-Sec: 268  Plane index : 8  CAN --> HGH  weekday : 4 time : 14:45 -- 17:05
-Sec: 98  Plane index : 4  HGH --> WUT  weekday : 5 time : 06:50 -- 09:10
-Sec: 1025  Plane index : 28  WUT --> ZUH  weekday : 6 time : 14:30 -- 17:25
-Sec: 1032  Plane index : 28  ZUH --> WUT  weekday : 6 time : 18:10 -- 21:05
-Sec: 1039  Plane index : 28  WUT --> HRB  weekday : 6 time : 21:50 -- 00:15
+tod_num : 15
+Sec: 1208  Plane index: 34  CSX --> ZUH  weekday: 4 time: 07:45 -- 09:20
+Sec: 1215  Plane index: 34  ZUH --> CSX  weekday: 4 time: 14:10 -- 15:45
+Sec: 1219  Plane index: 34  CSX --> KOS  weekday: 5 time: 12:45 -- 16:45
+Sec: 1226  Plane index: 34  KOS --> CSX  weekday: 5 time: 17:55 -- 20:50
+Sec: 1223  Plane index: 34  CSX --> NNG  weekday: 6 time: 20:10 -- 21:45
+Sec: 1230  Plane index: 34  NNG --> CSX  weekday: 6 time: 22:35 -- 00:15
 two days off

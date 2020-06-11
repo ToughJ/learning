@@ -1,18 +1,22 @@
 from last week
-tod_num :1238
-Sec: 590  Plane index : 17  CGQ --> LYI  weekday : 3 time : 16:00 -- 18:15
-Sec: 584  Plane index : 17  LYI --> CGQ  weekday : 4 time : 12:55 -- 15:05
-Sec: 562  Plane index : 16  CGQ --> INC  weekday : 5 time : 16:30 -- 19:40
-Sec: 571  Plane index : 16  INC --> KMG  weekday : 5 time : 21:45 -- 00:30
-Sec: 552  Plane index : 16  KMG --> INC  weekday : 7 time : 06:55 -- 09:40
-Sec: 559  Plane index : 16  INC --> CGQ  weekday : 7 time : 11:35 -- 14:20
+tod_num : 1104
+Sec: 537  Plane index: 15  XIY --> ENH  weekday: 6 time: 19:25 -- 20:30
+Sec: 544  Plane index: 15  ENH --> HGH  weekday: 6 time: 21:15 -- 23:05
+Sec: 631  Plane index: 18  HGH --> ENH  weekday: 7 time: 14:50 -- 17:00
+Sec: 545  Plane index: 15  ENH --> HGH  weekday: 7 time: 21:15 -- 23:05
+Sec: 84  Plane index: 3  HGH --> INC  weekday: 1 time: 18:55 -- 21:55
+Sec: 88  Plane index: 3  INC --> URC  weekday: 1 time: 22:30 -- 01:45
+Sec: 93  Plane index: 3  URC --> XIY  weekday: 3 time: 02:45 -- 05:55
 two days off
 
-tod_num :1238
-Sec: 590  Plane index : 17  CGQ --> LYI  weekday : 3 time : 16:00 -- 18:15
-Sec: 584  Plane index : 17  LYI --> CGQ  weekday : 4 time : 12:55 -- 15:05
-Sec: 562  Plane index : 16  CGQ --> INC  weekday : 5 time : 16:30 -- 19:40
-Sec: 571  Plane index : 16  INC --> KMG  weekday : 5 time : 21:45 -- 00:30
-Sec: 552  Plane index : 16  KMG --> INC  weekday : 7 time : 06:55 -- 09:40
-Sec: 559  Plane index : 16  INC --> CGQ  weekday : 7 time : 11:35 -- 14:20
+tod_num : 865
+Sec: 509  Plane index: 15  XIY --> BFJ  weekday: 6 time: 06:55 -- 08:50
+Sec: 516  Plane index: 15  BFJ --> ZUH  weekday: 6 time: 10:40 -- 12:40
+Sec: 523  Plane index: 15  ZUH --> BFJ  weekday: 6 time: 13:35 -- 15:40
+Sec: 530  Plane index: 15  BFJ --> XIY  weekday: 6 time: 16:40 -- 18:25
+Sec: 482  Plane index: 14  XIY --> MFM  weekday: 7 time: 09:10 -- 12:35
+Sec: 491  Plane index: 14  MFM --> ENH  weekday: 7 time: 13:55 -- 15:40
+Sec: 640  Plane index: 18  ENH --> XIY  weekday: 7 time: 18:50 -- 20:20
+Sec: 666  Plane index: 19  XIY --> HET  weekday: 1 time: 11:55 -- 13:45
+Sec: 688  Plane index: 19  HET --> XIY  weekday: 2 time: 22:25 -- 00:15
 two days off

@@ -1,24 +1,13 @@
-tod_num :120
-Sec: 733  Plane index : 21  ENY --> DLC  weekday : 1 time : 09:10 -- 11:00
-Sec: 740  Plane index : 21  DLC --> XNN  weekday : 1 time : 12:00 -- 14:40
-Sec: 747  Plane index : 21  XNN --> DLC  weekday : 1 time : 15:25 -- 18:10
-Sec: 786  Plane index : 22  DLC --> NZL  weekday : 2 time : 12:00 -- 14:05
-Sec: 793  Plane index : 22  NZL --> DLC  weekday : 2 time : 14:50 -- 16:50
-Sec: 758  Plane index : 21  DLC --> ENH  weekday : 2 time : 20:50 -- 23:30
-Sec: 499  Plane index : 14  ENH --> MFM  weekday : 4 time : 16:25 -- 18:25
-Sec: 487  Plane index : 14  MFM --> XIY  weekday : 4 time : 19:20 -- 22:05
-Sec: 495  Plane index : 14  XIY --> ENY  weekday : 4 time : 23:05 -- 00:10
+tod_num : 108
+Sec: 1014  Plane index: 28  HRB --> XUZ  weekday: 3 time: 10:50 -- 13:25
+Sec: 15  Plane index: 1  XUZ --> HRB  weekday: 3 time: 15:10 -- 17:40
+Sec: 974  Plane index: 27  HRB --> HGH  weekday: 4 time: 06:40 -- 10:00
+Sec: 261  Plane index: 8  HGH --> CAN  weekday: 4 time: 11:35 -- 13:45
+Sec: 268  Plane index: 8  CAN --> HGH  weekday: 4 time: 14:45 -- 17:05
+Sec: 1010  Plane index: 28  HGH --> HRB  weekday: 5 time: 06:35 -- 10:00
+Sec: 1015  Plane index: 28  HRB --> XUZ  weekday: 5 time: 10:50 -- 13:25
+Sec: 1022  Plane index: 28  XUZ --> ZUH  weekday: 5 time: 14:10 -- 16:45
+Sec: 1032  Plane index: 28  ZUH --> WUT  weekday: 6 time: 18:10 -- 21:05
+Sec: 1039  Plane index: 28  WUT --> HRB  weekday: 6 time: 21:50 -- 00:15
 two days off
 
-tod_num :1138
-Sec: 407  Plane index : 12  ENY --> HGH  weekday : 7 time : 13:40 -- 16:10
-Sec: 978  Plane index : 27  HGH --> BFJ  weekday : 1 time : 12:35 -- 15:10
-Sec: 525  Plane index : 15  BFJ --> XIY  weekday : 1 time : 16:40 -- 18:25
-Sec: 532  Plane index : 15  XIY --> ENH  weekday : 1 time : 19:25 -- 20:30
-Sec: 737  Plane index : 21  ENH --> DLC  weekday : 2 time : 08:35 -- 11:00
-Sec: 741  Plane index : 21  DLC --> XNN  weekday : 2 time : 12:00 -- 14:40
-Sec: 748  Plane index : 21  XNN --> DLC  weekday : 2 time : 15:25 -- 18:10
-Sec: 784  Plane index : 22  DLC --> NZH  weekday : 3 time : 12:00 -- 14:30
-Sec: 791  Plane index : 22  NZH --> DLC  weekday : 3 time : 15:15 -- 17:35
-Sec: 755  Plane index : 21  DLC --> ENY  weekday : 3 time : 20:50 -- 23:00
-two days off

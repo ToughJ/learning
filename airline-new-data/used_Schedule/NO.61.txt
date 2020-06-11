@@ -1,14 +1,24 @@
-tod_num :404
-Sec: 23  Plane index : 1  HRB --> HLH  weekday : 7 time : 18:55 -- 20:15
-Sec: 31  Plane index : 1  HLH --> HGH  weekday : 7 time : 21:40 -- 00:45
-Sec: 318  Plane index : 10  HGH --> MIG  weekday : 2 time : 07:15 -- 10:05
-Sec: 322  Plane index : 10  MIG --> LHW  weekday : 2 time : 12:05 -- 13:25
-Sec: 329  Plane index : 10  LHW --> MIG  weekday : 2 time : 16:20 -- 17:40
-Sec: 323  Plane index : 10  MIG --> LHW  weekday : 3 time : 12:05 -- 13:25
-Sec: 330  Plane index : 10  LHW --> MIG  weekday : 3 time : 16:20 -- 17:40
-Sec: 337  Plane index : 10  MIG --> HGH  weekday : 3 time : 18:35 -- 21:05
-Sec: 40  Plane index : 2  HGH --> YNT  weekday : 4 time : 09:25 -- 11:15
-Sec: 47  Plane index : 2  YNT --> HRB  weekday : 4 time : 12:25 -- 14:20
+from last week
+tod_num : 283
+Sec: 1327  Plane index: 37  XNN --> CSX  weekday: 6 time: 12:25 -- 14:50
+Sec: 1334  Plane index: 37  CSX --> XNN  weekday: 6 time: 16:55 -- 19:30
+Sec: 1284  Plane index: 36  XNN --> HDG  weekday: 7 time: 11:10 -- 13:15
+Sec: 1291  Plane index: 36  HDG --> XUZ  weekday: 7 time: 14:00 -- 15:25
+Sec: 59  Plane index: 2  XUZ --> SZX  weekday: 7 time: 18:50 -- 21:35
+Sec: 1328  Plane index: 37  SZX --> XNN  weekday: 1 time: 16:20 -- 19:45
+Sec: 1381  Plane index: 38  XNN --> CAN  weekday: 1 time: 23:10 -- 02:30
+Sec: 1247  Plane index: 35  CAN --> HGH  weekday: 3 time: 02:25 -- 04:35
+Sec: 1275  Plane index: 36  HGH --> XNN  weekday: 3 time: 07:15 -- 10:25
 two days off
 
+tod_num : 90
+Sec: 1401  Plane index: 39  XNN --> ZYI  weekday: 5 time: 20:15 -- 22:40
+Sec: 1408  Plane index: 39  ZYI --> SZX  weekday: 5 time: 23:25 -- 01:15
+Sec: 1418  Plane index: 39  SZX --> HGH  weekday: 6 time: 02:15 -- 04:20
+Sec: 622  Plane index: 18  HGH --> UYN  weekday: 7 time: 06:25 -- 08:55
+Sec: 629  Plane index: 18  UYN --> HGH  weekday: 7 time: 09:45 -- 12:05
+Sec: 244  Plane index: 7  HGH --> HZG  weekday: 1 time: 15:55 -- 18:25
+Sec: 248  Plane index: 7  HZG --> HGH  weekday: 1 time: 21:20 -- 23:30
+Sec: 1389  Plane index: 39  HGH --> HIA  weekday: 2 time: 13:00 -- 14:20
+Sec: 1396  Plane index: 39  HIA --> XNN  weekday: 2 time: 15:05 -- 18:00
 two days off

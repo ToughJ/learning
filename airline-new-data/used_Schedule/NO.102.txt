@@ -1,18 +1,22 @@
-tod_num :1185
-Sec: 70  Plane index : 3  URC --> INC  weekday : 1 time : 10:15 -- 13:10
-Sec: 77  Plane index : 3  INC --> HGH  weekday : 1 time : 14:10 -- 16:50
-Sec: 656  Plane index : 19  HGH --> WDS  weekday : 2 time : 06:45 -- 09:10
-Sec: 660  Plane index : 19  WDS --> XIY  weekday : 2 time : 09:55 -- 10:55
-Sec: 695  Plane index : 19  XIY --> URC  weekday : 3 time : 02:00 -- 05:25
+from last week
+tod_num : 897
+Sec: 510  Plane index: 15  XIY --> BFJ  weekday: 7 time: 06:55 -- 08:50
+Sec: 531  Plane index: 15  BFJ --> XIY  weekday: 7 time: 16:40 -- 18:25
+Sec: 504  Plane index: 15  XIY --> BFJ  weekday: 1 time: 06:55 -- 08:50
+Sec: 511  Plane index: 15  BFJ --> ZUH  weekday: 1 time: 10:40 -- 12:40
+Sec: 518  Plane index: 15  ZUH --> BFJ  weekday: 1 time: 13:35 -- 15:40
+Sec: 525  Plane index: 15  BFJ --> XIY  weekday: 1 time: 16:40 -- 18:25
 two days off
 
-tod_num :1377
-Sec: 74  Plane index : 3  URC --> INC  weekday : 5 time : 10:15 -- 13:10
-Sec: 81  Plane index : 3  INC --> HGH  weekday : 5 time : 14:10 -- 16:50
-Sec: 162  Plane index : 5  HGH --> WEH  weekday : 5 time : 20:05 -- 22:00
-Sec: 229  Plane index : 7  WEH --> CGQ  weekday : 6 time : 14:50 -- 16:30
-Sec: 236  Plane index : 7  CGQ --> WEH  weekday : 6 time : 18:50 -- 20:30
-Sec: 243  Plane index : 7  WEH --> HGH  weekday : 6 time : 21:20 -- 23:20
-Sec: 87  Plane index : 3  HGH --> INC  weekday : 7 time : 18:55 -- 21:55
-Sec: 91  Plane index : 3  INC --> URC  weekday : 7 time : 22:30 -- 01:45
+tod_num : 1363
+Sec: 534  Plane index: 15  XIY --> ENH  weekday: 3 time: 19:25 -- 20:30
+Sec: 541  Plane index: 15  ENH --> HGH  weekday: 3 time: 21:15 -- 23:05
+Sec: 291  Plane index: 9  HGH --> AVA  weekday: 4 time: 12:35 -- 15:20
+Sec: 299  Plane index: 9  AVA --> JHG  weekday: 4 time: 16:30 -- 17:55
+Sec: 309  Plane index: 9  JHG --> AVA  weekday: 4 time: 18:40 -- 20:10
+Sec: 312  Plane index: 9  AVA --> HGH  weekday: 4 time: 21:05 -- 23:20
+Sec: 414  Plane index: 12  HGH --> ENY  weekday: 5 time: 17:15 -- 19:55
+Sec: 421  Plane index: 12  ENY --> XIY  weekday: 5 time: 21:15 -- 22:10
+Sec: 428  Plane index: 12  XIY --> CXR  weekday: 5 time: 23:10 -- 03:35
+Sec: 433  Plane index: 12  CXR --> XIY  weekday: 7 time: 04:20 -- 08:10
 two days off

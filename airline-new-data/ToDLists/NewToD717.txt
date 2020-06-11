@@ -1,8 +1,11 @@
 ToD 0 : 
-XFN --> WNZ  weekday : 7 time : 23:00 -- 00:45
+KJH --> HGH  weekday : 2 time : 14:45 -- 16:55
 ToD 1 : 
-WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
+HGH --> LYI  weekday : 3 time : 06:25 -- 07:55
+LYI --> TYN  weekday : 3 time : 08:40 -- 10:20
+TYN --> LYI  weekday : 3 time : 11:15 -- 12:50
 ToD 2 : 
-XFN --> CTU  weekday : 3 time : 17:20 -- 19:25
+LYI --> KMG  weekday : 4 time : 19:00 -- 22:20
 ToD 3 : 
-CTU --> XFN  weekday : 4 time : 20:10 -- 21:55
+KMG --> HGH  weekday : 5 time : 23:20 -- 02:15
+HGH --> KJH  weekday : 6 time : 06:30 -- 08:55

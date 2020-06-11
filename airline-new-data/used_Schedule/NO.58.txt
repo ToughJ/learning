@@ -1,20 +1,25 @@
-tod_num :385
-Sec: 237  Plane index : 7  LYI --> HGH  weekday : 1 time : 13:35 -- 14:50
-Sec: 412  Plane index : 12  HGH --> ENY  weekday : 1 time : 17:15 -- 19:55
-Sec: 419  Plane index : 12  ENY --> XIY  weekday : 1 time : 21:15 -- 22:10
-Sec: 720  Plane index : 20  XIY --> WDS  weekday : 2 time : 21:20 -- 22:25
-Sec: 723  Plane index : 20  WDS --> HGH  weekday : 2 time : 23:10 -- 01:05
-Sec: 611  Plane index : 17  HGH --> KMG  weekday : 3 time : 03:15 -- 06:20
-Sec: 577  Plane index : 17  KMG --> LYI  weekday : 4 time : 08:50 -- 12:05
+tod_num : 249
+Sec: 1232  Plane index: 35  CAN --> NGB  weekday: 1 time: 06:10 -- 08:20
+Sec: 1255  Plane index: 35  NGB --> KOW  weekday: 2 time: 09:05 -- 10:40
+Sec: 1262  Plane index: 35  KOW --> KMG  weekday: 2 time: 11:25 -- 13:45
+Sec: 1266  Plane index: 35  KMG --> KOW  weekday: 2 time: 14:45 -- 17:10
+Sec: 1270  Plane index: 35  KOW --> NGB  weekday: 2 time: 17:55 -- 19:15
+Sec: 1256  Plane index: 35  NGB --> ACX  weekday: 3 time: 09:05 -- 12:00
+Sec: 1263  Plane index: 35  ACX --> KMG  weekday: 3 time: 12:45 -- 13:45
+Sec: 1267  Plane index: 35  KMG --> ACX  weekday: 3 time: 14:55 -- 16:10
+Sec: 1271  Plane index: 35  ACX --> NGB  weekday: 3 time: 16:55 -- 19:50
+Sec: 883  Plane index: 24  NGB --> WEH  weekday: 4 time: 16:10 -- 18:00
+Sec: 890  Plane index: 24  WEH --> SHE  weekday: 4 time: 18:45 -- 19:55
+Sec: 897  Plane index: 24  SHE --> YNT  weekday: 4 time: 20:45 -- 22:20
+Sec: 904  Plane index: 24  YNT --> CAN  weekday: 4 time: 23:05 -- 02:30
 two days off
 
-tod_num :753
-Sec: 586  Plane index : 17  LYI --> CGQ  weekday : 6 time : 12:55 -- 15:05
-Sec: 566  Plane index : 16  CGQ --> INC  weekday : 6 time : 17:40 -- 20:50
-Sec: 572  Plane index : 16  INC --> KMG  weekday : 6 time : 21:45 -- 00:30
-Sec: 574  Plane index : 17  KMG --> LYI  weekday : 1 time : 08:50 -- 12:05
-Sec: 581  Plane index : 17  LYI --> CGQ  weekday : 1 time : 12:55 -- 15:05
-Sec: 588  Plane index : 17  CGQ --> LYI  weekday : 1 time : 16:00 -- 18:15
-Sec: 582  Plane index : 17  LYI --> CGQ  weekday : 2 time : 12:55 -- 15:05
-Sec: 589  Plane index : 17  CGQ --> LYI  weekday : 2 time : 16:00 -- 18:15
+tod_num : 967
+Sec: 816  Plane index: 23  CAN --> YNT  weekday: 7 time: 05:40 -- 08:40
+Sec: 823  Plane index: 23  YNT --> SHE  weekday: 7 time: 09:25 -- 10:45
+Sec: 830  Plane index: 23  SHE --> WEH  weekday: 7 time: 11:35 -- 12:55
+Sec: 181  Plane index: 6  WEH --> HGH  weekday: 1 time: 09:30 -- 11:30
+Sec: 630  Plane index: 18  HGH --> ENH  weekday: 1 time: 14:50 -- 17:00
+Sec: 540  Plane index: 15  ENH --> HGH  weekday: 2 time: 21:15 -- 23:05
+Sec: 260  Plane index: 8  HGH --> CAN  weekday: 3 time: 11:35 -- 13:45
 two days off

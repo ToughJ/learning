@@ -1,23 +1,17 @@
-tod_num :1364
-Sec: 1041  Plane index : 29  HRB --> WUT  weekday : 1 time : 06:25 -- 09:25
-Sec: 1048  Plane index : 29  WUT --> HAK  weekday : 1 time : 11:05 -- 14:10
-Sec: 1059  Plane index : 29  HAK --> XFN  weekday : 2 time : 15:30 -- 18:00
-Sec: 1066  Plane index : 29  XFN --> HRB  weekday : 2 time : 18:45 -- 21:55
-Sec: 1014  Plane index : 28  HRB --> XUZ  weekday : 3 time : 10:50 -- 13:25
-Sec: 1035  Plane index : 28  XUZ --> HRB  weekday : 3 time : 20:45 -- 23:15
+from last week
+tod_num : 1410
+Sec: 316  Plane index: 10  HGH --> MIG  weekday: 5 time: 08:25 -- 11:15
+Sec: 325  Plane index: 10  MIG --> LHW  weekday: 5 time: 12:05 -- 13:25
+Sec: 332  Plane index: 10  LHW --> MIG  weekday: 5 time: 16:20 -- 17:40
+Sec: 340  Plane index: 10  MIG --> HGH  weekday: 6 time: 18:35 -- 21:05
 two days off
 
-tod_num :977
-Sec: 977  Plane index : 27  HRB --> HGH  weekday : 7 time : 06:40 -- 10:00
-Sec: 263  Plane index : 8  HGH --> CAN  weekday : 7 time : 11:35 -- 13:45
-Sec: 270  Plane index : 8  CAN --> HGH  weekday : 7 time : 14:45 -- 17:05
-Sec: 349  Plane index : 11  HGH --> WUH  weekday : 1 time : 06:45 -- 08:30
-Sec: 356  Plane index : 11  WUH --> ACX  weekday : 1 time : 09:30 -- 11:40
-Sec: 363  Plane index : 11  ACX --> WUH  weekday : 1 time : 12:25 -- 14:30
-Sec: 370  Plane index : 11  WUH --> HGH  weekday : 1 time : 15:30 -- 17:00
-Sec: 1007  Plane index : 28  HGH --> HRB  weekday : 2 time : 06:35 -- 10:00
-Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
-Sec: 1049  Plane index : 29  WUT --> HAK  weekday : 3 time : 11:05 -- 14:10
-Sec: 1056  Plane index : 29  HAK --> WUT  weekday : 3 time : 15:30 -- 18:35
-Sec: 1063  Plane index : 29  WUT --> HRB  weekday : 3 time : 19:20 -- 21:55
+tod_num : 40
+Sec: 1278  Plane index: 36  HGH --> XNN  weekday: 2 time: 06:25 -- 09:35
+Sec: 1360  Plane index: 38  XNN --> NGB  weekday: 2 time: 11:30 -- 14:40
+Sec: 1241  Plane index: 35  NGB --> CAN  weekday: 3 time: 23:05 -- 01:25
+Sec: 1235  Plane index: 35  CAN --> NGB  weekday: 4 time: 06:10 -- 08:20
+Sec: 840  Plane index: 23  NGB --> KOW  weekday: 5 time: 17:45 -- 19:20
+Sec: 847  Plane index: 23  KOW --> KWE  weekday: 5 time: 20:05 -- 22:05
+Sec: 856  Plane index: 23  KWE --> HGH  weekday: 5 time: 22:55 -- 01:10
 two days off

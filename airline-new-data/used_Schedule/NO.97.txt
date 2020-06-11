@@ -1,17 +1,20 @@
-tod_num :1174
-Sec: 377  Plane index : 11  HGH --> CKG  weekday : 1 time : 18:05 -- 20:35
-Sec: 384  Plane index : 11  CKG --> HGH  weekday : 1 time : 21:35 -- 00:05
-Sec: 1275  Plane index : 36  HGH --> XNN  weekday : 3 time : 07:15 -- 10:25
-Sec: 1404  Plane index : 39  XNN --> ENH  weekday : 4 time : 20:15 -- 22:15
-Sec: 1411  Plane index : 39  ENH --> SZX  weekday : 4 time : 23:10 -- 01:15
-Sec: 1417  Plane index : 39  SZX --> HGH  weekday : 5 time : 02:15 -- 04:20
+from last week
+tod_num : 825
+Sec: 440  Plane index: 13  WNZ --> KWE  weekday: 7 time: 07:15 -- 09:50
+Sec: 447  Plane index: 13  KWE --> WNZ  weekday: 7 time: 10:50 -- 13:15
+Sec: 448  Plane index: 13  WNZ --> XFN  weekday: 1 time: 14:45 -- 16:35
+Sec: 455  Plane index: 13  XFN --> CTU  weekday: 1 time: 17:20 -- 19:25
+Sec: 462  Plane index: 13  CTU --> XFN  weekday: 1 time: 20:25 -- 22:15
+Sec: 469  Plane index: 13  XFN --> WNZ  weekday: 1 time: 23:00 -- 00:45
 two days off
 
-tod_num :849
-Sec: 135  Plane index : 5  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
-Sec: 145  Plane index : 5  JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
-Sec: 152  Plane index : 5  CKG --> JIQ  weekday : 7 time : 13:20 -- 14:15
-Sec: 156  Plane index : 5  JIQ --> HGH  weekday : 7 time : 15:15 -- 17:15
-Sec: 273  Plane index : 8  HGH --> PEK  weekday : 1 time : 19:00 -- 21:20
-Sec: 282  Plane index : 9  PEK --> HGH  weekday : 3 time : 05:50 -- 08:05
+tod_num : 1278
+Sec: 1176  Plane index: 33  WNZ --> HUZ  weekday: 4 time: 08:45 -- 10:30
+Sec: 1183  Plane index: 33  HUZ --> WNZ  weekday: 4 time: 11:15 -- 13:00
+Sec: 1186  Plane index: 33  WNZ --> HUZ  weekday: 5 time: 20:30 -- 22:15
+Sec: 1193  Plane index: 33  HUZ --> WNZ  weekday: 5 time: 23:00 -- 00:40
+Sec: 451  Plane index: 13  WNZ --> XFN  weekday: 7 time: 14:45 -- 16:35
+Sec: 458  Plane index: 13  XFN --> CTU  weekday: 7 time: 17:20 -- 19:25
+Sec: 465  Plane index: 13  CTU --> XFN  weekday: 7 time: 20:25 -- 22:15
+Sec: 472  Plane index: 13  XFN --> WNZ  weekday: 7 time: 23:00 -- 00:45
 two days off

@@ -1,11 +1,16 @@
-tod_num :465
-Sec: 708  Plane index : 20  CTU --> MDL  weekday : 2 time : 05:50 -- 08:25
-Sec: 711  Plane index : 20  MDL --> HGH  weekday : 2 time : 09:10 -- 13:05
-Sec: 938  Plane index : 26  HGH --> CGO  weekday : 3 time : 06:40 -- 08:35
-Sec: 945  Plane index : 26  CGO --> AKU  weekday : 3 time : 09:35 -- 14:35
-Sec: 953  Plane index : 26  AKU --> CGO  weekday : 4 time : 15:30 -- 19:45
-Sec: 960  Plane index : 26  CGO --> HGH  weekday : 4 time : 20:45 -- 22:25
-Sec: 705  Plane index : 20  HGH --> CTU  weekday : 5 time : 23:55 -- 03:00
+tod_num : 317
+Sec: 682  Plane index: 19  CIF --> HET  weekday: 3 time: 20:20 -- 21:40
+Sec: 689  Plane index: 19  HET --> XIY  weekday: 3 time: 22:25 -- 00:15
+Sec: 698  Plane index: 19  XIY --> URC  weekday: 4 time: 02:00 -- 05:25
+Sec: 74  Plane index: 3  URC --> INC  weekday: 5 time: 10:15 -- 13:10
+Sec: 81  Plane index: 3  INC --> HGH  weekday: 5 time: 14:10 -- 16:50
+Sec: 138  Plane index: 5  HGH --> JIQ  weekday: 6 time: 08:25 -- 10:40
+Sec: 144  Plane index: 5  JIQ --> CKG  weekday: 6 time: 11:25 -- 12:20
+Sec: 151  Plane index: 5  CKG --> JIQ  weekday: 6 time: 13:20 -- 14:15
+Sec: 159  Plane index: 5  JIQ --> HGH  weekday: 6 time: 15:00 -- 17:10
+Sec: 655  Plane index: 19  HGH --> WDS  weekday: 7 time: 06:55 -- 09:10
+Sec: 665  Plane index: 19  WDS --> XIY  weekday: 7 time: 09:55 -- 10:55
+Sec: 672  Plane index: 19  XIY --> HET  weekday: 7 time: 11:55 -- 13:45
+Sec: 679  Plane index: 19  HET --> CIF  weekday: 7 time: 14:30 -- 15:55
 two days off
 
-two days off

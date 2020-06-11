@@ -1,18 +1,20 @@
-from last week
-tod_num :1006
-Sec: 1114  Plane index : 31  LJG --> HJJ  weekday : 7 time : 16:35 -- 18:35
-Sec: 1076  Plane index : 30  HJJ --> LJG  weekday : 1 time : 12:35 -- 14:35
-Sec: 1083  Plane index : 30  LJG --> KWL  weekday : 1 time : 15:20 -- 17:05
-Sec: 1090  Plane index : 30  KWL --> WNZ  weekday : 1 time : 17:50 -- 20:05
-Sec: 1098  Plane index : 31  WNZ --> WUH  weekday : 2 time : 09:05 -- 10:45
-Sec: 1105  Plane index : 31  WUH --> LJG  weekday : 2 time : 11:50 -- 14:20
+tod_num : 656
+Sec: 859  Plane index: 24  HGH --> KWE  weekday: 1 time: 06:20 -- 08:50
+Sec: 870  Plane index: 24  KWE --> SQD  weekday: 2 time: 09:40 -- 11:55
+Sec: 877  Plane index: 24  SQD --> NGB  weekday: 2 time: 12:40 -- 14:00
+Sec: 882  Plane index: 24  NGB --> WEH  weekday: 3 time: 16:10 -- 18:00
+Sec: 834  Plane index: 23  WEH --> NGB  weekday: 4 time: 13:40 -- 15:25
+Sec: 1368  Plane index: 38  NGB --> XNN  weekday: 4 time: 16:55 -- 20:20
+Sec: 1375  Plane index: 38  XNN --> HGH  weekday: 4 time: 21:40 -- 00:35
 two days off
 
-tod_num :1341
-Sec: 1116  Plane index : 31  LJG --> ZYI  weekday : 4 time : 17:35 -- 19:10
-Sec: 1123  Plane index : 31  ZYI --> HGH  weekday : 4 time : 19:55 -- 22:15
-Sec: 277  Plane index : 8  HGH --> PEK  weekday : 5 time : 19:00 -- 21:20
-Sec: 286  Plane index : 9  PEK --> HGH  weekday : 7 time : 05:50 -- 08:05
-Sec: 1072  Plane index : 30  HGH --> HJJ  weekday : 7 time : 09:40 -- 11:45
-Sec: 1079  Plane index : 30  HJJ --> LJG  weekday : 7 time : 12:35 -- 14:35
+tod_num : 1142
+Sec: 1134  Plane index: 32  HGH --> AVA  weekday: 7 time: 07:15 -- 10:00
+Sec: 1141  Plane index: 32  AVA --> LJG  weekday: 7 time: 10:45 -- 12:15
+Sec: 1148  Plane index: 32  LJG --> HAN  weekday: 7 time: 13:00 -- 15:05
+Sec: 1155  Plane index: 32  HAN --> LJG  weekday: 7 time: 16:05 -- 18:00
+Sec: 1111  Plane index: 31  LJG --> HJJ  weekday: 1 time: 20:10 -- 22:10
+Sec: 1118  Plane index: 31  HJJ --> HGH  weekday: 1 time: 22:55 -- 00:50
+Sec: 1070  Plane index: 30  HGH --> HJJ  weekday: 3 time: 09:40 -- 11:45
+Sec: 1119  Plane index: 31  HJJ --> HGH  weekday: 3 time: 19:20 -- 21:15
 two days off

@@ -1,11 +1,9 @@
-tod_num :1317
-Sec: 1401  Plane index : 39  XNN --> ZYI  weekday : 5 time : 20:15 -- 22:40
-Sec: 1408  Plane index : 39  ZYI --> SZX  weekday : 5 time : 23:25 -- 01:15
-Sec: 1418  Plane index : 39  SZX --> HGH  weekday : 6 time : 02:15 -- 04:20
-Sec: 1277  Plane index : 36  HGH --> XNN  weekday : 7 time : 07:15 -- 10:25
-Sec: 1324  Plane index : 37  XNN --> SZX  weekday : 7 time : 12:00 -- 15:20
-Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
-Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
+tod_num : 1320
+Sec: 53  Plane index: 2  HRB --> HLH  weekday: 2 time: 15:15 -- 16:35
+Sec: 60  Plane index: 2  HLH --> SZX  weekday: 2 time: 17:20 -- 21:35
+Sec: 64  Plane index: 2  SZX --> HGH  weekday: 2 time: 22:35 -- 00:35
+Sec: 345  Plane index: 10  HGH --> PEK  weekday: 4 time: 23:30 -- 01:50
+Sec: 284  Plane index: 9  PEK --> HGH  weekday: 5 time: 05:50 -- 08:05
+Sec: 1011  Plane index: 28  HGH --> HRB  weekday: 6 time: 06:35 -- 10:00
 two days off
 
-two days off

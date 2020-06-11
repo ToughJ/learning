@@ -1,9 +1,19 @@
-tod_num :1349
-Sec: 112  Plane index : 4  BAV --> WUT  weekday : 5 time : 20:40 -- 21:45
-Sec: 119  Plane index : 4  WUT --> HGH  weekday : 5 time : 22:30 -- 00:45
-Sec: 1012  Plane index : 28  HGH --> HRB  weekday : 7 time : 06:35 -- 10:00
-Sec: 1019  Plane index : 28  HRB --> WUT  weekday : 7 time : 10:50 -- 13:45
-Sec: 195  Plane index : 6  WUT --> BAV  weekday : 7 time : 16:05 -- 17:10
+from last week
+tod_num : 1371
+Sec: 1358  Plane index: 38  XNN --> LYG  weekday: 5 time: 10:00 -- 12:40
+Sec: 1365  Plane index: 38  LYG --> NGB  weekday: 5 time: 13:25 -- 14:45
+Sec: 1372  Plane index: 38  NGB --> LYG  weekday: 5 time: 17:10 -- 18:40
+Sec: 1379  Plane index: 38  LYG --> XNN  weekday: 5 time: 19:25 -- 22:25
+Sec: 503  Plane index: 36  XNN --> CAN  weekday: 6 time: 23:10 -- 02:30
+Sec: 1355  Plane index: 38  CAN --> XNN  weekday: 7 time: 05:45 -- 09:15
 two days off
 
+tod_num : 361
+Sec: 1403  Plane index: 39  XNN --> ENH  weekday: 2 time: 20:15 -- 22:15
+Sec: 1410  Plane index: 39  ENH --> SZX  weekday: 2 time: 23:10 -- 01:15
+Sec: 1415  Plane index: 39  SZX --> HGH  weekday: 3 time: 02:15 -- 04:20
+Sec: 276  Plane index: 8  HGH --> PEK  weekday: 4 time: 19:00 -- 21:20
+Sec: 257  Plane index: 8  PEK --> HGH  weekday: 6 time: 08:20 -- 10:35
+Sec: 1391  Plane index: 39  HGH --> HIA  weekday: 6 time: 13:00 -- 14:20
+Sec: 1398  Plane index: 39  HIA --> XNN  weekday: 6 time: 15:05 -- 18:00
 two days off

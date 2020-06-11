@@ -1,16 +1,23 @@
 from last week
-tod_num :1204
-Sec: 884  Plane index : 24  NGB --> WEH  weekday : 5 time : 16:10 -- 18:00
-Sec: 891  Plane index : 24  WEH --> SHE  weekday : 5 time : 18:45 -- 19:55
-Sec: 898  Plane index : 24  SHE --> YNT  weekday : 5 time : 20:45 -- 22:20
-Sec: 905  Plane index : 24  YNT --> CAN  weekday : 5 time : 23:05 -- 02:30
-Sec: 1238  Plane index : 35  CAN --> NGB  weekday : 7 time : 06:10 -- 08:20
+tod_num : 1049
+Sec: 1174  Plane index: 33  WNZ --> CSX  weekday: 7 time: 09:00 -- 10:35
+Sec: 375  Plane index: 11  CSX --> HGH  weekday: 7 time: 15:25 -- 17:00
+Sec: 616  Plane index: 18  HGH --> UYN  weekday: 1 time: 06:25 -- 08:55
+Sec: 623  Plane index: 18  UYN --> HGH  weekday: 1 time: 09:45 -- 12:05
+Sec: 982  Plane index: 27  HGH --> XFN  weekday: 2 time: 14:30 -- 16:25
+Sec: 456  Plane index: 13  XFN --> CTU  weekday: 3 time: 17:20 -- 19:25
+Sec: 463  Plane index: 13  CTU --> XFN  weekday: 3 time: 20:25 -- 22:15
+Sec: 470  Plane index: 13  XFN --> WNZ  weekday: 3 time: 23:00 -- 00:45
 two days off
 
-tod_num :1394
-Sec: 1371  Plane index : 38  NGB --> LYG  weekday : 3 time : 17:10 -- 18:40
-Sec: 1378  Plane index : 38  LYG --> XNN  weekday : 3 time : 19:25 -- 22:25
-Sec: 1361  Plane index : 38  XNN --> NGB  weekday : 4 time : 11:30 -- 14:40
-Sec: 1243  Plane index : 35  NGB --> CAN  weekday : 5 time : 23:05 -- 01:25
-Sec: 1237  Plane index : 35  CAN --> NGB  weekday : 6 time : 06:10 -- 08:20
+tod_num : 111
+Sec: 1102  Plane index: 31  WNZ --> WUH  weekday: 6 time: 09:05 -- 10:45
+Sec: 1108  Plane index: 31  WUH --> LJG  weekday: 6 time: 11:50 -- 14:20
+Sec: 1117  Plane index: 31  LJG --> ZYI  weekday: 6 time: 17:35 -- 19:10
+Sec: 1317  Plane index: 37  ZYI --> XNN  weekday: 7 time: 09:05 -- 11:15
+Sec: 1324  Plane index: 37  XNN --> SZX  weekday: 7 time: 12:00 -- 15:20
+Sec: 1307  Plane index: 37  SZX --> ZYI  weekday: 1 time: 06:20 -- 08:20
+Sec: 1080  Plane index: 30  ZYI --> LJG  weekday: 2 time: 13:00 -- 14:25
+Sec: 1199  Plane index: 33  LJG --> TEN  weekday: 2 time: 20:15 -- 22:20
+Sec: 1201  Plane index: 33  TEN --> WNZ  weekday: 2 time: 23:05 -- 01:10
 two days off

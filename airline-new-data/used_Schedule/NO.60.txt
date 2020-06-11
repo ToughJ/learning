@@ -1,20 +1,28 @@
-from last week
-tod_num :393
-Sec: 331  Plane index : 10  LHW --> MIG  weekday : 4 time : 16:20 -- 17:40
-Sec: 338  Plane index : 10  MIG --> HGH  weekday : 4 time : 18:35 -- 21:05
-Sec: 345  Plane index : 10  HGH --> PEK  weekday : 4 time : 23:30 -- 01:50
-Sec: 285  Plane index : 9  PEK --> HGH  weekday : 6 time : 05:50 -- 08:05
-Sec: 355  Plane index : 11  HGH --> CSX  weekday : 7 time : 06:45 -- 08:35
-Sec: 375  Plane index : 11  CSX --> HGH  weekday : 7 time : 15:25 -- 17:00
-Sec: 314  Plane index : 10  HGH --> MIG  weekday : 1 time : 08:25 -- 11:15
-Sec: 321  Plane index : 10  MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
+tod_num : 260
+Sec: 189  Plane index: 6  HGH --> JIQ  weekday: 1 time: 13:50 -- 16:10
+Sec: 196  Plane index: 6  JIQ --> CKG  weekday: 1 time: 16:55 -- 17:50
+Sec: 203  Plane index: 6  CKG --> JIQ  weekday: 1 time: 18:55 -- 19:50
+Sec: 210  Plane index: 6  JIQ --> HGH  weekday: 1 time: 21:20 -- 23:20
+Sec: 1389  Plane index: 39  HGH --> HIA  weekday: 2 time: 13:00 -- 14:20
+Sec: 1396  Plane index: 39  HIA --> XNN  weekday: 2 time: 15:05 -- 18:00
+Sec: 1339  Plane index: 37  XNN --> HIA  weekday: 2 time: 20:35 -- 23:10
+Sec: 1346  Plane index: 37  HIA --> HGH  weekday: 2 time: 23:55 -- 01:05
+Sec: 137  Plane index: 5  HGH --> JIQ  weekday: 4 time: 08:25 -- 10:40
+Sec: 143  Plane index: 5  JIQ --> CKG  weekday: 4 time: 11:25 -- 12:20
+Sec: 150  Plane index: 5  CKG --> JIQ  weekday: 4 time: 13:20 -- 14:15
+Sec: 158  Plane index: 5  JIQ --> HGH  weekday: 4 time: 15:00 -- 17:10
+Sec: 620  Plane index: 18  HGH --> UYN  weekday: 5 time: 06:25 -- 08:55
+Sec: 627  Plane index: 18  UYN --> HGH  weekday: 5 time: 09:45 -- 12:05
 two days off
 
-tod_num :1400
-Sec: 331  Plane index : 10  LHW --> MIG  weekday : 4 time : 16:20 -- 17:40
-Sec: 338  Plane index : 10  MIG --> HGH  weekday : 4 time : 18:35 -- 21:05
-Sec: 346  Plane index : 10  HGH --> PEK  weekday : 5 time : 23:30 -- 01:50
-Sec: 285  Plane index : 9  PEK --> HGH  weekday : 6 time : 05:50 -- 08:05
-Sec: 317  Plane index : 10  HGH --> MIG  weekday : 7 time : 08:25 -- 11:15
-Sec: 327  Plane index : 10  MIG --> LHW  weekday : 7 time : 12:05 -- 13:25
+tod_num : 893
+Sec: 87  Plane index: 3  HGH --> INC  weekday: 7 time: 18:55 -- 21:55
+Sec: 553  Plane index: 16  INC --> CGQ  weekday: 1 time: 11:35 -- 14:20
+Sec: 560  Plane index: 16  CGQ --> INC  weekday: 1 time: 16:30 -- 19:40
+Sec: 554  Plane index: 16  INC --> CGQ  weekday: 2 time: 11:35 -- 14:20
+Sec: 234  Plane index: 7  CGQ --> WEH  weekday: 2 time: 18:50 -- 20:30
+Sec: 833  Plane index: 23  WEH --> NGB  weekday: 3 time: 13:40 -- 15:25
+Sec: 839  Plane index: 23  NGB --> KOW  weekday: 3 time: 17:45 -- 19:20
+Sec: 846  Plane index: 23  KOW --> KWE  weekday: 3 time: 20:05 -- 22:05
+Sec: 854  Plane index: 23  KWE --> HGH  weekday: 3 time: 22:55 -- 01:10
 two days off

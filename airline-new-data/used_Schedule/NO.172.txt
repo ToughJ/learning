@@ -1,21 +1,17 @@
-tod_num :1392
-Sec: 700  Plane index : 20  CTU --> HGH  weekday : 1 time : 05:40 -- 08:25
-Sec: 617  Plane index : 18  HGH --> UYN  weekday : 2 time : 06:25 -- 08:55
-Sec: 624  Plane index : 18  UYN --> HGH  weekday : 2 time : 09:45 -- 12:05
-Sec: 353  Plane index : 11  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
-Sec: 360  Plane index : 11  CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
-Sec: 367  Plane index : 11  ACX --> CSX  weekday : 3 time : 12:25 -- 14:25
-Sec: 374  Plane index : 11  CSX --> HGH  weekday : 3 time : 15:25 -- 17:00
-Sec: 635  Plane index : 18  HGH --> MDL  weekday : 4 time : 15:05 -- 19:25
-Sec: 642  Plane index : 18  MDL --> CTU  weekday : 4 time : 23:50 -- 02:15
+from last week
+tod_num : 1442
+Sec: 316  Plane index: 10  HGH --> MIG  weekday: 5 time: 08:25 -- 11:15
+Sec: 326  Plane index: 10  MIG --> LHW  weekday: 6 time: 12:05 -- 13:25
+Sec: 333  Plane index: 10  LHW --> MIG  weekday: 6 time: 16:20 -- 17:40
+Sec: 340  Plane index: 10  MIG --> HGH  weekday: 6 time: 18:35 -- 21:05
 two days off
 
-tod_num :289
-Sec: 1130  Plane index : 31  CTU --> HGH  weekday : 7 time : 05:25 -- 08:10
-Sec: 964  Plane index : 26  HGH --> SZX  weekday : 1 time : 02:00 -- 04:15
-Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
-Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
-Sec: 749  Plane index : 21  XNN --> DLC  weekday : 3 time : 15:25 -- 18:10
-Sec: 797  Plane index : 22  DLC --> HDG  weekday : 3 time : 20:10 -- 21:45
-Sec: 804  Plane index : 22  HDG --> CTU  weekday : 3 time : 22:35 -- 01:05
+tod_num : 1221
+Sec: 318  Plane index: 10  HGH --> MIG  weekday: 2 time: 07:15 -- 10:05
+Sec: 337  Plane index: 10  MIG --> HGH  weekday: 3 time: 18:35 -- 21:05
+Sec: 220  Plane index: 7  HGH --> WEH  weekday: 4 time: 13:05 -- 15:00
+Sec: 227  Plane index: 7  WEH --> CGQ  weekday: 4 time: 15:45 -- 17:25
+Sec: 592  Plane index: 17  CGQ --> LYI  weekday: 5 time: 16:00 -- 18:15
+Sec: 599  Plane index: 17  LYI --> KMG  weekday: 5 time: 19:00 -- 22:20
+Sec: 606  Plane index: 17  KMG --> HGH  weekday: 5 time: 23:20 -- 02:15
 two days off

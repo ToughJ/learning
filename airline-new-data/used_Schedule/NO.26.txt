@@ -1,14 +1,22 @@
-tod_num :100
-Sec: 844  Plane index : 23  NGB --> SQD  weekday : 6 time : 17:45 -- 19:05
-Sec: 851  Plane index : 23  SQD --> KWE  weekday : 6 time : 19:50 -- 22:05
-Sec: 857  Plane index : 23  KWE --> HGH  weekday : 6 time : 22:55 -- 01:10
-Sec: 964  Plane index : 26  HGH --> SZX  weekday : 1 time : 02:00 -- 04:15
-Sec: 1307  Plane index : 37  SZX --> ZYI  weekday : 1 time : 06:20 -- 08:20
-Sec: 1314  Plane index : 37  ZYI --> XNN  weekday : 1 time : 09:05 -- 11:15
-Sec: 1285  Plane index : 36  XNN --> NKG  weekday : 2 time : 10:20 -- 12:55
-Sec: 1293  Plane index : 36  NKG --> XNN  weekday : 2 time : 13:55 -- 16:45
-Sec: 1357  Plane index : 38  XNN --> LYG  weekday : 3 time : 10:00 -- 12:40
-Sec: 1364  Plane index : 38  LYG --> NGB  weekday : 3 time : 13:25 -- 14:45
+from last week
+tod_num : 81
+Sec: 1200  Plane index: 33  LJG --> TEN  weekday: 6 time: 20:15 -- 22:20
+Sec: 1202  Plane index: 33  TEN --> WNZ  weekday: 6 time: 23:05 -- 01:10
+Sec: 434  Plane index: 13  WNZ --> KWE  weekday: 1 time: 07:15 -- 09:50
+Sec: 441  Plane index: 13  KWE --> WNZ  weekday: 1 time: 10:50 -- 13:15
+Sec: 1098  Plane index: 31  WNZ --> WUH  weekday: 2 time: 09:05 -- 10:45
+Sec: 371  Plane index: 11  WUH --> HGH  weekday: 2 time: 15:30 -- 17:00
+Sec: 1132  Plane index: 32  HGH --> AVA  weekday: 3 time: 07:15 -- 10:00
+Sec: 1139  Plane index: 32  AVA --> LJG  weekday: 3 time: 10:45 -- 12:15
 two days off
 
+tod_num : 18
+Sec: 1160  Plane index: 32  LJG --> AVA  weekday: 5 time: 18:45 -- 20:10
+Sec: 1166  Plane index: 32  AVA --> HGH  weekday: 5 time: 20:55 -- 23:10
+Sec: 636  Plane index: 18  HGH --> MDL  weekday: 6 time: 15:05 -- 19:25
+Sec: 643  Plane index: 18  MDL --> CTU  weekday: 6 time: 23:50 -- 02:15
+Sec: 726  Plane index: 21  CTU --> ENY  weekday: 1 time: 05:55 -- 07:20
+Sec: 405  Plane index: 12  ENY --> HGH  weekday: 1 time: 13:40 -- 16:10
+Sec: 1135  Plane index: 32  HGH --> DYG  weekday: 2 time: 07:15 -- 09:25
+Sec: 1142  Plane index: 32  DYG --> LJG  weekday: 2 time: 10:10 -- 12:00
 two days off

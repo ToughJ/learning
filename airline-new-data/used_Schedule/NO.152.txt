@@ -1,11 +1,29 @@
-tod_num :1333
-Sec: 1217  Plane index : 34  CSX --> NGB  weekday : 1 time : 20:10 -- 21:50
-Sec: 1224  Plane index : 34  NGB --> CAN  weekday : 1 time : 23:05 -- 01:25
-Sec: 1247  Plane index : 35  CAN --> HGH  weekday : 3 time : 02:25 -- 04:35
-Sec: 861  Plane index : 24  HGH --> KWE  weekday : 3 time : 06:20 -- 08:50
-Sec: 871  Plane index : 24  KWE --> SQD  weekday : 4 time : 09:40 -- 11:55
-Sec: 878  Plane index : 24  SQD --> NGB  weekday : 4 time : 12:40 -- 14:00
-Sec: 1212  Plane index : 34  NGB --> CSX  weekday : 5 time : 10:00 -- 11:40
+from last week
+tod_num : 1350
+Sec: 4  Plane index: 1  HGH --> SZX  weekday: 5 time: 08:45 -- 11:05
+Sec: 9  Plane index: 1  SZX --> XUZ  weekday: 5 time: 12:10 -- 14:25
+Sec: 16  Plane index: 1  XUZ --> HRB  weekday: 5 time: 15:10 -- 17:40
+Sec: 976  Plane index: 27  HRB --> HGH  weekday: 6 time: 06:40 -- 10:00
+Sec: 265  Plane index: 8  HGH --> CAN  weekday: 6 time: 11:35 -- 13:55
+Sec: 272  Plane index: 8  CAN --> HGH  weekday: 6 time: 14:55 -- 17:05
+Sec: 6  Plane index: 1  HGH --> SZX  weekday: 7 time: 08:45 -- 11:05
+Sec: 10  Plane index: 1  SZX --> XUZ  weekday: 7 time: 12:10 -- 14:25
+Sec: 17  Plane index: 1  XUZ --> HRB  weekday: 7 time: 15:10 -- 17:40
+Sec: 23  Plane index: 1  HRB --> HLH  weekday: 7 time: 18:55 -- 20:15
+Sec: 42  Plane index: 2  HLH --> HRB  weekday: 1 time: 13:10 -- 14:20
+Sec: 21  Plane index: 1  HRB --> HLH  weekday: 1 time: 18:55 -- 20:15
+Sec: 28  Plane index: 1  HLH --> HGH  weekday: 1 time: 21:40 -- 00:45
 two days off
 
+tod_num : 113
+Sec: 939  Plane index: 26  HGH --> CGO  weekday: 4 time: 06:40 -- 08:35
+Sec: 946  Plane index: 26  CGO --> AKU  weekday: 4 time: 09:35 -- 14:35
+Sec: 954  Plane index: 26  AKU --> CGO  weekday: 5 time: 15:30 -- 19:45
+Sec: 961  Plane index: 26  CGO --> HGH  weekday: 5 time: 20:45 -- 22:25
+Sec: 194  Plane index: 6  HGH --> BPE  weekday: 6 time: 13:05 -- 15:15
+Sec: 201  Plane index: 6  BPE --> YNJ  weekday: 6 time: 16:00 -- 17:50
+Sec: 208  Plane index: 6  YNJ --> BPE  weekday: 6 time: 19:45 -- 21:40
+Sec: 917  Plane index: 25  BPE --> DAT  weekday: 7 time: 16:50 -- 18:20
+Sec: 925  Plane index: 25  DAT --> BPE  weekday: 7 time: 19:45 -- 21:05
+Sec: 932  Plane index: 25  BPE --> HGH  weekday: 7 time: 22:00 -- 00:25
 two days off

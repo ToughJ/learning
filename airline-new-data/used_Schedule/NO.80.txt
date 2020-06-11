@@ -1,21 +1,18 @@
-tod_num :711
-Sec: 1048  Plane index : 29  WUT --> HAK  weekday : 1 time : 11:05 -- 14:10
-Sec: 1055  Plane index : 29  HAK --> WUT  weekday : 1 time : 15:30 -- 18:35
-Sec: 1062  Plane index : 29  WUT --> HRB  weekday : 1 time : 19:20 -- 21:55
-Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
-Sec: 1023  Plane index : 28  WUT --> ZUH  weekday : 2 time : 14:30 -- 17:25
-Sec: 1030  Plane index : 28  ZUH --> WUT  weekday : 2 time : 18:10 -- 21:05
-Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00
-Sec: 111  Plane index : 4  BAV --> WUT  weekday : 3 time : 20:40 -- 21:45
+tod_num : 580
+Sec: 782  Plane index: 22  DLC --> DTU  weekday: 1 time: 12:00 -- 14:05
+Sec: 789  Plane index: 22  DTU --> DLC  weekday: 1 time: 14:50 -- 16:55
+Sec: 784  Plane index: 22  DLC --> NZH  weekday: 3 time: 12:00 -- 14:30
+Sec: 791  Plane index: 22  NZH --> DLC  weekday: 3 time: 15:15 -- 17:35
+Sec: 743  Plane index: 21  DLC --> XNN  weekday: 4 time: 12:00 -- 14:40
+Sec: 750  Plane index: 21  XNN --> DLC  weekday: 4 time: 15:25 -- 18:10
 two days off
 
-tod_num :132
-Sec: 1026  Plane index : 28  WUT --> ZUH  weekday : 7 time : 14:30 -- 17:25
-Sec: 1033  Plane index : 28  ZUH --> WUT  weekday : 7 time : 18:10 -- 21:05
-Sec: 1040  Plane index : 28  WUT --> HRB  weekday : 7 time : 21:50 -- 00:15
-Sec: 1016  Plane index : 28  HRB --> WUT  weekday : 2 time : 10:50 -- 13:45
-Sec: 1023  Plane index : 28  WUT --> ZUH  weekday : 2 time : 14:30 -- 17:25
-Sec: 1030  Plane index : 28  ZUH --> WUT  weekday : 2 time : 18:10 -- 21:05
-Sec: 104  Plane index : 4  WUT --> BAV  weekday : 3 time : 09:55 -- 11:00
-Sec: 111  Plane index : 4  BAV --> WUT  weekday : 3 time : 20:40 -- 21:45
+tod_num : 529
+Sec: 757  Plane index: 21  DLC --> ENY  weekday: 7 time: 20:50 -- 23:00
+Sec: 405  Plane index: 12  ENY --> HGH  weekday: 1 time: 13:40 -- 16:10
+Sec: 1125  Plane index: 31  HGH --> CTU  weekday: 2 time: 23:55 -- 03:00
+Sec: 727  Plane index: 21  CTU --> ENY  weekday: 3 time: 05:55 -- 07:20
+Sec: 734  Plane index: 21  ENY --> DLC  weekday: 3 time: 09:10 -- 11:00
+Sec: 788  Plane index: 22  DLC --> NBS  weekday: 4 time: 12:00 -- 13:20
+Sec: 795  Plane index: 22  NBS --> DLC  weekday: 4 time: 14:05 -- 15:30
 two days off

@@ -1,14 +1,26 @@
-tod_num :113
-Sec: 939  Plane index : 26  HGH --> CGO  weekday : 4 time : 06:40 -- 08:35
-Sec: 946  Plane index : 26  CGO --> AKU  weekday : 4 time : 09:35 -- 14:35
-Sec: 954  Plane index : 26  AKU --> CGO  weekday : 5 time : 15:30 -- 19:45
-Sec: 961  Plane index : 26  CGO --> HGH  weekday : 5 time : 20:45 -- 22:25
-Sec: 194  Plane index : 6  HGH --> BPE  weekday : 6 time : 13:05 -- 15:15
-Sec: 201  Plane index : 6  BPE --> YNJ  weekday : 6 time : 16:00 -- 17:50
-Sec: 208  Plane index : 6  YNJ --> BPE  weekday : 6 time : 19:45 -- 21:40
-Sec: 917  Plane index : 25  BPE --> DAT  weekday : 7 time : 16:50 -- 18:20
-Sec: 925  Plane index : 25  DAT --> BPE  weekday : 7 time : 19:45 -- 21:05
-Sec: 932  Plane index : 25  BPE --> HGH  weekday : 7 time : 22:00 -- 00:25
+from last week
+tod_num : 104
+Sec: 942  Plane index: 26  HGH --> CGO  weekday: 7 time: 06:40 -- 08:35
+Sec: 949  Plane index: 26  CGO --> AKU  weekday: 7 time: 09:35 -- 14:35
+Sec: 950  Plane index: 26  AKU --> CGO  weekday: 1 time: 15:30 -- 19:45
+Sec: 957  Plane index: 26  CGO --> HGH  weekday: 1 time: 20:45 -- 22:25
+Sec: 714  Plane index: 20  HGH --> ENH  weekday: 2 time: 14:50 -- 17:00
+Sec: 540  Plane index: 15  ENH --> HGH  weekday: 2 time: 21:15 -- 23:05
+Sec: 379  Plane index: 11  HGH --> CKG  weekday: 3 time: 18:05 -- 20:35
+Sec: 386  Plane index: 11  CKG --> HGH  weekday: 3 time: 21:35 -- 00:05
 two days off
 
+tod_num : 22
+Sec: 941  Plane index: 26  HGH --> CGO  weekday: 6 time: 06:40 -- 08:35
+Sec: 948  Plane index: 26  CGO --> AKU  weekday: 6 time: 09:35 -- 14:35
+Sec: 956  Plane index: 26  AKU --> CGO  weekday: 7 time: 15:30 -- 19:45
+Sec: 963  Plane index: 26  CGO --> HGH  weekday: 7 time: 20:45 -- 22:25
+Sec: 978  Plane index: 27  HGH --> BFJ  weekday: 1 time: 12:35 -- 15:10
+Sec: 985  Plane index: 27  BFJ --> JHG  weekday: 1 time: 16:20 -- 17:50
+Sec: 992  Plane index: 27  JHG --> BFJ  weekday: 1 time: 18:35 -- 20:05
+Sec: 999  Plane index: 27  BFJ --> HGH  weekday: 1 time: 21:15 -- 23:40
+Sec: 193  Plane index: 6  HGH --> BPE  weekday: 2 time: 13:05 -- 15:15
+Sec: 200  Plane index: 6  BPE --> YNJ  weekday: 2 time: 16:00 -- 17:50
+Sec: 206  Plane index: 6  YNJ --> BPE  weekday: 2 time: 19:45 -- 21:40
+Sec: 213  Plane index: 6  BPE --> HGH  weekday: 2 time: 22:25 -- 00:40
 two days off

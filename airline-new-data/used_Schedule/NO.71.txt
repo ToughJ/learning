@@ -1,17 +1,20 @@
-tod_num :585
-Sec: 926  Plane index : 25  CTU --> KJH  weekday : 2 time : 12:10 -- 13:45
-Sec: 933  Plane index : 25  KJH --> HGH  weekday : 2 time : 14:45 -- 16:55
-Sec: 274  Plane index : 8  HGH --> PEK  weekday : 2 time : 19:00 -- 21:20
-Sec: 255  Plane index : 8  PEK --> HGH  weekday : 4 time : 08:20 -- 10:35
-Sec: 983  Plane index : 27  HGH --> XFN  weekday : 4 time : 14:30 -- 16:25
-Sec: 990  Plane index : 27  XFN --> CTU  weekday : 4 time : 17:10 -- 19:10
+tod_num : 425
+Sec: 700  Plane index: 20  CTU --> HGH  weekday: 1 time: 05:40 -- 08:25
+Sec: 965  Plane index: 26  HGH --> SZX  weekday: 2 time: 02:00 -- 04:15
+Sec: 1311  Plane index: 37  SZX --> ENH  weekday: 2 time: 06:35 -- 08:35
+Sec: 1318  Plane index: 37  ENH --> XNN  weekday: 2 time: 09:20 -- 11:40
+Sec: 1400  Plane index: 39  XNN --> ZYI  weekday: 3 time: 20:15 -- 22:40
+Sec: 1123  Plane index: 31  ZYI --> HGH  weekday: 4 time: 19:55 -- 22:15
+Sec: 1126  Plane index: 31  HGH --> CTU  weekday: 4 time: 23:55 -- 03:00
 two days off
 
-tod_num :449
-Sec: 1130  Plane index : 31  CTU --> HGH  weekday : 7 time : 05:25 -- 08:10
-Sec: 314  Plane index : 10  HGH --> MIG  weekday : 1 time : 08:25 -- 11:15
-Sec: 321  Plane index : 10  MIG --> LHW  weekday : 1 time : 12:05 -- 13:25
-Sec: 330  Plane index : 10  LHW --> MIG  weekday : 3 time : 16:20 -- 17:40
-Sec: 337  Plane index : 10  MIG --> HGH  weekday : 3 time : 18:35 -- 21:05
-Sec: 704  Plane index : 20  HGH --> CTU  weekday : 3 time : 23:55 -- 03:00
+tod_num : 383
+Sec: 1130  Plane index: 31  CTU --> HGH  weekday: 7 time: 05:25 -- 08:10
+Sec: 0  Plane index: 1  HGH --> SZX  weekday: 1 time: 08:45 -- 11:05
+Sec: 1328  Plane index: 37  SZX --> XNN  weekday: 1 time: 16:20 -- 19:45
+Sec: 1360  Plane index: 38  XNN --> NGB  weekday: 2 time: 11:30 -- 14:40
+Sec: 1367  Plane index: 38  NGB --> XNN  weekday: 2 time: 16:55 -- 20:20
+Sec: 749  Plane index: 21  XNN --> DLC  weekday: 3 time: 15:25 -- 18:10
+Sec: 797  Plane index: 22  DLC --> HDG  weekday: 3 time: 20:10 -- 21:45
+Sec: 804  Plane index: 22  HDG --> CTU  weekday: 3 time: 22:35 -- 01:05
 two days off

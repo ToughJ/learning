@@ -1,10 +1,22 @@
-tod_num :1239
-Sec: 211  Plane index : 6  JIQ --> HGH  weekday : 3 time : 21:20 -- 23:20
-Sec: 220  Plane index : 7  HGH --> WEH  weekday : 4 time : 13:05 -- 15:00
-Sec: 835  Plane index : 23  WEH --> NGB  weekday : 5 time : 13:40 -- 15:25
-Sec: 1244  Plane index : 35  NGB --> CAN  weekday : 6 time : 23:05 -- 01:25
-Sec: 1251  Plane index : 35  CAN --> HGH  weekday : 7 time : 02:25 -- 04:35
-Sec: 135  Plane index : 5  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
+from last week
+tod_num : 1125
+Sec: 125  Plane index: 4  HGH --> INC  weekday: 6 time: 19:05 -- 21:55
+Sec: 83  Plane index: 3  INC --> HGH  weekday: 7 time: 14:10 -- 16:50
+Sec: 1069  Plane index: 30  HGH --> HJJ  weekday: 1 time: 09:40 -- 11:45
+Sec: 1076  Plane index: 30  HJJ --> LJG  weekday: 1 time: 12:35 -- 14:35
+Sec: 1083  Plane index: 30  LJG --> KWL  weekday: 1 time: 15:20 -- 17:05
+Sec: 1090  Plane index: 30  KWL --> WNZ  weekday: 1 time: 17:50 -- 20:05
+Sec: 1189  Plane index: 33  WNZ --> TEN  weekday: 2 time: 14:25 -- 16:35
+Sec: 1196  Plane index: 33  TEN --> LJG  weekday: 2 time: 17:20 -- 19:30
+Sec: 1162  Plane index: 32  LJG --> DYG  weekday: 2 time: 21:10 -- 23:05
+Sec: 1168  Plane index: 32  DYG --> HGH  weekday: 2 time: 23:50 -- 01:40
 two days off
 
+tod_num : 1293
+Sec: 940  Plane index: 26  HGH --> CGO  weekday: 5 time: 06:40 -- 08:35
+Sec: 947  Plane index: 26  CGO --> AKU  weekday: 5 time: 09:35 -- 14:35
+Sec: 955  Plane index: 26  AKU --> CGO  weekday: 6 time: 15:30 -- 19:45
+Sec: 962  Plane index: 26  CGO --> HGH  weekday: 6 time: 20:45 -- 22:25
+Sec: 383  Plane index: 11  HGH --> CKG  weekday: 7 time: 18:05 -- 20:35
+Sec: 390  Plane index: 11  CKG --> HGH  weekday: 7 time: 21:35 -- 00:05
 two days off

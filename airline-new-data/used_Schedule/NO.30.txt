@@ -1,14 +1,22 @@
-tod_num :110
-Sec: 1172  Plane index : 33  WNZ --> KOS  weekday : 5 time : 10:45 -- 15:00
-Sec: 1179  Plane index : 33  KOS --> WNZ  weekday : 5 time : 16:00 -- 19:40
-Sec: 439  Plane index : 13  WNZ --> KWE  weekday : 6 time : 07:15 -- 09:50
-Sec: 446  Plane index : 13  KWE --> WNZ  weekday : 6 time : 10:50 -- 13:15
-Sec: 1188  Plane index : 33  WNZ --> CJU  weekday : 7 time : 15:00 -- 17:00
-Sec: 1195  Plane index : 33  CJU --> WNZ  weekday : 7 time : 20:45 -- 22:45
-Sec: 448  Plane index : 13  WNZ --> XFN  weekday : 1 time : 14:45 -- 16:35
-Sec: 455  Plane index : 13  XFN --> CTU  weekday : 1 time : 17:20 -- 19:25
-Sec: 462  Plane index : 13  CTU --> XFN  weekday : 1 time : 20:25 -- 22:15
-Sec: 469  Plane index : 13  XFN --> WNZ  weekday : 1 time : 23:00 -- 00:45
+from last week
+tod_num : 96
+Sec: 332  Plane index: 10  LHW --> MIG  weekday: 5 time: 16:20 -- 17:40
+Sec: 339  Plane index: 10  MIG --> HGH  weekday: 5 time: 18:35 -- 21:05
+Sec: 346  Plane index: 10  HGH --> PEK  weekday: 5 time: 23:30 -- 01:50
+Sec: 286  Plane index: 9  PEK --> HGH  weekday: 7 time: 05:50 -- 08:05
+Sec: 263  Plane index: 8  HGH --> CAN  weekday: 7 time: 11:35 -- 13:45
+Sec: 266  Plane index: 8  CAN --> HGH  weekday: 1 time: 14:45 -- 17:05
+Sec: 318  Plane index: 10  HGH --> MIG  weekday: 2 time: 07:15 -- 10:05
+Sec: 322  Plane index: 10  MIG --> LHW  weekday: 2 time: 12:05 -- 13:25
 two days off
 
+tod_num : 96
+Sec: 332  Plane index: 10  LHW --> MIG  weekday: 5 time: 16:20 -- 17:40
+Sec: 339  Plane index: 10  MIG --> HGH  weekday: 5 time: 18:35 -- 21:05
+Sec: 346  Plane index: 10  HGH --> PEK  weekday: 5 time: 23:30 -- 01:50
+Sec: 286  Plane index: 9  PEK --> HGH  weekday: 7 time: 05:50 -- 08:05
+Sec: 263  Plane index: 8  HGH --> CAN  weekday: 7 time: 11:35 -- 13:45
+Sec: 266  Plane index: 8  CAN --> HGH  weekday: 1 time: 14:45 -- 17:05
+Sec: 318  Plane index: 10  HGH --> MIG  weekday: 2 time: 07:15 -- 10:05
+Sec: 322  Plane index: 10  MIG --> LHW  weekday: 2 time: 12:05 -- 13:25
 two days off

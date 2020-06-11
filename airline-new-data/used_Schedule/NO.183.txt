@@ -1,11 +1,8 @@
-tod_num :1479
-Sec: 466  Plane index : 13  XIY --> CXR  weekday : 2 time : 23:10 -- 03:35
-Sec: 474  Plane index : 13  CXR --> XIY  weekday : 4 time : 04:20 -- 08:10
+tod_num : 1394
+Sec: 1371  Plane index: 38  NGB --> LYG  weekday: 3 time: 17:10 -- 18:40
+Sec: 1378  Plane index: 38  LYG --> XNN  weekday: 3 time: 19:25 -- 22:25
+Sec: 1361  Plane index: 38  XNN --> NGB  weekday: 4 time: 11:30 -- 14:40
+Sec: 1243  Plane index: 35  NGB --> CAN  weekday: 5 time: 23:05 -- 01:25
+Sec: 1237  Plane index: 35  CAN --> NGB  weekday: 6 time: 06:10 -- 08:20
 two days off
 
-tod_num :1452
-Sec: 468  Plane index : 13  XIY --> CXR  weekday : 6 time : 23:10 -- 03:35
-Sec: 430  Plane index : 12  CXR --> XIY  weekday : 1 time : 04:20 -- 08:10
-Sec: 505  Plane index : 15  XIY --> BFJ  weekday : 2 time : 06:55 -- 08:50
-Sec: 526  Plane index : 15  BFJ --> XIY  weekday : 2 time : 16:40 -- 18:25
-two days off

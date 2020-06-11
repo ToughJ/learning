@@ -1,25 +1,24 @@
 from last week
-tod_num :1196
-Sec: 394  Plane index : 12  ENY --> NKG  weekday : 4 time : 06:35 -- 08:55
-Sec: 403  Plane index : 12  NKG --> ENY  weekday : 4 time : 09:55 -- 12:10
-Sec: 395  Plane index : 12  ENY --> NKG  weekday : 5 time : 06:35 -- 08:55
-Sec: 400  Plane index : 12  NKG --> ENY  weekday : 5 time : 09:55 -- 12:15
-Sec: 764  Plane index : 21  ENY --> CTU  weekday : 6 time : 00:25 -- 02:05
-Sec: 774  Plane index : 22  CTU --> TNA  weekday : 6 time : 06:25 -- 09:00
-Sec: 781  Plane index : 22  TNA --> DLC  weekday : 6 time : 09:50 -- 11:00
-Sec: 785  Plane index : 22  DLC --> NZH  weekday : 7 time : 12:00 -- 14:30
-Sec: 792  Plane index : 22  NZH --> DLC  weekday : 7 time : 15:15 -- 17:35
-Sec: 757  Plane index : 21  DLC --> ENY  weekday : 7 time : 20:50 -- 23:00
+tod_num : 1025
+Sec: 841  Plane index: 23  NGB --> KOW  weekday: 7 time: 17:45 -- 19:20
+Sec: 848  Plane index: 23  KOW --> KWE  weekday: 7 time: 20:05 -- 22:05
+Sec: 858  Plane index: 23  KWE --> HGH  weekday: 7 time: 22:55 -- 01:10
+Sec: 99  Plane index: 4  HGH --> CIF  weekday: 2 time: 06:20 -- 09:10
+Sec: 106  Plane index: 4  CIF --> HRB  weekday: 2 time: 10:05 -- 11:30
+Sec: 973  Plane index: 27  HRB --> HGH  weekday: 3 time: 06:40 -- 10:00
+Sec: 304  Plane index: 9  HGH --> CAN  weekday: 4 time: 02:00 -- 04:10
+Sec: 1235  Plane index: 35  CAN --> NGB  weekday: 4 time: 06:10 -- 08:20
 two days off
 
-tod_num :1327
-Sec: 406  Plane index : 12  ENY --> HGH  weekday : 3 time : 13:40 -- 16:10
-Sec: 379  Plane index : 11  HGH --> CKG  weekday : 3 time : 18:05 -- 20:35
-Sec: 386  Plane index : 11  CKG --> HGH  weekday : 3 time : 21:35 -- 00:05
-Sec: 1010  Plane index : 28  HGH --> HRB  weekday : 5 time : 06:35 -- 10:00
-Sec: 1015  Plane index : 28  HRB --> XUZ  weekday : 5 time : 10:50 -- 13:25
-Sec: 1022  Plane index : 28  XUZ --> ZUH  weekday : 5 time : 14:10 -- 16:45
-Sec: 523  Plane index : 15  ZUH --> BFJ  weekday : 6 time : 13:35 -- 15:40
-Sec: 530  Plane index : 15  BFJ --> XIY  weekday : 6 time : 16:40 -- 18:25
-Sec: 497  Plane index : 14  XIY --> ENY  weekday : 6 time : 23:05 -- 00:10
+tod_num : 280
+Sec: 1369  Plane index: 38  NGB --> XNN  weekday: 6 time: 16:55 -- 20:20
+Sec: 503  Plane index: 36  XNN --> CAN  weekday: 6 time: 23:10 -- 02:30
+Sec: 1349  Plane index: 38  CAN --> XNN  weekday: 1 time: 05:45 -- 09:15
+Sec: 1321  Plane index: 37  XNN --> SZX  weekday: 1 time: 12:00 -- 15:20
+Sec: 11  Plane index: 1  SZX --> HLH  weekday: 2 time: 12:10 -- 16:15
+Sec: 18  Plane index: 1  HLH --> HRB  weekday: 2 time: 17:00 -- 18:05
+Sec: 25  Plane index: 1  HRB --> YNT  weekday: 2 time: 18:55 -- 21:00
+Sec: 819  Plane index: 23  YNT --> SHE  weekday: 3 time: 09:25 -- 10:45
+Sec: 826  Plane index: 23  SHE --> WEH  weekday: 3 time: 11:35 -- 12:55
+Sec: 833  Plane index: 23  WEH --> NGB  weekday: 3 time: 13:40 -- 15:25
 two days off

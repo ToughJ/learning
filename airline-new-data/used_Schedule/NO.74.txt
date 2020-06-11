@@ -1,22 +1,20 @@
-tod_num :607
-Sec: 342  Plane index : 10  HGH --> PEK  weekday : 1 time : 23:30 -- 01:50
-Sec: 281  Plane index : 9  PEK --> HGH  weekday : 2 time : 05:50 -- 08:05
-Sec: 217  Plane index : 7  HGH --> LYI  weekday : 3 time : 06:25 -- 07:55
-Sec: 224  Plane index : 7  LYI --> TYN  weekday : 3 time : 08:40 -- 10:20
-Sec: 231  Plane index : 7  TYN --> LYI  weekday : 3 time : 11:15 -- 12:50
-Sec: 598  Plane index : 17  LYI --> KMG  weekday : 4 time : 19:00 -- 22:20
-Sec: 605  Plane index : 17  KMG --> HGH  weekday : 4 time : 23:20 -- 02:15
+from last week
+tod_num : 443
+Sec: 815  Plane index: 23  CAN --> YNT  weekday: 6 time: 05:40 -- 08:40
+Sec: 48  Plane index: 2  YNT --> HRB  weekday: 6 time: 12:25 -- 14:20
+Sec: 113  Plane index: 4  HRB --> CIF  weekday: 7 time: 19:00 -- 20:40
+Sec: 153  Plane index: 5  CIF --> HGH  weekday: 1 time: 14:55 -- 17:30
+Sec: 378  Plane index: 11  HGH --> CKG  weekday: 2 time: 18:05 -- 20:35
+Sec: 385  Plane index: 11  CKG --> HGH  weekday: 2 time: 21:35 -- 00:05
+Sec: 303  Plane index: 9  HGH --> CAN  weekday: 3 time: 02:00 -- 04:10
 two days off
 
-tod_num :973
-Sec: 135  Plane index : 5  HGH --> JIQ  weekday : 7 time : 06:50 -- 09:10
-Sec: 156  Plane index : 5  JIQ --> HGH  weekday : 7 time : 15:15 -- 17:15
-Sec: 936  Plane index : 26  HGH --> CGO  weekday : 1 time : 06:40 -- 08:35
-Sec: 943  Plane index : 26  CGO --> AKU  weekday : 1 time : 09:35 -- 14:35
-Sec: 951  Plane index : 26  AKU --> CGO  weekday : 2 time : 15:30 -- 19:45
-Sec: 958  Plane index : 26  CGO --> HGH  weekday : 2 time : 20:45 -- 22:25
-Sec: 909  Plane index : 25  HGH --> BPE  weekday : 3 time : 13:45 -- 16:05
-Sec: 916  Plane index : 25  BPE --> DAT  weekday : 3 time : 16:50 -- 18:20
-Sec: 923  Plane index : 25  DAT --> BPE  weekday : 3 time : 19:45 -- 21:05
-Sec: 930  Plane index : 25  BPE --> HGH  weekday : 3 time : 22:00 -- 00:25
+tod_num : 1256
+Sec: 1236  Plane index: 35  CAN --> NGB  weekday: 5 time: 06:10 -- 08:20
+Sec: 1253  Plane index: 35  NGB --> KLO  weekday: 6 time: 11:05 -- 14:45
+Sec: 1260  Plane index: 35  KLO --> NGB  weekday: 6 time: 15:45 -- 19:15
+Sec: 886  Plane index: 24  NGB --> WEH  weekday: 7 time: 16:10 -- 18:00
+Sec: 893  Plane index: 24  WEH --> SHE  weekday: 7 time: 18:45 -- 19:55
+Sec: 900  Plane index: 24  SHE --> YNT  weekday: 7 time: 20:45 -- 22:20
+Sec: 907  Plane index: 24  YNT --> CAN  weekday: 7 time: 23:05 -- 02:30
 two days off

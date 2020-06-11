@@ -1,18 +1,23 @@
-tod_num :241
-Sec: 1162  Plane index : 32  LJG --> DYG  weekday : 2 time : 21:10 -- 23:05
-Sec: 1168  Plane index : 32  DYG --> HGH  weekday : 2 time : 23:50 -- 01:40
-Sec: 137  Plane index : 5  HGH --> JIQ  weekday : 4 time : 08:25 -- 10:40
-Sec: 143  Plane index : 5  JIQ --> CKG  weekday : 4 time : 11:25 -- 12:20
-Sec: 150  Plane index : 5  CKG --> JIQ  weekday : 4 time : 13:20 -- 14:15
-Sec: 158  Plane index : 5  JIQ --> HGH  weekday : 4 time : 15:00 -- 17:10
-Sec: 1071  Plane index : 30  HGH --> HJJ  weekday : 5 time : 09:40 -- 11:45
-Sec: 1078  Plane index : 30  HJJ --> LJG  weekday : 5 time : 12:35 -- 14:35
-Sec: 1087  Plane index : 30  LJG --> KWL  weekday : 5 time : 15:20 -- 17:05
-Sec: 1094  Plane index : 30  KWL --> WNZ  weekday : 5 time : 17:50 -- 20:05
-Sec: 1177  Plane index : 33  WNZ --> HUZ  weekday : 6 time : 08:45 -- 10:30
-Sec: 1184  Plane index : 33  HUZ --> WNZ  weekday : 6 time : 11:15 -- 13:00
-Sec: 1191  Plane index : 33  WNZ --> TEN  weekday : 6 time : 14:20 -- 16:30
-Sec: 1198  Plane index : 33  TEN --> LJG  weekday : 6 time : 17:15 -- 19:25
+tod_num : 177
+Sec: 426  Plane index: 12  XIY --> CXR  weekday: 1 time: 23:10 -- 03:35
+Sec: 431  Plane index: 12  CXR --> XIY  weekday: 3 time: 04:20 -- 08:10
+Sec: 507  Plane index: 15  XIY --> BFJ  weekday: 4 time: 06:55 -- 08:50
+Sec: 514  Plane index: 15  BFJ --> ZUH  weekday: 4 time: 10:40 -- 12:40
+Sec: 521  Plane index: 15  ZUH --> BFJ  weekday: 4 time: 13:35 -- 15:40
+Sec: 528  Plane index: 15  BFJ --> XIY  weekday: 4 time: 16:40 -- 18:25
+Sec: 508  Plane index: 15  XIY --> BFJ  weekday: 5 time: 06:55 -- 08:50
+Sec: 515  Plane index: 15  BFJ --> ZUH  weekday: 5 time: 10:40 -- 12:40
+Sec: 522  Plane index: 15  ZUH --> BFJ  weekday: 5 time: 13:35 -- 15:40
+Sec: 529  Plane index: 15  BFJ --> XIY  weekday: 5 time: 16:40 -- 18:25
 two days off
 
+tod_num : 909
+Sec: 538  Plane index: 15  XIY --> ENH  weekday: 7 time: 19:25 -- 20:30
+Sec: 545  Plane index: 15  ENH --> HGH  weekday: 7 time: 21:15 -- 23:05
+Sec: 1385  Plane index: 39  HGH --> LYA  weekday: 1 time: 13:00 -- 14:50
+Sec: 1392  Plane index: 39  LYA --> XNN  weekday: 1 time: 15:35 -- 17:35
+Sec: 1335  Plane index: 37  XNN --> LYA  weekday: 1 time: 20:35 -- 22:30
+Sec: 1342  Plane index: 37  LYA --> HGH  weekday: 1 time: 23:15 -- 01:05
+Sec: 413  Plane index: 12  HGH --> ENY  weekday: 3 time: 17:15 -- 19:55
+Sec: 420  Plane index: 12  ENY --> XIY  weekday: 3 time: 21:15 -- 22:10
 two days off

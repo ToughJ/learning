@@ -1,12 +1,12 @@
 ToD 0 : 
-JHG --> AVA  weekday : 2 time : 18:40 -- 20:10
-AVA --> HGH  weekday : 2 time : 21:05 -- 23:20
+Sec: 308  Plane index : 9  9JHG --> AVA  weekday : 2 time : 18:40 -- 20:10
+Sec: 311  Plane index : 9  9AVA --> HGH  weekday : 2 time : 21:05 -- 23:20
 ToD 1 : 
-LYA --> HGH  weekday : 3 time : 23:15 -- 01:05
-HGH --> LYA  weekday : 3 time : 13:00 -- 14:50
+Sec: 1343  Plane index : 37  37LYA --> HGH  weekday : 3 time : 23:15 -- 01:05
+Sec: 1386  Plane index : 39  39HGH --> LYA  weekday : 3 time : 13:00 -- 14:50
 ToD 2 : 
-HGH --> BPE  weekday : 4 time : 13:00 -- 15:20
-BPE --> HGH  weekday : 4 time : 22:25 -- 00:40
+Sec: 542  Plane index : 15  15ENH --> HGH  weekday : 4 time : 21:15 -- 23:05
+Sec: 715  Plane index : 20  20HGH --> ENH  weekday : 4 time : 14:50 -- 17:00
 ToD 3 : 
-HGH --> BFJ  weekday : 5 time : 12:35 -- 15:10
-BFJ --> JHG  weekday : 5 time : 16:20 -- 17:50
+Sec: 980  Plane index : 27  27HGH --> BFJ  weekday : 5 time : 12:35 -- 15:10
+Sec: 987  Plane index : 27  BFJ --> JHG  weekday : 5 time : 16:20 -- 17:50

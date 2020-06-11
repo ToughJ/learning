@@ -1,17 +1,24 @@
-tod_num :49
-Sec: 71  Plane index : 3  URC --> INC  weekday : 2 time : 10:15 -- 13:10
-Sec: 78  Plane index : 3  INC --> HGH  weekday : 2 time : 14:10 -- 16:50
-Sec: 353  Plane index : 11  HGH --> CSX  weekday : 3 time : 06:45 -- 08:35
-Sec: 360  Plane index : 11  CSX --> ACX  weekday : 3 time : 09:35 -- 11:35
-Sec: 367  Plane index : 11  ACX --> CSX  weekday : 3 time : 12:25 -- 14:25
-Sec: 374  Plane index : 11  CSX --> HGH  weekday : 3 time : 15:25 -- 17:00
-Sec: 657  Plane index : 19  HGH --> WDS  weekday : 4 time : 06:45 -- 09:10
-Sec: 662  Plane index : 19  WDS --> XIY  weekday : 4 time : 09:55 -- 10:55
-Sec: 669  Plane index : 19  XIY --> HET  weekday : 4 time : 11:55 -- 13:45
-Sec: 676  Plane index : 19  HET --> CIF  weekday : 4 time : 14:30 -- 15:55
-Sec: 684  Plane index : 19  CIF --> HET  weekday : 5 time : 20:20 -- 21:40
-Sec: 691  Plane index : 19  HET --> XIY  weekday : 5 time : 22:25 -- 00:15
-Sec: 699  Plane index : 19  XIY --> URC  weekday : 6 time : 02:00 -- 05:25
+from last week
+tod_num : 25
+Sec: 1334  Plane index: 37  CSX --> XNN  weekday: 6 time: 16:55 -- 19:30
+Sec: 1359  Plane index: 38  XNN --> LYG  weekday: 7 time: 10:00 -- 12:40
+Sec: 1366  Plane index: 38  LYG --> NGB  weekday: 7 time: 13:25 -- 14:45
+Sec: 1373  Plane index: 38  NGB --> LYG  weekday: 7 time: 17:10 -- 18:40
+Sec: 1380  Plane index: 38  LYG --> XNN  weekday: 7 time: 19:25 -- 22:25
+Sec: 1321  Plane index: 37  XNN --> SZX  weekday: 1 time: 12:00 -- 15:20
+Sec: 1328  Plane index: 37  SZX --> XNN  weekday: 1 time: 16:20 -- 19:45
+Sec: 1325  Plane index: 37  XNN --> CSX  weekday: 2 time: 12:25 -- 14:50
+Sec: 1221  Plane index: 34  CSX --> NNG  weekday: 2 time: 20:10 -- 21:45
+Sec: 1228  Plane index: 34  NNG --> CSX  weekday: 2 time: 22:35 -- 00:15
 two days off
 
+tod_num : 83
+Sec: 1205  Plane index: 34  CSX --> NGB  weekday: 5 time: 06:45 -- 08:25
+Sec: 1212  Plane index: 34  NGB --> CSX  weekday: 5 time: 10:00 -- 11:40
+Sec: 1209  Plane index: 34  CSX --> ZUH  weekday: 6 time: 07:45 -- 09:20
+Sec: 1216  Plane index: 34  ZUH --> CSX  weekday: 6 time: 14:10 -- 15:45
+Sec: 1206  Plane index: 34  CSX --> NGB  weekday: 7 time: 06:45 -- 08:25
+Sec: 1213  Plane index: 34  NGB --> CSX  weekday: 7 time: 10:00 -- 11:40
+Sec: 1203  Plane index: 34  CSX --> NGB  weekday: 1 time: 06:55 -- 08:35
+Sec: 1210  Plane index: 34  NGB --> CSX  weekday: 1 time: 09:20 -- 11:10
 two days off

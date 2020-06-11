@@ -1,6 +1,6 @@
 ToD 0 : 
-HGH --> WUH  weekday : 4 time : 06:45 -- 08:30
-WUH --> HGH  weekday : 4 time : 15:30 -- 17:00
+Sec: 509  Plane index : 15  15XIY --> BFJ  weekday : 6 time : 06:55 -- 08:50
 ToD 1 : 
+Sec: 531  Plane index : 15  BFJ --> XIY  weekday : 7 time : 16:40 -- 18:25
 ToD 2 : 
 ToD 3 : 

@@ -1,17 +1,22 @@
-tod_num :1340
-Sec: 259  Plane index : 8  HGH --> CAN  weekday : 1 time : 11:35 -- 13:45
-Sec: 266  Plane index : 8  CAN --> HGH  weekday : 1 time : 14:45 -- 17:05
-Sec: 273  Plane index : 8  HGH --> PEK  weekday : 1 time : 19:00 -- 21:20
-Sec: 254  Plane index : 8  PEK --> HGH  weekday : 3 time : 08:20 -- 10:35
+from last week
+tod_num : 1359
+Sec: 289  Plane index: 9  HGH --> LHW  weekday: 5 time: 12:00 -- 15:00
+Sec: 296  Plane index: 9  LHW --> HGH  weekday: 5 time: 20:15 -- 23:00
+Sec: 222  Plane index: 7  HGH --> WEH  weekday: 6 time: 12:15 -- 14:05
+Sec: 243  Plane index: 7  WEH --> HGH  weekday: 6 time: 21:20 -- 23:20
+Sec: 247  Plane index: 7  HGH --> HZG  weekday: 7 time: 15:55 -- 18:25
+Sec: 250  Plane index: 7  HZG --> HGH  weekday: 7 time: 21:20 -- 23:30
+Sec: 244  Plane index: 7  HGH --> HZG  weekday: 1 time: 15:55 -- 18:25
+Sec: 248  Plane index: 7  HZG --> HGH  weekday: 1 time: 21:20 -- 23:30
 two days off
 
-tod_num :1359
-Sec: 289  Plane index : 9  HGH --> LHW  weekday : 5 time : 12:00 -- 15:00
-Sec: 296  Plane index : 9  LHW --> HGH  weekday : 5 time : 20:15 -- 23:00
-Sec: 222  Plane index : 7  HGH --> WEH  weekday : 6 time : 12:15 -- 14:05
-Sec: 243  Plane index : 7  WEH --> HGH  weekday : 6 time : 21:20 -- 23:20
-Sec: 247  Plane index : 7  HGH --> HZG  weekday : 7 time : 15:55 -- 18:25
-Sec: 250  Plane index : 7  HZG --> HGH  weekday : 7 time : 21:20 -- 23:30
-Sec: 244  Plane index : 7  HGH --> HZG  weekday : 1 time : 15:55 -- 18:25
-Sec: 248  Plane index : 7  HZG --> HGH  weekday : 1 time : 21:20 -- 23:30
+tod_num : 358
+Sec: 100  Plane index: 4  HGH --> CIF  weekday: 4 time: 06:20 -- 09:10
+Sec: 107  Plane index: 4  CIF --> HRB  weekday: 4 time: 10:05 -- 11:30
+Sec: 975  Plane index: 27  HRB --> HGH  weekday: 5 time: 06:40 -- 10:00
+Sec: 306  Plane index: 9  HGH --> CAN  weekday: 6 time: 02:00 -- 04:10
+Sec: 1354  Plane index: 38  CAN --> XNN  weekday: 6 time: 05:45 -- 09:15
+Sec: 1402  Plane index: 39  XNN --> ZYI  weekday: 7 time: 20:15 -- 22:40
+Sec: 1409  Plane index: 39  ZYI --> SZX  weekday: 7 time: 23:25 -- 01:15
+Sec: 1413  Plane index: 39  SZX --> HGH  weekday: 1 time: 02:15 -- 04:20
 two days off

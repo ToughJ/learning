@@ -1,11 +1,10 @@
-tod_num :46
-Sec: 371  Plane index : 11  WUH --> HGH  weekday : 2 time : 15:30 -- 17:00
-Sec: 124  Plane index : 4  HGH --> INC  weekday : 2 time : 19:05 -- 21:55
-Sec: 127  Plane index : 4  INC --> URC  weekday : 2 time : 22:40 -- 01:45
-Sec: 130  Plane index : 4  URC --> XIY  weekday : 4 time : 02:45 -- 05:55
-Sec: 646  Plane index : 18  XIY --> WDS  weekday : 5 time : 21:20 -- 22:25
-Sec: 650  Plane index : 18  WDS --> HGH  weekday : 5 time : 23:10 -- 01:05
-Sec: 352  Plane index : 11  HGH --> WUH  weekday : 6 time : 06:45 -- 08:30
+tod_num : 23
+Sec: 199  Plane index: 6  BPE --> YNJ  weekday: 4 time: 16:05 -- 17:55
+Sec: 207  Plane index: 6  YNJ --> BPE  weekday: 4 time: 19:45 -- 21:40
+Sec: 214  Plane index: 6  BPE --> HGH  weekday: 4 time: 22:25 -- 00:40
+Sec: 41  Plane index: 2  HGH --> YNT  weekday: 6 time: 09:25 -- 11:15
+Sec: 48  Plane index: 2  YNT --> HRB  weekday: 6 time: 12:25 -- 14:20
+Sec: 977  Plane index: 27  HRB --> HGH  weekday: 7 time: 06:40 -- 10:00
+Sec: 910  Plane index: 25  HGH --> BPE  weekday: 7 time: 13:45 -- 16:05
 two days off
 
-two days off

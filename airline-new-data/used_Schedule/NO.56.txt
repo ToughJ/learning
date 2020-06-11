@@ -1,12 +1,27 @@
-tod_num :347
-Sec: 576  Plane index : 17  KMG --> LYI  weekday : 3 time : 08:50 -- 12:05
-Sec: 238  Plane index : 7  LYI --> HGH  weekday : 3 time : 13:35 -- 14:50
-Sec: 275  Plane index : 8  HGH --> PEK  weekday : 3 time : 19:00 -- 21:20
-Sec: 256  Plane index : 8  PEK --> HGH  weekday : 5 time : 08:20 -- 10:35
-Sec: 1387  Plane index : 39  HGH --> LYA  weekday : 5 time : 13:00 -- 14:50
-Sec: 1394  Plane index : 39  LYA --> XNN  weekday : 5 time : 15:35 -- 17:35
-Sec: 1376  Plane index : 38  XNN --> HGH  weekday : 6 time : 21:40 -- 00:35
-Sec: 615  Plane index : 17  HGH --> KMG  weekday : 7 time : 03:15 -- 06:20
+tod_num : 233
+Sec: 136  Plane index: 5  HGH --> JIQ  weekday: 2 time: 08:25 -- 10:40
+Sec: 142  Plane index: 5  JIQ --> CKG  weekday: 2 time: 11:25 -- 12:20
+Sec: 149  Plane index: 5  CKG --> JIQ  weekday: 2 time: 13:20 -- 14:15
+Sec: 157  Plane index: 5  JIQ --> HGH  weekday: 2 time: 15:00 -- 17:10
+Sec: 1008  Plane index: 28  HGH --> HRB  weekday: 3 time: 06:35 -- 10:00
+Sec: 1014  Plane index: 28  HRB --> XUZ  weekday: 3 time: 10:50 -- 13:25
+Sec: 1021  Plane index: 28  XUZ --> ZUH  weekday: 3 time: 14:10 -- 16:45
+Sec: 521  Plane index: 15  ZUH --> BFJ  weekday: 4 time: 13:35 -- 15:40
+Sec: 528  Plane index: 15  BFJ --> XIY  weekday: 4 time: 16:40 -- 18:25
+Sec: 535  Plane index: 15  XIY --> ENH  weekday: 4 time: 19:25 -- 20:30
+Sec: 542  Plane index: 15  ENH --> HGH  weekday: 4 time: 21:15 -- 23:05
+Sec: 191  Plane index: 6  HGH --> JIQ  weekday: 5 time: 13:50 -- 16:10
+Sec: 198  Plane index: 6  JIQ --> CKG  weekday: 5 time: 17:20 -- 18:15
+Sec: 205  Plane index: 6  CKG --> JIQ  weekday: 5 time: 19:20 -- 20:15
+Sec: 212  Plane index: 6  JIQ --> HGH  weekday: 5 time: 21:20 -- 23:20
 two days off
 
+tod_num : 1123
+Sec: 348  Plane index: 10  HGH --> PEK  weekday: 7 time: 23:30 -- 01:50
+Sec: 280  Plane index: 9  PEK --> HGH  weekday: 1 time: 05:50 -- 08:05
+Sec: 39  Plane index: 2  HGH --> YNT  weekday: 2 time: 09:25 -- 11:15
+Sec: 46  Plane index: 2  YNT --> HRB  weekday: 2 time: 12:25 -- 14:20
+Sec: 973  Plane index: 27  HRB --> HGH  weekday: 3 time: 06:40 -- 10:00
+Sec: 190  Plane index: 6  HGH --> JIQ  weekday: 3 time: 13:50 -- 16:10
+Sec: 158  Plane index: 5  JIQ --> HGH  weekday: 4 time: 15:00 -- 17:10
 two days off

@@ -1,26 +1,17 @@
-tod_num :14
-Sec: 859  Plane index : 24  HGH --> KWE  weekday : 1 time : 06:20 -- 08:50
-Sec: 866  Plane index : 24  KWE --> KOW  weekday : 1 time : 09:40 -- 11:40
-Sec: 873  Plane index : 24  KOW --> NGB  weekday : 1 time : 12:25 -- 13:50
-Sec: 1255  Plane index : 35  NGB --> KOW  weekday : 2 time : 09:05 -- 10:40
-Sec: 1262  Plane index : 35  KOW --> KMG  weekday : 2 time : 11:25 -- 13:45
-Sec: 1266  Plane index : 35  KMG --> KOW  weekday : 2 time : 14:45 -- 17:10
-Sec: 1270  Plane index : 35  KOW --> NGB  weekday : 2 time : 17:55 -- 19:15
-Sec: 1211  Plane index : 34  NGB --> CSX  weekday : 3 time : 09:55 -- 11:40
-Sec: 1218  Plane index : 34  CSX --> KOS  weekday : 3 time : 12:45 -- 16:45
-Sec: 1225  Plane index : 34  KOS --> CSX  weekday : 3 time : 17:55 -- 20:50
-Sec: 1333  Plane index : 37  CSX --> XNN  weekday : 4 time : 16:55 -- 19:30
-Sec: 1340  Plane index : 37  XNN --> HIA  weekday : 4 time : 20:35 -- 23:10
-Sec: 1347  Plane index : 37  HIA --> HGH  weekday : 4 time : 23:55 -- 01:05
+tod_num : 10
+Sec: 1207  Plane index: 34  CSX --> ZUH  weekday: 2 time: 07:45 -- 09:20
+Sec: 1214  Plane index: 34  ZUH --> CSX  weekday: 2 time: 14:10 -- 15:45
+Sec: 1204  Plane index: 34  CSX --> NGB  weekday: 3 time: 06:45 -- 08:25
+Sec: 1211  Plane index: 34  NGB --> CSX  weekday: 3 time: 09:55 -- 11:40
+Sec: 1222  Plane index: 34  CSX --> NNG  weekday: 4 time: 20:10 -- 21:45
+Sec: 1229  Plane index: 34  NNG --> CSX  weekday: 4 time: 22:35 -- 00:15
 two days off
 
-tod_num :996
-Sec: 970  Plane index : 26  HGH --> SZX  weekday : 7 time : 02:00 -- 04:15
-Sec: 1310  Plane index : 37  SZX --> ZYI  weekday : 7 time : 06:20 -- 08:20
-Sec: 1317  Plane index : 37  ZYI --> XNN  weekday : 7 time : 09:05 -- 11:15
-Sec: 1356  Plane index : 38  XNN --> LYG  weekday : 1 time : 10:00 -- 12:40
-Sec: 1363  Plane index : 38  LYG --> NGB  weekday : 1 time : 13:25 -- 14:45
-Sec: 838  Plane index : 23  NGB --> KOW  weekday : 1 time : 17:45 -- 19:20
-Sec: 845  Plane index : 23  KOW --> KWE  weekday : 1 time : 20:05 -- 22:05
-Sec: 853  Plane index : 23  KWE --> HGH  weekday : 2 time : 22:55 -- 01:10
+tod_num : 1026
+Sec: 1181  Plane index: 33  CSX --> WNZ  weekday: 7 time: 11:35 -- 13:10
+Sec: 1188  Plane index: 33  WNZ --> CJU  weekday: 7 time: 15:00 -- 17:00
+Sec: 1195  Plane index: 33  CJU --> WNZ  weekday: 7 time: 20:45 -- 22:45
+Sec: 1185  Plane index: 33  WNZ --> CSX  weekday: 1 time: 20:30 -- 22:10
+Sec: 1221  Plane index: 34  CSX --> NNG  weekday: 2 time: 20:10 -- 21:45
+Sec: 1228  Plane index: 34  NNG --> CSX  weekday: 2 time: 22:35 -- 00:15
 two days off

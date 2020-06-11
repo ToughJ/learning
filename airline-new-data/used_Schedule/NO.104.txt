@@ -1,22 +1,17 @@
-tod_num :1188
-Sec: 0  Plane index : 1  HGH --> SZX  weekday : 1 time : 08:45 -- 11:05
-Sec: 7  Plane index : 1  SZX --> XUZ  weekday : 1 time : 12:10 -- 14:25
-Sec: 14  Plane index : 1  XUZ --> HRB  weekday : 1 time : 15:10 -- 17:40
-Sec: 21  Plane index : 1  HRB --> HLH  weekday : 1 time : 18:55 -- 20:15
-Sec: 18  Plane index : 1  HLH --> HRB  weekday : 2 time : 17:00 -- 18:05
-Sec: 25  Plane index : 1  HRB --> YNT  weekday : 2 time : 18:55 -- 21:00
-Sec: 32  Plane index : 1  YNT --> HGH  weekday : 2 time : 21:45 -- 23:45
-Sec: 245  Plane index : 7  HGH --> HZG  weekday : 3 time : 15:55 -- 18:25
-Sec: 249  Plane index : 7  HZG --> HGH  weekday : 3 time : 21:20 -- 23:30
+from last week
+tod_num : 930
+Sec: 202  Plane index: 6  BAV --> WUT  weekday: 7 time: 20:40 -- 21:45
+Sec: 209  Plane index: 6  WUT --> HGH  weekday: 7 time: 22:30 -- 00:45
+Sec: 302  Plane index: 9  HGH --> CAN  weekday: 2 time: 02:00 -- 04:10
+Sec: 1247  Plane index: 35  CAN --> HGH  weekday: 3 time: 02:25 -- 04:35
+Sec: 97  Plane index: 4  HGH --> WUT  weekday: 3 time: 06:50 -- 09:10
+Sec: 104  Plane index: 4  WUT --> BAV  weekday: 3 time: 09:55 -- 11:00
 two days off
 
-tod_num :339
-Sec: 969  Plane index : 26  HGH --> SZX  weekday : 6 time : 02:00 -- 04:15
-Sec: 1313  Plane index : 37  SZX --> ENH  weekday : 6 time : 06:35 -- 08:35
-Sec: 767  Plane index : 21  ENH --> CTU  weekday : 7 time : 00:30 -- 02:00
-Sec: 729  Plane index : 21  CTU --> ENY  weekday : 7 time : 05:55 -- 07:20
-Sec: 761  Plane index : 21  ENY --> CTU  weekday : 1 time : 00:25 -- 02:05
-Sec: 700  Plane index : 20  CTU --> HGH  weekday : 1 time : 05:40 -- 08:25
-Sec: 221  Plane index : 7  HGH --> WEH  weekday : 2 time : 12:15 -- 14:05
-Sec: 241  Plane index : 7  WEH --> HGH  weekday : 2 time : 21:20 -- 23:20
+tod_num : 1349
+Sec: 112  Plane index: 4  BAV --> WUT  weekday: 5 time: 20:40 -- 21:45
+Sec: 119  Plane index: 4  WUT --> HGH  weekday: 5 time: 22:30 -- 00:45
+Sec: 1012  Plane index: 28  HGH --> HRB  weekday: 7 time: 06:35 -- 10:00
+Sec: 1019  Plane index: 28  HRB --> WUT  weekday: 7 time: 10:50 -- 13:45
+Sec: 195  Plane index: 6  WUT --> BAV  weekday: 7 time: 16:05 -- 17:10
 two days off

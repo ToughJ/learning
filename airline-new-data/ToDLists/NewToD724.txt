@@ -1,10 +1,13 @@
 ToD 0 : 
-JIQ --> CKG  weekday : 7 time : 11:25 -- 12:20
-CKG --> JIQ  weekday : 7 time : 13:20 -- 14:15
+NGB --> CSX  weekday : 1 time : 22:35 -- 00:15
+LYG --> NGB  weekday : 1 time : 13:25 -- 14:45
 ToD 1 : 
-JIQ --> CKG  weekday : 3 time : 17:20 -- 18:15
-CKG --> JIQ  weekday : 3 time : 19:20 -- 20:15
-JIQ --> CKG  weekday : 3 time : 11:25 -- 12:20
-CKG --> JIQ  weekday : 3 time : 13:20 -- 14:15
+CSX --> NGB  weekday : 3 time : 06:45 -- 08:25
 ToD 2 : 
+NGB --> WEH  weekday : 4 time : 16:10 -- 18:00
+WEH --> SHE  weekday : 4 time : 18:45 -- 19:55
+SHE --> YNT  weekday : 4 time : 20:45 -- 22:20
+YNT --> CAN  weekday : 4 time : 23:05 -- 02:30
 ToD 3 : 
+CAN --> NGB  weekday : 1 time : 06:10 -- 08:20
+NGB --> LYG  weekday : 1 time : 17:10 -- 18:40

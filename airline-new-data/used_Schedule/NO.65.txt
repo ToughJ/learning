@@ -1,15 +1,22 @@
-tod_num :467
-Sec: 888  Plane index : 24  WEH --> SHE  weekday : 2 time : 18:45 -- 19:55
-Sec: 895  Plane index : 24  SHE --> YNT  weekday : 2 time : 20:45 -- 22:20
-Sec: 902  Plane index : 24  YNT --> CAN  weekday : 2 time : 23:05 -- 02:30
-Sec: 1248  Plane index : 35  CAN --> HGH  weekday : 4 time : 02:25 -- 04:35
-Sec: 913  Plane index : 25  HGH --> KJH  weekday : 4 time : 06:30 -- 08:55
-Sec: 920  Plane index : 25  KJH --> CTU  weekday : 4 time : 09:40 -- 11:10
-Sec: 702  Plane index : 20  CTU --> HGH  weekday : 5 time : 05:40 -- 08:25
-Sec: 262  Plane index : 8  HGH --> CAN  weekday : 5 time : 11:35 -- 13:45
-Sec: 815  Plane index : 23  CAN --> YNT  weekday : 6 time : 05:40 -- 08:40
-Sec: 822  Plane index : 23  YNT --> SHE  weekday : 6 time : 09:25 -- 10:45
-Sec: 829  Plane index : 23  SHE --> WEH  weekday : 6 time : 11:35 -- 12:55
+from last week
+tod_num : 333
+Sec: 1401  Plane index: 39  XNN --> ZYI  weekday: 5 time: 20:15 -- 22:40
+Sec: 1408  Plane index: 39  ZYI --> SZX  weekday: 5 time: 23:25 -- 01:15
+Sec: 1418  Plane index: 39  SZX --> HGH  weekday: 6 time: 02:15 -- 04:20
+Sec: 307  Plane index: 9  HGH --> CAN  weekday: 7 time: 02:00 -- 04:10
+Sec: 1231  Plane index: 34  CAN --> HGH  weekday: 1 time: 02:25 -- 04:35
+Sec: 1274  Plane index: 36  HGH --> XNN  weekday: 1 time: 07:15 -- 10:25
+Sec: 1285  Plane index: 36  XNN --> NKG  weekday: 2 time: 10:20 -- 12:55
+Sec: 1293  Plane index: 36  NKG --> XNN  weekday: 2 time: 13:55 -- 16:45
 two days off
 
+tod_num : 1222
+Sec: 502  Plane index: 36  XNN --> CAN  weekday: 4 time: 23:10 -- 02:30
+Sec: 1353  Plane index: 38  CAN --> XNN  weekday: 5 time: 05:45 -- 09:15
+Sec: 1287  Plane index: 36  XNN --> NKG  weekday: 6 time: 10:20 -- 12:55
+Sec: 1292  Plane index: 36  NKG --> XNN  weekday: 6 time: 16:05 -- 18:55
+Sec: 1284  Plane index: 36  XNN --> HDG  weekday: 7 time: 11:10 -- 13:15
+Sec: 1291  Plane index: 36  HDG --> XUZ  weekday: 7 time: 14:00 -- 15:25
+Sec: 1298  Plane index: 36  XUZ --> HDG  weekday: 7 time: 16:10 -- 17:40
+Sec: 1302  Plane index: 36  HDG --> XNN  weekday: 7 time: 18:25 -- 20:40
 two days off

@@ -1,10 +1,17 @@
-tod_num :1189
-Sec: 698  Plane index : 19  XIY --> URC  weekday : 4 time : 02:00 -- 05:25
-Sec: 94  Plane index : 3  URC --> XIY  weekday : 5 time : 02:45 -- 05:55
-Sec: 481  Plane index : 14  XIY --> MFM  weekday : 5 time : 09:10 -- 12:35
-Sec: 491  Plane index : 14  MFM --> ENH  weekday : 7 time : 13:55 -- 15:40
-Sec: 500  Plane index : 14  ENH --> MFM  weekday : 7 time : 16:25 -- 18:25
-Sec: 489  Plane index : 14  MFM --> XIY  weekday : 7 time : 19:20 -- 22:05
+tod_num : 943
+Sec: 430  Plane index: 12  CXR --> XIY  weekday: 1 time: 04:20 -- 08:10
+Sec: 533  Plane index: 15  XIY --> ENH  weekday: 2 time: 19:25 -- 20:30
+Sec: 540  Plane index: 15  ENH --> HGH  weekday: 2 time: 21:15 -- 23:05
+Sec: 413  Plane index: 12  HGH --> ENY  weekday: 3 time: 17:15 -- 19:55
+Sec: 420  Plane index: 12  ENY --> XIY  weekday: 3 time: 21:15 -- 22:10
+Sec: 427  Plane index: 12  XIY --> CXR  weekday: 3 time: 23:10 -- 03:35
 two days off
 
+tod_num : 856
+Sec: 433  Plane index: 12  CXR --> XIY  weekday: 7 time: 04:20 -- 08:10
+Sec: 504  Plane index: 15  XIY --> BFJ  weekday: 1 time: 06:55 -- 08:50
+Sec: 511  Plane index: 15  BFJ --> ZUH  weekday: 1 time: 10:40 -- 12:40
+Sec: 518  Plane index: 15  ZUH --> BFJ  weekday: 1 time: 13:35 -- 15:40
+Sec: 525  Plane index: 15  BFJ --> XIY  weekday: 1 time: 16:40 -- 18:25
+Sec: 466  Plane index: 13  XIY --> CXR  weekday: 2 time: 23:10 -- 03:35
 two days off
